@@ -1,0 +1,15 @@
+C:\Users\mavez\source\repos\SP 7\SP 7 (lab-dz)\bin\Debug\net6.0\SP 7 (lab-dz).exe
+C:\Users\mavez\source\repos\SP 7\SP 7 (lab-dz)\bin\Debug\net6.0\SP 7 (lab-dz).deps.json
+C:\Users\mavez\source\repos\SP 7\SP 7 (lab-dz)\bin\Debug\net6.0\SP 7 (lab-dz).runtimeconfig.json
+C:\Users\mavez\source\repos\SP 7\SP 7 (lab-dz)\bin\Debug\net6.0\SP 7 (lab-dz).dll
+C:\Users\mavez\source\repos\SP 7\SP 7 (lab-dz)\bin\Debug\net6.0\SP 7 (lab-dz).pdb
+C:\Users\mavez\source\repos\SP 7\SP 7 (lab-dz)\obj\Debug\net6.0\SP 7 (lab-dz).csproj.AssemblyReference.cache
+C:\Users\mavez\source\repos\SP 7\SP 7 (lab-dz)\obj\Debug\net6.0\SP 7 (lab-dz).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mavez\source\repos\SP 7\SP 7 (lab-dz)\obj\Debug\net6.0\SP 7 (lab-dz).AssemblyInfoInputs.cache
+C:\Users\mavez\source\repos\SP 7\SP 7 (lab-dz)\obj\Debug\net6.0\SP 7 (lab-dz).AssemblyInfo.cs
+C:\Users\mavez\source\repos\SP 7\SP 7 (lab-dz)\obj\Debug\net6.0\SP 7 (lab-dz).csproj.CoreCompileInputs.cache
+C:\Users\mavez\source\repos\SP 7\SP 7 (lab-dz)\obj\Debug\net6.0\SP 7 (lab-dz).dll
+C:\Users\mavez\source\repos\SP 7\SP 7 (lab-dz)\obj\Debug\net6.0\refint\SP 7 (lab-dz).dll
+C:\Users\mavez\source\repos\SP 7\SP 7 (lab-dz)\obj\Debug\net6.0\SP 7 (lab-dz).pdb
+C:\Users\mavez\source\repos\SP 7\SP 7 (lab-dz)\obj\Debug\net6.0\SP 7 (lab-dz).genruntimeconfig.cache
+C:\Users\mavez\source\repos\SP 7\SP 7 (lab-dz)\obj\Debug\net6.0\ref\SP 7 (lab-dz).dll

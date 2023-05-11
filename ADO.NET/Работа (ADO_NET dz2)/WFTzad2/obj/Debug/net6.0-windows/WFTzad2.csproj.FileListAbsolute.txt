@@ -1,0 +1,55 @@
+C:\Users\mavez\source\repos\WFTzad2\WFTzad2\bin\Debug\net6.0-windows\WFTzad2.exe
+C:\Users\mavez\source\repos\WFTzad2\WFTzad2\bin\Debug\net6.0-windows\WFTzad2.deps.json
+C:\Users\mavez\source\repos\WFTzad2\WFTzad2\bin\Debug\net6.0-windows\WFTzad2.runtimeconfig.json
+C:\Users\mavez\source\repos\WFTzad2\WFTzad2\bin\Debug\net6.0-windows\WFTzad2.dll
+C:\Users\mavez\source\repos\WFTzad2\WFTzad2\bin\Debug\net6.0-windows\WFTzad2.pdb
+C:\Users\mavez\source\repos\WFTzad2\WFTzad2\obj\Debug\net6.0-windows\WFTzad2.csproj.AssemblyReference.cache
+C:\Users\mavez\source\repos\WFTzad2\WFTzad2\obj\Debug\net6.0-windows\WFTzad2.Form1.resources
+C:\Users\mavez\source\repos\WFTzad2\WFTzad2\obj\Debug\net6.0-windows\WFTzad2.csproj.GenerateResource.cache
+C:\Users\mavez\source\repos\WFTzad2\WFTzad2\obj\Debug\net6.0-windows\WFTzad2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mavez\source\repos\WFTzad2\WFTzad2\obj\Debug\net6.0-windows\WFTzad2.AssemblyInfoInputs.cache
+C:\Users\mavez\source\repos\WFTzad2\WFTzad2\obj\Debug\net6.0-windows\WFTzad2.AssemblyInfo.cs
+C:\Users\mavez\source\repos\WFTzad2\WFTzad2\obj\Debug\net6.0-windows\WFTzad2.csproj.CoreCompileInputs.cache
+C:\Users\mavez\source\repos\WFTzad2\WFTzad2\obj\Debug\net6.0-windows\WFTzad2.dll
+C:\Users\mavez\source\repos\WFTzad2\WFTzad2\obj\Debug\net6.0-windows\refint\WFTzad2.dll
+C:\Users\mavez\source\repos\WFTzad2\WFTzad2\obj\Debug\net6.0-windows\WFTzad2.pdb
+C:\Users\mavez\source\repos\WFTzad2\WFTzad2\obj\Debug\net6.0-windows\WFTzad2.genruntimeconfig.cache
+C:\Users\mavez\source\repos\WFTzad2\WFTzad2\obj\Debug\net6.0-windows\ref\WFTzad2.dll
+C:\Users\mavez\source\repos\WFTzad2\WFTzad2\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\mavez\source\repos\WFTzad2\WFTzad2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\mavez\source\repos\WFTzad2\WFTzad2\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\mavez\source\repos\WFTzad2\WFTzad2\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\mavez\source\repos\WFTzad2\WFTzad2\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mavez\source\repos\WFTzad2\WFTzad2\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mavez\source\repos\WFTzad2\WFTzad2\obj\Debug\net6.0-windows\WFTzad2.csproj.CopyComplete
+C:\Users\mavez\source\repos\WFTzad2\WFTzad2\obj\Debug\net6.0-windows\WFTzad2.AddType.resources
+C:\Users\mavez\source\repos\WFTzad2\WFTzad2\obj\Debug\net6.0-windows\WFTzad2.AddItem.resources
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Работа (ADO_NET dz2)\WFTzad2\bin\Debug\net6.0-windows\WFTzad2.exe
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Работа (ADO_NET dz2)\WFTzad2\bin\Debug\net6.0-windows\WFTzad2.dll.config
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Работа (ADO_NET dz2)\WFTzad2\bin\Debug\net6.0-windows\WFTzad2.deps.json
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Работа (ADO_NET dz2)\WFTzad2\bin\Debug\net6.0-windows\WFTzad2.runtimeconfig.json
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Работа (ADO_NET dz2)\WFTzad2\bin\Debug\net6.0-windows\WFTzad2.dll
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Работа (ADO_NET dz2)\WFTzad2\bin\Debug\net6.0-windows\WFTzad2.pdb
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Работа (ADO_NET dz2)\WFTzad2\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Работа (ADO_NET dz2)\WFTzad2\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Работа (ADO_NET dz2)\WFTzad2\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Работа (ADO_NET dz2)\WFTzad2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Работа (ADO_NET dz2)\WFTzad2\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Работа (ADO_NET dz2)\WFTzad2\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Работа (ADO_NET dz2)\WFTzad2\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Работа (ADO_NET dz2)\WFTzad2\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Работа (ADO_NET dz2)\WFTzad2\obj\Debug\net6.0-windows\WFTzad2.csproj.AssemblyReference.cache
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Работа (ADO_NET dz2)\WFTzad2\obj\Debug\net6.0-windows\WFTzad2.AddItem.resources
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Работа (ADO_NET dz2)\WFTzad2\obj\Debug\net6.0-windows\WFTzad2.Form1.resources
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Работа (ADO_NET dz2)\WFTzad2\obj\Debug\net6.0-windows\WFTzad2.AddType.resources
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Работа (ADO_NET dz2)\WFTzad2\obj\Debug\net6.0-windows\WFTzad2.csproj.GenerateResource.cache
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Работа (ADO_NET dz2)\WFTzad2\obj\Debug\net6.0-windows\WFTzad2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Работа (ADO_NET dz2)\WFTzad2\obj\Debug\net6.0-windows\WFTzad2.AssemblyInfoInputs.cache
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Работа (ADO_NET dz2)\WFTzad2\obj\Debug\net6.0-windows\WFTzad2.AssemblyInfo.cs
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Работа (ADO_NET dz2)\WFTzad2\obj\Debug\net6.0-windows\WFTzad2.csproj.CoreCompileInputs.cache
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Работа (ADO_NET dz2)\WFTzad2\obj\Debug\net6.0-windows\WFTzad2.csproj.CopyComplete
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Работа (ADO_NET dz2)\WFTzad2\obj\Debug\net6.0-windows\WFTzad2.dll
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Работа (ADO_NET dz2)\WFTzad2\obj\Debug\net6.0-windows\refint\WFTzad2.dll
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Работа (ADO_NET dz2)\WFTzad2\obj\Debug\net6.0-windows\WFTzad2.pdb
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Работа (ADO_NET dz2)\WFTzad2\obj\Debug\net6.0-windows\WFTzad2.genruntimeconfig.cache
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Работа (ADO_NET dz2)\WFTzad2\obj\Debug\net6.0-windows\ref\WFTzad2.dll

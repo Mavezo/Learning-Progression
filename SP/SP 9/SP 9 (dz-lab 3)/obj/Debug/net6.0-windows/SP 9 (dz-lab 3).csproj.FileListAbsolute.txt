@@ -1,0 +1,17 @@
+C:\Users\mavez\source\repos\SP 9\SP 9 (dz-lab 3)\bin\Debug\net6.0-windows\SP 9 (dz-lab 3).exe
+C:\Users\mavez\source\repos\SP 9\SP 9 (dz-lab 3)\bin\Debug\net6.0-windows\SP 9 (dz-lab 3).deps.json
+C:\Users\mavez\source\repos\SP 9\SP 9 (dz-lab 3)\bin\Debug\net6.0-windows\SP 9 (dz-lab 3).runtimeconfig.json
+C:\Users\mavez\source\repos\SP 9\SP 9 (dz-lab 3)\bin\Debug\net6.0-windows\SP 9 (dz-lab 3).dll
+C:\Users\mavez\source\repos\SP 9\SP 9 (dz-lab 3)\bin\Debug\net6.0-windows\SP 9 (dz-lab 3).pdb
+C:\Users\mavez\source\repos\SP 9\SP 9 (dz-lab 3)\obj\Debug\net6.0-windows\SP 9 (dz-lab 3).csproj.AssemblyReference.cache
+C:\Users\mavez\source\repos\SP 9\SP 9 (dz-lab 3)\obj\Debug\net6.0-windows\SP_9__dz_lab_3_.Form1.resources
+C:\Users\mavez\source\repos\SP 9\SP 9 (dz-lab 3)\obj\Debug\net6.0-windows\SP 9 (dz-lab 3).csproj.GenerateResource.cache
+C:\Users\mavez\source\repos\SP 9\SP 9 (dz-lab 3)\obj\Debug\net6.0-windows\SP 9 (dz-lab 3).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mavez\source\repos\SP 9\SP 9 (dz-lab 3)\obj\Debug\net6.0-windows\SP 9 (dz-lab 3).AssemblyInfoInputs.cache
+C:\Users\mavez\source\repos\SP 9\SP 9 (dz-lab 3)\obj\Debug\net6.0-windows\SP 9 (dz-lab 3).AssemblyInfo.cs
+C:\Users\mavez\source\repos\SP 9\SP 9 (dz-lab 3)\obj\Debug\net6.0-windows\SP 9 (dz-lab 3).csproj.CoreCompileInputs.cache
+C:\Users\mavez\source\repos\SP 9\SP 9 (dz-lab 3)\obj\Debug\net6.0-windows\SP 9 (dz-lab 3).dll
+C:\Users\mavez\source\repos\SP 9\SP 9 (dz-lab 3)\obj\Debug\net6.0-windows\refint\SP 9 (dz-lab 3).dll
+C:\Users\mavez\source\repos\SP 9\SP 9 (dz-lab 3)\obj\Debug\net6.0-windows\SP 9 (dz-lab 3).pdb
+C:\Users\mavez\source\repos\SP 9\SP 9 (dz-lab 3)\obj\Debug\net6.0-windows\SP 9 (dz-lab 3).genruntimeconfig.cache
+C:\Users\mavez\source\repos\SP 9\SP 9 (dz-lab 3)\obj\Debug\net6.0-windows\ref\SP 9 (dz-lab 3).dll

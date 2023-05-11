@@ -1,0 +1,17 @@
+C:\Users\mavez\source\repos\SP 4 lab-dz\SP 4 lab-dz 6\bin\Debug\net6.0-windows\SP 4 lab-dz 6.exe
+C:\Users\mavez\source\repos\SP 4 lab-dz\SP 4 lab-dz 6\bin\Debug\net6.0-windows\SP 4 lab-dz 6.deps.json
+C:\Users\mavez\source\repos\SP 4 lab-dz\SP 4 lab-dz 6\bin\Debug\net6.0-windows\SP 4 lab-dz 6.runtimeconfig.json
+C:\Users\mavez\source\repos\SP 4 lab-dz\SP 4 lab-dz 6\bin\Debug\net6.0-windows\SP 4 lab-dz 6.dll
+C:\Users\mavez\source\repos\SP 4 lab-dz\SP 4 lab-dz 6\bin\Debug\net6.0-windows\SP 4 lab-dz 6.pdb
+C:\Users\mavez\source\repos\SP 4 lab-dz\SP 4 lab-dz 6\obj\Debug\net6.0-windows\SP 4 lab-dz 6.csproj.AssemblyReference.cache
+C:\Users\mavez\source\repos\SP 4 lab-dz\SP 4 lab-dz 6\obj\Debug\net6.0-windows\SP_4_lab_dz_6.Form1.resources
+C:\Users\mavez\source\repos\SP 4 lab-dz\SP 4 lab-dz 6\obj\Debug\net6.0-windows\SP 4 lab-dz 6.csproj.GenerateResource.cache
+C:\Users\mavez\source\repos\SP 4 lab-dz\SP 4 lab-dz 6\obj\Debug\net6.0-windows\SP 4 lab-dz 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mavez\source\repos\SP 4 lab-dz\SP 4 lab-dz 6\obj\Debug\net6.0-windows\SP 4 lab-dz 6.AssemblyInfoInputs.cache
+C:\Users\mavez\source\repos\SP 4 lab-dz\SP 4 lab-dz 6\obj\Debug\net6.0-windows\SP 4 lab-dz 6.AssemblyInfo.cs
+C:\Users\mavez\source\repos\SP 4 lab-dz\SP 4 lab-dz 6\obj\Debug\net6.0-windows\SP 4 lab-dz 6.csproj.CoreCompileInputs.cache
+C:\Users\mavez\source\repos\SP 4 lab-dz\SP 4 lab-dz 6\obj\Debug\net6.0-windows\SP 4 lab-dz 6.dll
+C:\Users\mavez\source\repos\SP 4 lab-dz\SP 4 lab-dz 6\obj\Debug\net6.0-windows\refint\SP 4 lab-dz 6.dll
+C:\Users\mavez\source\repos\SP 4 lab-dz\SP 4 lab-dz 6\obj\Debug\net6.0-windows\SP 4 lab-dz 6.pdb
+C:\Users\mavez\source\repos\SP 4 lab-dz\SP 4 lab-dz 6\obj\Debug\net6.0-windows\SP 4 lab-dz 6.genruntimeconfig.cache
+C:\Users\mavez\source\repos\SP 4 lab-dz\SP 4 lab-dz 6\obj\Debug\net6.0-windows\ref\SP 4 lab-dz 6.dll

@@ -1,0 +1,17 @@
+C:\Users\mavez\source\repos\SP1 Lab\SP1 Lab\bin\Debug\net6.0-windows\SP1 Lab.exe
+C:\Users\mavez\source\repos\SP1 Lab\SP1 Lab\bin\Debug\net6.0-windows\SP1 Lab.deps.json
+C:\Users\mavez\source\repos\SP1 Lab\SP1 Lab\bin\Debug\net6.0-windows\SP1 Lab.runtimeconfig.json
+C:\Users\mavez\source\repos\SP1 Lab\SP1 Lab\bin\Debug\net6.0-windows\SP1 Lab.dll
+C:\Users\mavez\source\repos\SP1 Lab\SP1 Lab\bin\Debug\net6.0-windows\SP1 Lab.pdb
+C:\Users\mavez\source\repos\SP1 Lab\SP1 Lab\obj\Debug\net6.0-windows\SP1 Lab.csproj.AssemblyReference.cache
+C:\Users\mavez\source\repos\SP1 Lab\SP1 Lab\obj\Debug\net6.0-windows\SP1_Lab.Form1.resources
+C:\Users\mavez\source\repos\SP1 Lab\SP1 Lab\obj\Debug\net6.0-windows\SP1 Lab.csproj.GenerateResource.cache
+C:\Users\mavez\source\repos\SP1 Lab\SP1 Lab\obj\Debug\net6.0-windows\SP1 Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mavez\source\repos\SP1 Lab\SP1 Lab\obj\Debug\net6.0-windows\SP1 Lab.AssemblyInfoInputs.cache
+C:\Users\mavez\source\repos\SP1 Lab\SP1 Lab\obj\Debug\net6.0-windows\SP1 Lab.AssemblyInfo.cs
+C:\Users\mavez\source\repos\SP1 Lab\SP1 Lab\obj\Debug\net6.0-windows\SP1 Lab.csproj.CoreCompileInputs.cache
+C:\Users\mavez\source\repos\SP1 Lab\SP1 Lab\obj\Debug\net6.0-windows\SP1 Lab.dll
+C:\Users\mavez\source\repos\SP1 Lab\SP1 Lab\obj\Debug\net6.0-windows\refint\SP1 Lab.dll
+C:\Users\mavez\source\repos\SP1 Lab\SP1 Lab\obj\Debug\net6.0-windows\SP1 Lab.pdb
+C:\Users\mavez\source\repos\SP1 Lab\SP1 Lab\obj\Debug\net6.0-windows\SP1 Lab.genruntimeconfig.cache
+C:\Users\mavez\source\repos\SP1 Lab\SP1 Lab\obj\Debug\net6.0-windows\ref\SP1 Lab.dll

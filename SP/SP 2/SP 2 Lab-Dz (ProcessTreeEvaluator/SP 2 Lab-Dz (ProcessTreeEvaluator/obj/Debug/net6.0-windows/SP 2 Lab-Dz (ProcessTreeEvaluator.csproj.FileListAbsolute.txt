@@ -1,0 +1,21 @@
+C:\Users\mavez\source\repos\SP 2 Lab-Dz (ProcessTreeEvaluator\SP 2 Lab-Dz (ProcessTreeEvaluator\bin\Debug\net6.0-windows\SP 2 Lab-Dz (ProcessTreeEvaluator.exe
+C:\Users\mavez\source\repos\SP 2 Lab-Dz (ProcessTreeEvaluator\SP 2 Lab-Dz (ProcessTreeEvaluator\bin\Debug\net6.0-windows\SP 2 Lab-Dz (ProcessTreeEvaluator.deps.json
+C:\Users\mavez\source\repos\SP 2 Lab-Dz (ProcessTreeEvaluator\SP 2 Lab-Dz (ProcessTreeEvaluator\bin\Debug\net6.0-windows\SP 2 Lab-Dz (ProcessTreeEvaluator.runtimeconfig.json
+C:\Users\mavez\source\repos\SP 2 Lab-Dz (ProcessTreeEvaluator\SP 2 Lab-Dz (ProcessTreeEvaluator\bin\Debug\net6.0-windows\SP 2 Lab-Dz (ProcessTreeEvaluator.dll
+C:\Users\mavez\source\repos\SP 2 Lab-Dz (ProcessTreeEvaluator\SP 2 Lab-Dz (ProcessTreeEvaluator\bin\Debug\net6.0-windows\SP 2 Lab-Dz (ProcessTreeEvaluator.pdb
+C:\Users\mavez\source\repos\SP 2 Lab-Dz (ProcessTreeEvaluator\SP 2 Lab-Dz (ProcessTreeEvaluator\bin\Debug\net6.0-windows\System.CodeDom.dll
+C:\Users\mavez\source\repos\SP 2 Lab-Dz (ProcessTreeEvaluator\SP 2 Lab-Dz (ProcessTreeEvaluator\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\mavez\source\repos\SP 2 Lab-Dz (ProcessTreeEvaluator\SP 2 Lab-Dz (ProcessTreeEvaluator\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\mavez\source\repos\SP 2 Lab-Dz (ProcessTreeEvaluator\SP 2 Lab-Dz (ProcessTreeEvaluator\obj\Debug\net6.0-windows\SP 2 Lab-Dz (ProcessTreeEvaluator.csproj.AssemblyReference.cache
+C:\Users\mavez\source\repos\SP 2 Lab-Dz (ProcessTreeEvaluator\SP 2 Lab-Dz (ProcessTreeEvaluator\obj\Debug\net6.0-windows\SP_2_Lab_Dz__ProcessTreeEvaluator.Form1.resources
+C:\Users\mavez\source\repos\SP 2 Lab-Dz (ProcessTreeEvaluator\SP 2 Lab-Dz (ProcessTreeEvaluator\obj\Debug\net6.0-windows\SP 2 Lab-Dz (ProcessTreeEvaluator.csproj.GenerateResource.cache
+C:\Users\mavez\source\repos\SP 2 Lab-Dz (ProcessTreeEvaluator\SP 2 Lab-Dz (ProcessTreeEvaluator\obj\Debug\net6.0-windows\SP 2 Lab-Dz (ProcessTreeEvaluator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mavez\source\repos\SP 2 Lab-Dz (ProcessTreeEvaluator\SP 2 Lab-Dz (ProcessTreeEvaluator\obj\Debug\net6.0-windows\SP 2 Lab-Dz (ProcessTreeEvaluator.AssemblyInfoInputs.cache
+C:\Users\mavez\source\repos\SP 2 Lab-Dz (ProcessTreeEvaluator\SP 2 Lab-Dz (ProcessTreeEvaluator\obj\Debug\net6.0-windows\SP 2 Lab-Dz (ProcessTreeEvaluator.AssemblyInfo.cs
+C:\Users\mavez\source\repos\SP 2 Lab-Dz (ProcessTreeEvaluator\SP 2 Lab-Dz (ProcessTreeEvaluator\obj\Debug\net6.0-windows\SP 2 Lab-Dz (ProcessTreeEvaluator.csproj.CoreCompileInputs.cache
+C:\Users\mavez\source\repos\SP 2 Lab-Dz (ProcessTreeEvaluator\SP 2 Lab-Dz (ProcessTreeEvaluator\obj\Debug\net6.0-windows\SP 2 Lab-Dz (ProcessTreeEvaluator.csproj.CopyComplete
+C:\Users\mavez\source\repos\SP 2 Lab-Dz (ProcessTreeEvaluator\SP 2 Lab-Dz (ProcessTreeEvaluator\obj\Debug\net6.0-windows\SP 2 Lab-Dz (ProcessTreeEvaluator.dll
+C:\Users\mavez\source\repos\SP 2 Lab-Dz (ProcessTreeEvaluator\SP 2 Lab-Dz (ProcessTreeEvaluator\obj\Debug\net6.0-windows\refint\SP 2 Lab-Dz (ProcessTreeEvaluator.dll
+C:\Users\mavez\source\repos\SP 2 Lab-Dz (ProcessTreeEvaluator\SP 2 Lab-Dz (ProcessTreeEvaluator\obj\Debug\net6.0-windows\SP 2 Lab-Dz (ProcessTreeEvaluator.pdb
+C:\Users\mavez\source\repos\SP 2 Lab-Dz (ProcessTreeEvaluator\SP 2 Lab-Dz (ProcessTreeEvaluator\obj\Debug\net6.0-windows\SP 2 Lab-Dz (ProcessTreeEvaluator.genruntimeconfig.cache
+C:\Users\mavez\source\repos\SP 2 Lab-Dz (ProcessTreeEvaluator\SP 2 Lab-Dz (ProcessTreeEvaluator\obj\Debug\net6.0-windows\ref\SP 2 Lab-Dz (ProcessTreeEvaluator.dll

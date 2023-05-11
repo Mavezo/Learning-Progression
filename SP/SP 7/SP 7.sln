@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SP 7", "SP 7\SP 7.csproj", "{182AF912-08F4-4F5A-AFC5-93154D53F637}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SP 7 (lab-dz)", "SP 7 (lab-dz)\SP 7 (lab-dz).csproj", "{567BE398-C4BC-40F0-9E3F-D60E3A4DC9A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Timer", "Timer\Timer.csproj", "{CCF34EE8-B793-4F1B-ABAB-602A16887588}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{182AF912-08F4-4F5A-AFC5-93154D53F637}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{182AF912-08F4-4F5A-AFC5-93154D53F637}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{182AF912-08F4-4F5A-AFC5-93154D53F637}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{182AF912-08F4-4F5A-AFC5-93154D53F637}.Release|Any CPU.Build.0 = Release|Any CPU
+		{567BE398-C4BC-40F0-9E3F-D60E3A4DC9A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{567BE398-C4BC-40F0-9E3F-D60E3A4DC9A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{567BE398-C4BC-40F0-9E3F-D60E3A4DC9A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{567BE398-C4BC-40F0-9E3F-D60E3A4DC9A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCF34EE8-B793-4F1B-ABAB-602A16887588}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCF34EE8-B793-4F1B-ABAB-602A16887588}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCF34EE8-B793-4F1B-ABAB-602A16887588}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCF34EE8-B793-4F1B-ABAB-602A16887588}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34806EE9-6AD3-424C-9D88-C7379C9112AC}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\mavez\source\repos\SP 8\ConsoleApp1\bin\Debug\net6.0\SP 8 (lab-dz 5).exe
+C:\Users\mavez\source\repos\SP 8\ConsoleApp1\bin\Debug\net6.0\SP 8 (lab-dz 5).deps.json
+C:\Users\mavez\source\repos\SP 8\ConsoleApp1\bin\Debug\net6.0\SP 8 (lab-dz 5).runtimeconfig.json
+C:\Users\mavez\source\repos\SP 8\ConsoleApp1\bin\Debug\net6.0\SP 8 (lab-dz 5).dll
+C:\Users\mavez\source\repos\SP 8\ConsoleApp1\bin\Debug\net6.0\SP 8 (lab-dz 5).pdb
+C:\Users\mavez\source\repos\SP 8\ConsoleApp1\obj\Debug\net6.0\SP 8 (lab-dz 5).csproj.AssemblyReference.cache
+C:\Users\mavez\source\repos\SP 8\ConsoleApp1\obj\Debug\net6.0\SP 8 (lab-dz 5).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mavez\source\repos\SP 8\ConsoleApp1\obj\Debug\net6.0\SP 8 (lab-dz 5).AssemblyInfoInputs.cache
+C:\Users\mavez\source\repos\SP 8\ConsoleApp1\obj\Debug\net6.0\SP 8 (lab-dz 5).AssemblyInfo.cs
+C:\Users\mavez\source\repos\SP 8\ConsoleApp1\obj\Debug\net6.0\SP 8 (lab-dz 5).csproj.CoreCompileInputs.cache
+C:\Users\mavez\source\repos\SP 8\ConsoleApp1\obj\Debug\net6.0\SP 8 (lab-dz 5).dll
+C:\Users\mavez\source\repos\SP 8\ConsoleApp1\obj\Debug\net6.0\refint\SP 8 (lab-dz 5).dll
+C:\Users\mavez\source\repos\SP 8\ConsoleApp1\obj\Debug\net6.0\SP 8 (lab-dz 5).pdb
+C:\Users\mavez\source\repos\SP 8\ConsoleApp1\obj\Debug\net6.0\SP 8 (lab-dz 5).genruntimeconfig.cache
+C:\Users\mavez\source\repos\SP 8\ConsoleApp1\obj\Debug\net6.0\ref\SP 8 (lab-dz 5).dll

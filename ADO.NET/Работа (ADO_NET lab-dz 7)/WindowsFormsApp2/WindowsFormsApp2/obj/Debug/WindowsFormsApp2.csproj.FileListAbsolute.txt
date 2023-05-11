@@ -1,0 +1,38 @@
+C:\Users\mavez\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\mavez\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\mavez\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\mavez\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\EntityFramework.dll
+C:\Users\mavez\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mavez\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\EntityFramework.xml
+C:\Users\mavez\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mavez\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\mavez\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\mavez\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\mavez\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\mavez\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\mavez\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\mavez\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\mavez\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\mavez\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\mavez\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\mavez\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.AddAuthor.resources
+C:\Users\mavez\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.DeleteAuthor.resources
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Работа (ADO_NET lab-dz 7)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Работа (ADO_NET lab-dz 7)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Работа (ADO_NET lab-dz 7)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Работа (ADO_NET lab-dz 7)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\EntityFramework.dll
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Работа (ADO_NET lab-dz 7)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Работа (ADO_NET lab-dz 7)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\EntityFramework.xml
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Работа (ADO_NET lab-dz 7)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Работа (ADO_NET lab-dz 7)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Работа (ADO_NET lab-dz 7)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Работа (ADO_NET lab-dz 7)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Работа (ADO_NET lab-dz 7)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.AddAuthor.resources
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Работа (ADO_NET lab-dz 7)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.DeleteAuthor.resources
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Работа (ADO_NET lab-dz 7)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Работа (ADO_NET lab-dz 7)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Работа (ADO_NET lab-dz 7)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Работа (ADO_NET lab-dz 7)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Работа (ADO_NET lab-dz 7)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Работа (ADO_NET lab-dz 7)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Работа (ADO_NET lab-dz 7)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb

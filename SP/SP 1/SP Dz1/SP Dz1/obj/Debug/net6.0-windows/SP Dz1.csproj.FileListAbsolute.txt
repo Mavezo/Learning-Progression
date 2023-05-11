@@ -1,0 +1,17 @@
+C:\Users\mavez\source\repos\SP Dz1\SP Dz1\bin\Debug\net6.0-windows\SP Dz1.exe
+C:\Users\mavez\source\repos\SP Dz1\SP Dz1\bin\Debug\net6.0-windows\SP Dz1.deps.json
+C:\Users\mavez\source\repos\SP Dz1\SP Dz1\bin\Debug\net6.0-windows\SP Dz1.runtimeconfig.json
+C:\Users\mavez\source\repos\SP Dz1\SP Dz1\bin\Debug\net6.0-windows\SP Dz1.dll
+C:\Users\mavez\source\repos\SP Dz1\SP Dz1\bin\Debug\net6.0-windows\SP Dz1.pdb
+C:\Users\mavez\source\repos\SP Dz1\SP Dz1\obj\Debug\net6.0-windows\SP Dz1.csproj.AssemblyReference.cache
+C:\Users\mavez\source\repos\SP Dz1\SP Dz1\obj\Debug\net6.0-windows\SP_Dz1.Form1.resources
+C:\Users\mavez\source\repos\SP Dz1\SP Dz1\obj\Debug\net6.0-windows\SP Dz1.csproj.GenerateResource.cache
+C:\Users\mavez\source\repos\SP Dz1\SP Dz1\obj\Debug\net6.0-windows\SP Dz1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mavez\source\repos\SP Dz1\SP Dz1\obj\Debug\net6.0-windows\SP Dz1.AssemblyInfoInputs.cache
+C:\Users\mavez\source\repos\SP Dz1\SP Dz1\obj\Debug\net6.0-windows\SP Dz1.AssemblyInfo.cs
+C:\Users\mavez\source\repos\SP Dz1\SP Dz1\obj\Debug\net6.0-windows\SP Dz1.csproj.CoreCompileInputs.cache
+C:\Users\mavez\source\repos\SP Dz1\SP Dz1\obj\Debug\net6.0-windows\SP Dz1.dll
+C:\Users\mavez\source\repos\SP Dz1\SP Dz1\obj\Debug\net6.0-windows\refint\SP Dz1.dll
+C:\Users\mavez\source\repos\SP Dz1\SP Dz1\obj\Debug\net6.0-windows\SP Dz1.pdb
+C:\Users\mavez\source\repos\SP Dz1\SP Dz1\obj\Debug\net6.0-windows\SP Dz1.genruntimeconfig.cache
+C:\Users\mavez\source\repos\SP Dz1\SP Dz1\obj\Debug\net6.0-windows\ref\SP Dz1.dll

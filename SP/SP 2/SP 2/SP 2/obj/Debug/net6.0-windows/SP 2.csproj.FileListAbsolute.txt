@@ -1,0 +1,23 @@
+C:\Users\mavez\source\repos\SP 2\SP 2\obj\Debug\net6.0-windows\SP 2.csproj.AssemblyReference.cache
+C:\Users\mavez\source\repos\SP 2\SP 2\obj\Debug\net6.0-windows\SP_2.Form1.resources
+C:\Users\mavez\source\repos\SP 2\SP 2\obj\Debug\net6.0-windows\SP_2.Properties.Resources.resources
+C:\Users\mavez\source\repos\SP 2\SP 2\obj\Debug\net6.0-windows\SP 2.csproj.GenerateResource.cache
+C:\Users\mavez\source\repos\SP 2\SP 2\obj\Debug\net6.0-windows\SP 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mavez\source\repos\SP 2\SP 2\obj\Debug\net6.0-windows\SP 2.AssemblyInfoInputs.cache
+C:\Users\mavez\source\repos\SP 2\SP 2\obj\Debug\net6.0-windows\SP 2.AssemblyInfo.cs
+C:\Users\mavez\source\repos\SP 2\SP 2\obj\Debug\net6.0-windows\SP 2.csproj.CoreCompileInputs.cache
+C:\Users\mavez\source\repos\SP 2\SP 2\bin\Debug\net6.0-windows\SP 2.exe
+C:\Users\mavez\source\repos\SP 2\SP 2\bin\Debug\net6.0-windows\SP 2.dll.config
+C:\Users\mavez\source\repos\SP 2\SP 2\bin\Debug\net6.0-windows\SP 2.deps.json
+C:\Users\mavez\source\repos\SP 2\SP 2\bin\Debug\net6.0-windows\SP 2.runtimeconfig.json
+C:\Users\mavez\source\repos\SP 2\SP 2\bin\Debug\net6.0-windows\SP 2.dll
+C:\Users\mavez\source\repos\SP 2\SP 2\bin\Debug\net6.0-windows\SP 2.pdb
+C:\Users\mavez\source\repos\SP 2\SP 2\obj\Debug\net6.0-windows\SP 2.dll
+C:\Users\mavez\source\repos\SP 2\SP 2\obj\Debug\net6.0-windows\refint\SP 2.dll
+C:\Users\mavez\source\repos\SP 2\SP 2\obj\Debug\net6.0-windows\SP 2.pdb
+C:\Users\mavez\source\repos\SP 2\SP 2\obj\Debug\net6.0-windows\SP 2.genruntimeconfig.cache
+C:\Users\mavez\source\repos\SP 2\SP 2\obj\Debug\net6.0-windows\ref\SP 2.dll
+C:\Users\mavez\source\repos\SP 2\SP 2\bin\Debug\net6.0-windows\System.CodeDom.dll
+C:\Users\mavez\source\repos\SP 2\SP 2\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\mavez\source\repos\SP 2\SP 2\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\mavez\source\repos\SP 2\SP 2\obj\Debug\net6.0-windows\SP 2.csproj.CopyComplete

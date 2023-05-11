@@ -1,0 +1,28 @@
+C:\Users\mavez\source\repos\GamesAndStudios\GameAndStudiosClasses\bin\Debug\net6.0\GameAndStudiosClasses.deps.json
+C:\Users\mavez\source\repos\GamesAndStudios\GameAndStudiosClasses\bin\Debug\net6.0\GameAndStudiosClasses.runtimeconfig.json
+C:\Users\mavez\source\repos\GamesAndStudios\GameAndStudiosClasses\bin\Debug\net6.0\GameAndStudiosClasses.dll
+C:\Users\mavez\source\repos\GamesAndStudios\GameAndStudiosClasses\bin\Debug\net6.0\GameAndStudiosClasses.pdb
+C:\Users\mavez\source\repos\GamesAndStudios\GameAndStudiosClasses\obj\Debug\net6.0\GameAndStudiosClasses.csproj.AssemblyReference.cache
+C:\Users\mavez\source\repos\GamesAndStudios\GameAndStudiosClasses\obj\Debug\net6.0\GameAndStudiosClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mavez\source\repos\GamesAndStudios\GameAndStudiosClasses\obj\Debug\net6.0\GameAndStudiosClasses.AssemblyInfoInputs.cache
+C:\Users\mavez\source\repos\GamesAndStudios\GameAndStudiosClasses\obj\Debug\net6.0\GameAndStudiosClasses.AssemblyInfo.cs
+C:\Users\mavez\source\repos\GamesAndStudios\GameAndStudiosClasses\obj\Debug\net6.0\GameAndStudiosClasses.csproj.CoreCompileInputs.cache
+C:\Users\mavez\source\repos\GamesAndStudios\GameAndStudiosClasses\obj\Debug\net6.0\GameAndStudiosClasses.dll
+C:\Users\mavez\source\repos\GamesAndStudios\GameAndStudiosClasses\obj\Debug\net6.0\refint\GameAndStudiosClasses.dll
+C:\Users\mavez\source\repos\GamesAndStudios\GameAndStudiosClasses\obj\Debug\net6.0\GameAndStudiosClasses.pdb
+C:\Users\mavez\source\repos\GamesAndStudios\GameAndStudiosClasses\obj\Debug\net6.0\GameAndStudiosClasses.genruntimeconfig.cache
+C:\Users\mavez\source\repos\GamesAndStudios\GameAndStudiosClasses\obj\Debug\net6.0\ref\GameAndStudiosClasses.dll
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Работа (ADO_NET lab-dz 10)\GamesAndStudios\GameAndStudiosClasses\bin\Debug\net6.0\GameAndStudiosClasses.deps.json
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Работа (ADO_NET lab-dz 10)\GamesAndStudios\GameAndStudiosClasses\bin\Debug\net6.0\GameAndStudiosClasses.runtimeconfig.json
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Работа (ADO_NET lab-dz 10)\GamesAndStudios\GameAndStudiosClasses\bin\Debug\net6.0\GameAndStudiosClasses.dll
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Работа (ADO_NET lab-dz 10)\GamesAndStudios\GameAndStudiosClasses\bin\Debug\net6.0\GameAndStudiosClasses.pdb
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Работа (ADO_NET lab-dz 10)\GamesAndStudios\GameAndStudiosClasses\obj\Debug\net6.0\GameAndStudiosClasses.csproj.AssemblyReference.cache
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Работа (ADO_NET lab-dz 10)\GamesAndStudios\GameAndStudiosClasses\obj\Debug\net6.0\GameAndStudiosClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Работа (ADO_NET lab-dz 10)\GamesAndStudios\GameAndStudiosClasses\obj\Debug\net6.0\GameAndStudiosClasses.AssemblyInfoInputs.cache
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Работа (ADO_NET lab-dz 10)\GamesAndStudios\GameAndStudiosClasses\obj\Debug\net6.0\GameAndStudiosClasses.AssemblyInfo.cs
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Работа (ADO_NET lab-dz 10)\GamesAndStudios\GameAndStudiosClasses\obj\Debug\net6.0\GameAndStudiosClasses.csproj.CoreCompileInputs.cache
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Работа (ADO_NET lab-dz 10)\GamesAndStudios\GameAndStudiosClasses\obj\Debug\net6.0\GameAndStudiosClasses.dll
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Работа (ADO_NET lab-dz 10)\GamesAndStudios\GameAndStudiosClasses\obj\Debug\net6.0\refint\GameAndStudiosClasses.dll
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Работа (ADO_NET lab-dz 10)\GamesAndStudios\GameAndStudiosClasses\obj\Debug\net6.0\GameAndStudiosClasses.pdb
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Работа (ADO_NET lab-dz 10)\GamesAndStudios\GameAndStudiosClasses\obj\Debug\net6.0\GameAndStudiosClasses.genruntimeconfig.cache
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Работа (ADO_NET lab-dz 10)\GamesAndStudios\GameAndStudiosClasses\obj\Debug\net6.0\ref\GameAndStudiosClasses.dll

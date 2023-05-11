@@ -1,0 +1,17 @@
+C:\Users\mavez\source\repos\SP 5 (dz-lab)\SP 5 (dz-lab)\bin\Debug\net6.0-windows\SP 5 dz-lab 1.exe
+C:\Users\mavez\source\repos\SP 5 (dz-lab)\SP 5 (dz-lab)\bin\Debug\net6.0-windows\SP 5 dz-lab 1.deps.json
+C:\Users\mavez\source\repos\SP 5 (dz-lab)\SP 5 (dz-lab)\bin\Debug\net6.0-windows\SP 5 dz-lab 1.runtimeconfig.json
+C:\Users\mavez\source\repos\SP 5 (dz-lab)\SP 5 (dz-lab)\bin\Debug\net6.0-windows\SP 5 dz-lab 1.dll
+C:\Users\mavez\source\repos\SP 5 (dz-lab)\SP 5 (dz-lab)\bin\Debug\net6.0-windows\SP 5 dz-lab 1.pdb
+C:\Users\mavez\source\repos\SP 5 (dz-lab)\SP 5 (dz-lab)\obj\Debug\net6.0-windows\SP 5 dz-lab 1.csproj.AssemblyReference.cache
+C:\Users\mavez\source\repos\SP 5 (dz-lab)\SP 5 (dz-lab)\obj\Debug\net6.0-windows\SP_5__dz_lab_.Form1.resources
+C:\Users\mavez\source\repos\SP 5 (dz-lab)\SP 5 (dz-lab)\obj\Debug\net6.0-windows\SP 5 dz-lab 1.csproj.GenerateResource.cache
+C:\Users\mavez\source\repos\SP 5 (dz-lab)\SP 5 (dz-lab)\obj\Debug\net6.0-windows\SP 5 dz-lab 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mavez\source\repos\SP 5 (dz-lab)\SP 5 (dz-lab)\obj\Debug\net6.0-windows\SP 5 dz-lab 1.AssemblyInfoInputs.cache
+C:\Users\mavez\source\repos\SP 5 (dz-lab)\SP 5 (dz-lab)\obj\Debug\net6.0-windows\SP 5 dz-lab 1.AssemblyInfo.cs
+C:\Users\mavez\source\repos\SP 5 (dz-lab)\SP 5 (dz-lab)\obj\Debug\net6.0-windows\SP 5 dz-lab 1.csproj.CoreCompileInputs.cache
+C:\Users\mavez\source\repos\SP 5 (dz-lab)\SP 5 (dz-lab)\obj\Debug\net6.0-windows\SP 5 dz-lab 1.dll
+C:\Users\mavez\source\repos\SP 5 (dz-lab)\SP 5 (dz-lab)\obj\Debug\net6.0-windows\refint\SP 5 dz-lab 1.dll
+C:\Users\mavez\source\repos\SP 5 (dz-lab)\SP 5 (dz-lab)\obj\Debug\net6.0-windows\SP 5 dz-lab 1.pdb
+C:\Users\mavez\source\repos\SP 5 (dz-lab)\SP 5 (dz-lab)\obj\Debug\net6.0-windows\SP 5 dz-lab 1.genruntimeconfig.cache
+C:\Users\mavez\source\repos\SP 5 (dz-lab)\SP 5 (dz-lab)\obj\Debug\net6.0-windows\ref\SP 5 dz-lab 1.dll

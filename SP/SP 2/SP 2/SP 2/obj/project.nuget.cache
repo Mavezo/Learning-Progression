@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qczbHPZt9UqRydj6VpM7do64sftRTydBny0e81J1yTJVyFjATHfEZnUoNOPbdFUJMSdY0I5hoiUWy+ZXANUtMg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mavez\\source\\repos\\SP 2\\SP 2\\SP 2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mavez\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\mavez\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

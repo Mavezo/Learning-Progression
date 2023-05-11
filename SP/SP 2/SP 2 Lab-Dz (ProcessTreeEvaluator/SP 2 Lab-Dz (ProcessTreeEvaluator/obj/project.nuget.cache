@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jefQLXsduKjK1ZzR3DDZWU22l3HBmO3XT9kw5UBVZ8O3E9iGvlPJLIlGVr3pjfVp8Rs8McqmM4YCdmyQjAShpQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mavez\\source\\repos\\SP 2 Lab-Dz (ProcessTreeEvaluator\\SP 2 Lab-Dz (ProcessTreeEvaluator\\SP 2 Lab-Dz (ProcessTreeEvaluator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mavez\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\mavez\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

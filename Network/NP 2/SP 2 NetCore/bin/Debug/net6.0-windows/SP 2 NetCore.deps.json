@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SP 2 NetCore/1.0.0": {
+        "runtime": {
+          "SP 2 NetCore.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SP 2 NetCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\mavez\source\repos\NP 1\NP 1 lab-dz 2 (client)\bin\Debug\net6.0\NP 1 lab-dz 2 (client).exe
+C:\Users\mavez\source\repos\NP 1\NP 1 lab-dz 2 (client)\bin\Debug\net6.0\NP 1 lab-dz 2 (client).deps.json
+C:\Users\mavez\source\repos\NP 1\NP 1 lab-dz 2 (client)\bin\Debug\net6.0\NP 1 lab-dz 2 (client).runtimeconfig.json
+C:\Users\mavez\source\repos\NP 1\NP 1 lab-dz 2 (client)\bin\Debug\net6.0\NP 1 lab-dz 2 (client).dll
+C:\Users\mavez\source\repos\NP 1\NP 1 lab-dz 2 (client)\bin\Debug\net6.0\NP 1 lab-dz 2 (client).pdb
+C:\Users\mavez\source\repos\NP 1\NP 1 lab-dz 2 (client)\obj\Debug\net6.0\NP 1 lab-dz 2 (client).csproj.AssemblyReference.cache
+C:\Users\mavez\source\repos\NP 1\NP 1 lab-dz 2 (client)\obj\Debug\net6.0\NP 1 lab-dz 2 (client).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mavez\source\repos\NP 1\NP 1 lab-dz 2 (client)\obj\Debug\net6.0\NP 1 lab-dz 2 (client).AssemblyInfoInputs.cache
+C:\Users\mavez\source\repos\NP 1\NP 1 lab-dz 2 (client)\obj\Debug\net6.0\NP 1 lab-dz 2 (client).AssemblyInfo.cs
+C:\Users\mavez\source\repos\NP 1\NP 1 lab-dz 2 (client)\obj\Debug\net6.0\NP 1 lab-dz 2 (client).csproj.CoreCompileInputs.cache
+C:\Users\mavez\source\repos\NP 1\NP 1 lab-dz 2 (client)\obj\Debug\net6.0\NP 1 lab-dz 2 (client).dll
+C:\Users\mavez\source\repos\NP 1\NP 1 lab-dz 2 (client)\obj\Debug\net6.0\refint\NP 1 lab-dz 2 (client).dll
+C:\Users\mavez\source\repos\NP 1\NP 1 lab-dz 2 (client)\obj\Debug\net6.0\NP 1 lab-dz 2 (client).pdb
+C:\Users\mavez\source\repos\NP 1\NP 1 lab-dz 2 (client)\obj\Debug\net6.0\NP 1 lab-dz 2 (client).genruntimeconfig.cache
+C:\Users\mavez\source\repos\NP 1\NP 1 lab-dz 2 (client)\obj\Debug\net6.0\ref\NP 1 lab-dz 2 (client).dll

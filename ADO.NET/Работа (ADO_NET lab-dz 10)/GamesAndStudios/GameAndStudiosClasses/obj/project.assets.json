@@ -3970,11 +3970,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\Работа (ADO_NET lab-dz 10)\\GamesAndStudios\\GameAndStudiosClasses\\GameAndStudiosClasses.csproj",
+      "projectUniqueName": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ADO.NET\\Работа (ADO_NET lab-dz 10)\\GamesAndStudios\\GameAndStudiosClasses\\GameAndStudiosClasses.csproj",
       "projectName": "GameAndStudiosClasses",
-      "projectPath": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\Работа (ADO_NET lab-dz 10)\\GamesAndStudios\\GameAndStudiosClasses\\GameAndStudiosClasses.csproj",
+      "projectPath": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ADO.NET\\Работа (ADO_NET lab-dz 10)\\GamesAndStudios\\GameAndStudiosClasses\\GameAndStudiosClasses.csproj",
       "packagesPath": "C:\\Users\\mavez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\Работа (ADO_NET lab-dz 10)\\GamesAndStudios\\GameAndStudiosClasses\\obj\\",
+      "outputPath": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ADO.NET\\Работа (ADO_NET lab-dz 10)\\GamesAndStudios\\GameAndStudiosClasses\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mavez\\AppData\\Roaming\\NuGet\\NuGet.Config",

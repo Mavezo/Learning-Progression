@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/bxt9NCoki0Dzgg5jlOIlRA3GKpcatgTSEwLZXuDZA72j3/7lKUyLtaklGclUNe9gfexY0ieRWxpzyWbspR6wQ==",
+  "dgSpecHash": "Im9VLoEDjFV4EvGurr2K+3LkOXEY/Y9db0A1rzcrR+PDadk1fbkUL+NzdkApC05FxOq1CXWxlyWj5esOgPe4jg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\Работа (ADO_NET lab-dz 10)\\GamesAndStudios\\GameAndStudiosClasses\\GameAndStudiosClasses.csproj",
+  "projectFilePath": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ADO.NET\\Работа (ADO_NET lab-dz 10)\\GamesAndStudios\\GameAndStudiosClasses\\GameAndStudiosClasses.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mavez\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\mavez\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

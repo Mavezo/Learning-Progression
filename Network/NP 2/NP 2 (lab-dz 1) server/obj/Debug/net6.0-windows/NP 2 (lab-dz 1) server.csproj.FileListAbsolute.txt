@@ -1,0 +1,17 @@
+C:\Users\mavez\source\repos\NP 2\NP 2 (lab-dz 1) server\bin\Debug\net6.0-windows\NP 2 (lab-dz 1) server.exe
+C:\Users\mavez\source\repos\NP 2\NP 2 (lab-dz 1) server\bin\Debug\net6.0-windows\NP 2 (lab-dz 1) server.deps.json
+C:\Users\mavez\source\repos\NP 2\NP 2 (lab-dz 1) server\bin\Debug\net6.0-windows\NP 2 (lab-dz 1) server.runtimeconfig.json
+C:\Users\mavez\source\repos\NP 2\NP 2 (lab-dz 1) server\bin\Debug\net6.0-windows\NP 2 (lab-dz 1) server.dll
+C:\Users\mavez\source\repos\NP 2\NP 2 (lab-dz 1) server\bin\Debug\net6.0-windows\NP 2 (lab-dz 1) server.pdb
+C:\Users\mavez\source\repos\NP 2\NP 2 (lab-dz 1) server\obj\Debug\net6.0-windows\NP 2 (lab-dz 1) server.csproj.AssemblyReference.cache
+C:\Users\mavez\source\repos\NP 2\NP 2 (lab-dz 1) server\obj\Debug\net6.0-windows\NP_2__lab_dz_1__server.Form1.resources
+C:\Users\mavez\source\repos\NP 2\NP 2 (lab-dz 1) server\obj\Debug\net6.0-windows\NP 2 (lab-dz 1) server.csproj.GenerateResource.cache
+C:\Users\mavez\source\repos\NP 2\NP 2 (lab-dz 1) server\obj\Debug\net6.0-windows\NP 2 (lab-dz 1) server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mavez\source\repos\NP 2\NP 2 (lab-dz 1) server\obj\Debug\net6.0-windows\NP 2 (lab-dz 1) server.AssemblyInfoInputs.cache
+C:\Users\mavez\source\repos\NP 2\NP 2 (lab-dz 1) server\obj\Debug\net6.0-windows\NP 2 (lab-dz 1) server.AssemblyInfo.cs
+C:\Users\mavez\source\repos\NP 2\NP 2 (lab-dz 1) server\obj\Debug\net6.0-windows\NP 2 (lab-dz 1) server.csproj.CoreCompileInputs.cache
+C:\Users\mavez\source\repos\NP 2\NP 2 (lab-dz 1) server\obj\Debug\net6.0-windows\NP 2 (lab-dz 1) server.dll
+C:\Users\mavez\source\repos\NP 2\NP 2 (lab-dz 1) server\obj\Debug\net6.0-windows\refint\NP 2 (lab-dz 1) server.dll
+C:\Users\mavez\source\repos\NP 2\NP 2 (lab-dz 1) server\obj\Debug\net6.0-windows\NP 2 (lab-dz 1) server.pdb
+C:\Users\mavez\source\repos\NP 2\NP 2 (lab-dz 1) server\obj\Debug\net6.0-windows\NP 2 (lab-dz 1) server.genruntimeconfig.cache
+C:\Users\mavez\source\repos\NP 2\NP 2 (lab-dz 1) server\obj\Debug\net6.0-windows\ref\NP 2 (lab-dz 1) server.dll

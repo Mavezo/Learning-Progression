@@ -1,0 +1,17 @@
+C:\Users\mavez\source\repos\NP 2\SP 2 NetCore\bin\Debug\net6.0-windows\SP 2 NetCore.exe
+C:\Users\mavez\source\repos\NP 2\SP 2 NetCore\bin\Debug\net6.0-windows\SP 2 NetCore.deps.json
+C:\Users\mavez\source\repos\NP 2\SP 2 NetCore\bin\Debug\net6.0-windows\SP 2 NetCore.runtimeconfig.json
+C:\Users\mavez\source\repos\NP 2\SP 2 NetCore\bin\Debug\net6.0-windows\SP 2 NetCore.dll
+C:\Users\mavez\source\repos\NP 2\SP 2 NetCore\bin\Debug\net6.0-windows\SP 2 NetCore.pdb
+C:\Users\mavez\source\repos\NP 2\SP 2 NetCore\obj\Debug\net6.0-windows\SP 2 NetCore.csproj.AssemblyReference.cache
+C:\Users\mavez\source\repos\NP 2\SP 2 NetCore\obj\Debug\net6.0-windows\SP_2_NetCore.Form1.resources
+C:\Users\mavez\source\repos\NP 2\SP 2 NetCore\obj\Debug\net6.0-windows\SP 2 NetCore.csproj.GenerateResource.cache
+C:\Users\mavez\source\repos\NP 2\SP 2 NetCore\obj\Debug\net6.0-windows\SP 2 NetCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mavez\source\repos\NP 2\SP 2 NetCore\obj\Debug\net6.0-windows\SP 2 NetCore.AssemblyInfoInputs.cache
+C:\Users\mavez\source\repos\NP 2\SP 2 NetCore\obj\Debug\net6.0-windows\SP 2 NetCore.AssemblyInfo.cs
+C:\Users\mavez\source\repos\NP 2\SP 2 NetCore\obj\Debug\net6.0-windows\SP 2 NetCore.csproj.CoreCompileInputs.cache
+C:\Users\mavez\source\repos\NP 2\SP 2 NetCore\obj\Debug\net6.0-windows\SP 2 NetCore.dll
+C:\Users\mavez\source\repos\NP 2\SP 2 NetCore\obj\Debug\net6.0-windows\refint\SP 2 NetCore.dll
+C:\Users\mavez\source\repos\NP 2\SP 2 NetCore\obj\Debug\net6.0-windows\SP 2 NetCore.pdb
+C:\Users\mavez\source\repos\NP 2\SP 2 NetCore\obj\Debug\net6.0-windows\SP 2 NetCore.genruntimeconfig.cache
+C:\Users\mavez\source\repos\NP 2\SP 2 NetCore\obj\Debug\net6.0-windows\ref\SP 2 NetCore.dll

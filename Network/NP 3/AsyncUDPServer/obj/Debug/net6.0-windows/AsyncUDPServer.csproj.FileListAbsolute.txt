@@ -1,0 +1,17 @@
+C:\Users\mavez\source\repos\NP 3\AsyncUDPServer\bin\Debug\net6.0-windows\AsyncUDPServer.exe
+C:\Users\mavez\source\repos\NP 3\AsyncUDPServer\bin\Debug\net6.0-windows\AsyncUDPServer.deps.json
+C:\Users\mavez\source\repos\NP 3\AsyncUDPServer\bin\Debug\net6.0-windows\AsyncUDPServer.runtimeconfig.json
+C:\Users\mavez\source\repos\NP 3\AsyncUDPServer\bin\Debug\net6.0-windows\AsyncUDPServer.dll
+C:\Users\mavez\source\repos\NP 3\AsyncUDPServer\bin\Debug\net6.0-windows\AsyncUDPServer.pdb
+C:\Users\mavez\source\repos\NP 3\AsyncUDPServer\obj\Debug\net6.0-windows\AsyncUDPServer.csproj.AssemblyReference.cache
+C:\Users\mavez\source\repos\NP 3\AsyncUDPServer\obj\Debug\net6.0-windows\AsyncUDPServer.Form1.resources
+C:\Users\mavez\source\repos\NP 3\AsyncUDPServer\obj\Debug\net6.0-windows\AsyncUDPServer.csproj.GenerateResource.cache
+C:\Users\mavez\source\repos\NP 3\AsyncUDPServer\obj\Debug\net6.0-windows\AsyncUDPServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mavez\source\repos\NP 3\AsyncUDPServer\obj\Debug\net6.0-windows\AsyncUDPServer.AssemblyInfoInputs.cache
+C:\Users\mavez\source\repos\NP 3\AsyncUDPServer\obj\Debug\net6.0-windows\AsyncUDPServer.AssemblyInfo.cs
+C:\Users\mavez\source\repos\NP 3\AsyncUDPServer\obj\Debug\net6.0-windows\AsyncUDPServer.csproj.CoreCompileInputs.cache
+C:\Users\mavez\source\repos\NP 3\AsyncUDPServer\obj\Debug\net6.0-windows\AsyncUDPServer.dll
+C:\Users\mavez\source\repos\NP 3\AsyncUDPServer\obj\Debug\net6.0-windows\refint\AsyncUDPServer.dll
+C:\Users\mavez\source\repos\NP 3\AsyncUDPServer\obj\Debug\net6.0-windows\AsyncUDPServer.pdb
+C:\Users\mavez\source\repos\NP 3\AsyncUDPServer\obj\Debug\net6.0-windows\AsyncUDPServer.genruntimeconfig.cache
+C:\Users\mavez\source\repos\NP 3\AsyncUDPServer\obj\Debug\net6.0-windows\ref\AsyncUDPServer.dll

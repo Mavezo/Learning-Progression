@@ -1,0 +1,18 @@
+C:\Users\mavez\source\repos\NP 3\NP 3 lab 1\bin\Debug\net6.0-windows\NP 3 lab 1.exe
+C:\Users\mavez\source\repos\NP 3\NP 3 lab 1\bin\Debug\net6.0-windows\NP 3 lab 1.deps.json
+C:\Users\mavez\source\repos\NP 3\NP 3 lab 1\bin\Debug\net6.0-windows\NP 3 lab 1.runtimeconfig.json
+C:\Users\mavez\source\repos\NP 3\NP 3 lab 1\bin\Debug\net6.0-windows\NP 3 lab 1.dll
+C:\Users\mavez\source\repos\NP 3\NP 3 lab 1\bin\Debug\net6.0-windows\NP 3 lab 1.pdb
+C:\Users\mavez\source\repos\NP 3\NP 3 lab 1\obj\Debug\net6.0-windows\NP 3 lab 1.csproj.AssemblyReference.cache
+C:\Users\mavez\source\repos\NP 3\NP 3 lab 1\obj\Debug\net6.0-windows\NP_3_lab_1.Form1.resources
+C:\Users\mavez\source\repos\NP 3\NP 3 lab 1\obj\Debug\net6.0-windows\NP 3 lab 1.csproj.GenerateResource.cache
+C:\Users\mavez\source\repos\NP 3\NP 3 lab 1\obj\Debug\net6.0-windows\NP 3 lab 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mavez\source\repos\NP 3\NP 3 lab 1\obj\Debug\net6.0-windows\NP 3 lab 1.AssemblyInfoInputs.cache
+C:\Users\mavez\source\repos\NP 3\NP 3 lab 1\obj\Debug\net6.0-windows\NP 3 lab 1.AssemblyInfo.cs
+C:\Users\mavez\source\repos\NP 3\NP 3 lab 1\obj\Debug\net6.0-windows\NP 3 lab 1.csproj.CoreCompileInputs.cache
+C:\Users\mavez\source\repos\NP 3\NP 3 lab 1\obj\Debug\net6.0-windows\NP 3 lab 1.dll
+C:\Users\mavez\source\repos\NP 3\NP 3 lab 1\obj\Debug\net6.0-windows\refint\NP 3 lab 1.dll
+C:\Users\mavez\source\repos\NP 3\NP 3 lab 1\obj\Debug\net6.0-windows\NP 3 lab 1.pdb
+C:\Users\mavez\source\repos\NP 3\NP 3 lab 1\obj\Debug\net6.0-windows\NP 3 lab 1.genruntimeconfig.cache
+C:\Users\mavez\source\repos\NP 3\NP 3 lab 1\obj\Debug\net6.0-windows\ref\NP 3 lab 1.dll
+C:\Users\mavez\source\repos\NP 3\NP 3 lab 1\obj\Debug\net6.0-windows\NP_3_lab_1.clientForm.resources

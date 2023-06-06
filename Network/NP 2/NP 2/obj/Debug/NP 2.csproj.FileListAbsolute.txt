@@ -1,0 +1,11 @@
+C:\Users\mavez\source\repos\NP 2\NP 2\bin\Debug\NP 2.exe.config
+C:\Users\mavez\source\repos\NP 2\NP 2\bin\Debug\NP 2.exe
+C:\Users\mavez\source\repos\NP 2\NP 2\bin\Debug\NP 2.pdb
+C:\Users\mavez\source\repos\NP 2\NP 2\obj\Debug\NP 2.csproj.AssemblyReference.cache
+C:\Users\mavez\source\repos\NP 2\NP 2\obj\Debug\NP 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\mavez\source\repos\NP 2\NP 2\obj\Debug\NP_2.Form1.resources
+C:\Users\mavez\source\repos\NP 2\NP 2\obj\Debug\NP_2.Properties.Resources.resources
+C:\Users\mavez\source\repos\NP 2\NP 2\obj\Debug\NP 2.csproj.GenerateResource.cache
+C:\Users\mavez\source\repos\NP 2\NP 2\obj\Debug\NP 2.csproj.CoreCompileInputs.cache
+C:\Users\mavez\source\repos\NP 2\NP 2\obj\Debug\NP 2.exe
+C:\Users\mavez\source\repos\NP 2\NP 2\obj\Debug\NP 2.pdb

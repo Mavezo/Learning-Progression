@@ -3993,11 +3993,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\Работа (ADO_NET lab-dz 10)\\GamesAndStudios\\GamesAndStudios\\GamesAndStudios.csproj",
+      "projectUniqueName": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ADO.NET\\Работа (ADO_NET lab-dz 10)\\GamesAndStudios\\GamesAndStudios\\GamesAndStudios.csproj",
       "projectName": "GamesAndStudios",
-      "projectPath": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\Работа (ADO_NET lab-dz 10)\\GamesAndStudios\\GamesAndStudios\\GamesAndStudios.csproj",
+      "projectPath": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ADO.NET\\Работа (ADO_NET lab-dz 10)\\GamesAndStudios\\GamesAndStudios\\GamesAndStudios.csproj",
       "packagesPath": "C:\\Users\\mavez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\Работа (ADO_NET lab-dz 10)\\GamesAndStudios\\GamesAndStudios\\obj\\",
+      "outputPath": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ADO.NET\\Работа (ADO_NET lab-dz 10)\\GamesAndStudios\\GamesAndStudios\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mavez\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4014,8 +4014,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\Работа (ADO_NET lab-dz 10)\\GamesAndStudios\\GameAndStudiosClasses\\GameAndStudiosClasses.csproj": {
-              "projectPath": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\Работа (ADO_NET lab-dz 10)\\GamesAndStudios\\GameAndStudiosClasses\\GameAndStudiosClasses.csproj"
+            "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ADO.NET\\Работа (ADO_NET lab-dz 10)\\GamesAndStudios\\GameAndStudiosClasses\\GameAndStudiosClasses.csproj": {
+              "projectPath": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ADO.NET\\Работа (ADO_NET lab-dz 10)\\GamesAndStudios\\GameAndStudiosClasses\\GameAndStudiosClasses.csproj"
             }
           }
         }

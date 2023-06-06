@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "NP 1 lab-dz 2 (client)/1.0.0": {
+        "runtime": {
+          "NP 1 lab-dz 2 (client).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NP 1 lab-dz 2 (client)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

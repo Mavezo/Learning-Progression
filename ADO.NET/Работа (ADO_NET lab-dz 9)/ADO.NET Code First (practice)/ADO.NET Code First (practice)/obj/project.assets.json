@@ -3825,11 +3825,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mavez\\source\\repos\\ADO.NET Code First (practice)\\ADO.NET Code First (practice)\\ADO.NET Code First (practice).csproj",
+      "projectUniqueName": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ADO.NET\\Работа (ADO_NET lab-dz 9)\\ADO.NET Code First (practice)\\ADO.NET Code First (practice)\\ADO.NET Code First (practice).csproj",
       "projectName": "ADO.NET Code First (practice)",
-      "projectPath": "C:\\Users\\mavez\\source\\repos\\ADO.NET Code First (practice)\\ADO.NET Code First (practice)\\ADO.NET Code First (practice).csproj",
+      "projectPath": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ADO.NET\\Работа (ADO_NET lab-dz 9)\\ADO.NET Code First (practice)\\ADO.NET Code First (practice)\\ADO.NET Code First (practice).csproj",
       "packagesPath": "C:\\Users\\mavez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mavez\\source\\repos\\ADO.NET Code First (practice)\\ADO.NET Code First (practice)\\obj\\",
+      "outputPath": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ADO.NET\\Работа (ADO_NET lab-dz 9)\\ADO.NET Code First (practice)\\ADO.NET Code First (practice)\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mavez\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3846,8 +3846,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\mavez\\source\\repos\\ADO.NET Code First (practice)\\ShopLibrary\\ShopLibrary.csproj": {
-              "projectPath": "C:\\Users\\mavez\\source\\repos\\ADO.NET Code First (practice)\\ShopLibrary\\ShopLibrary.csproj"
+            "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ADO.NET\\Работа (ADO_NET lab-dz 9)\\ADO.NET Code First (practice)\\ShopLibrary\\ShopLibrary.csproj": {
+              "projectPath": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ADO.NET\\Работа (ADO_NET lab-dz 9)\\ADO.NET Code First (practice)\\ShopLibrary\\ShopLibrary.csproj"
             }
           }
         }

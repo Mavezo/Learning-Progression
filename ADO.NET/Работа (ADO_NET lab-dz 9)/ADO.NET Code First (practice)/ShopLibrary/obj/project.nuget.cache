@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Bb96QvGbCFOSgSFH2DfjC25FrxYEfVh797w7kLIX4EBHtOx/a2DUXl1R3DpNwxoYUD/KYbhT7PsCgJUX5aqv2g==",
+  "dgSpecHash": "l5l3TaDZT/PpcmQHj5P92sGayZr8XQSRWbeOwVZDNQIvPI+6uiMNKcoLkZl1Wk64culpaKQe1kWwn3hyIR8ipg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mavez\\source\\repos\\ADO.NET Code First (practice)\\ShopLibrary\\ShopLibrary.csproj",
+  "projectFilePath": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ADO.NET\\Работа (ADO_NET lab-dz 9)\\ADO.NET Code First (practice)\\ShopLibrary\\ShopLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mavez\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\mavez\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

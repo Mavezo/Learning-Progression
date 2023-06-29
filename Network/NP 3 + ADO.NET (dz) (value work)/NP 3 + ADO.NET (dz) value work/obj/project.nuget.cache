@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gDGVsdVCH4tAy9UtWu8Mh0KLrGfUxlJVv2SUSDRI48VtUjkpqoht8AmQ/bC6gHM/f0Rs7vswCCOBMaPV0GDe+g==",
+  "dgSpecHash": "w+2i1dsz4kcXVYXSEeSjs1DbxRPGrTv7GrwYDFDhEofn37dL4pqZ2xIu2MUjf9JBXhqfZ6jSQ6zghLcJTr5Sgg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mavez\\source\\repos\\NP 3 + ADO.NET (dz) value work\\NP 3 + ADO.NET (dz) value work\\NP 3 + ADO.NET (dz) value work.csproj",
+  "projectFilePath": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\Network\\NP 3 + ADO.NET (dz) (value work)\\NP 3 + ADO.NET (dz) value work\\NP 3 + ADO.NET (dz) value work.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mavez\\.nuget\\packages\\microsoft.data.sqlite\\7.0.5\\microsoft.data.sqlite.7.0.5.nupkg.sha512",
     "C:\\Users\\mavez\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.5\\microsoft.data.sqlite.core.7.0.5.nupkg.sha512",

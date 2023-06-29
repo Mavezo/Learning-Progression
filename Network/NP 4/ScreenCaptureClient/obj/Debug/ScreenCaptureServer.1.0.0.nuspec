@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ScreenCaptureServer</id>
+    <version>1.0.0</version>
+    <authors>ScreenCaptureServer</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\mavez\source\repos\NP 4\ScreenCaptureClient\bin\Debug\net6.0\ScreenCaptureServer.runtimeconfig.json" target="lib\net6.0\ScreenCaptureServer.runtimeconfig.json" />
+    <file src="C:\Users\mavez\source\repos\NP 4\ScreenCaptureClient\bin\Debug\net6.0\ScreenCaptureServer.dll" target="lib\net6.0\ScreenCaptureServer.dll" />
+  </files>
+</package>

@@ -17,7 +17,6 @@ namespace NP_3___ADO.NET__dz__value_work
     {
         public Server()
         {
-            //2:25:00-2:41:00
             InitializeComponent();
         }
 
@@ -86,15 +85,8 @@ namespace NP_3___ADO.NET__dz__value_work
 
 
                                 }
-
-
-
                             }
-
-
-
                         }
-
                     }
                     catch (Exception ex)
                     {
@@ -103,59 +95,6 @@ namespace NP_3___ADO.NET__dz__value_work
                             textBox1.Text += ex.Message;
                         });
                     }
-                    /* 
-                    using (HardwareDbContext context = new HardwareDbContext())
-                    {
-                        try
-                        {
-                            while (true)
-                            {
-                                byte[] buff = new byte[1024];
-                                buff = Encoding.Default.GetBytes(JsonConvert.SerializeObject(context.Hardwares.ToList()));
-
-
-
-
-
-                                await serverSocket.SendToAsync(buff, SocketFlags.None, remoteEndPoint);
-
-
-                                EndPoint ep = new IPEndPoint(IPAddress.Any.Parse("192.168.0.28"), 11000);
-                var receiveResult = await serverSocket.ReceiveFromAsync(buff, SocketFlags.None, ep);
-
-
-                 
-                        //_ = Task.Run(async () =>
-                        //{
-                        //    while (true)
-                        //    {
-                        //        try
-                        //        {
-                        //            serverSocket.Bind(ep);
-                        //            var receiveResult = await serverSocket.ReceiveFromAsync(buff, SocketFlags.None, ep);
-                        //            Hardware receivedHard = JsonConvert.DeserializeObject<Hardware>(Encoding.Default.GetString(buff))!;
-                        //            HardwarePrice price = context.Prices.Where(t => t.HardwareId == receivedHard.Id).FirstOrDefault()!;
-                        //            buff = Encoding.Default.GetBytes(JsonConvert.SerializeObject(price));
-                        //            await serverSocket.SendToAsync(buff, SocketFlags.None, remoteEndPoint);
-                        //        }
-                        //        catch (Exception ex)
-                        //        {
-                        //            MessageBox.Show(ex.Message);
-                        //        }
-                        //    }
-
-                        //});
-
-            }
-        }
-
-
-        catch (Exception ex) { MessageBox.Show(ex.Message); }
-
-
-                //}
-
-      */
                 });
             }
 

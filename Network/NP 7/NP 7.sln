@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NP 7", "NP 7\NP 7.csproj", "{A68FFFD1-1F1B-4D47-B9DE-F7D07E65F09F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherGdynia", "WeatherGdynia\WeatherGdynia.csproj", "{CA646E89-4410-47CA-B052-934E3FAE4BAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A68FFFD1-1F1B-4D47-B9DE-F7D07E65F09F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A68FFFD1-1F1B-4D47-B9DE-F7D07E65F09F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A68FFFD1-1F1B-4D47-B9DE-F7D07E65F09F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A68FFFD1-1F1B-4D47-B9DE-F7D07E65F09F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA646E89-4410-47CA-B052-934E3FAE4BAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA646E89-4410-47CA-B052-934E3FAE4BAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA646E89-4410-47CA-B052-934E3FAE4BAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA646E89-4410-47CA-B052-934E3FAE4BAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A83F9197-6432-4F3A-9298-125528CA3760}
+	EndGlobalSection
+EndGlobal

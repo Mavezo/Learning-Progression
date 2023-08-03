@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Сar Rental Database", "Сar Rental Database\Сar Rental Database.csproj", "{FCDE3CD1-8D28-463B-8F39-4E20218747B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarRentalClasses", "CarRentalClasses\CarRentalClasses.csproj", "{DD7F2C0A-665B-41F8-975B-D7E850E96E61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCDE3CD1-8D28-463B-8F39-4E20218747B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCDE3CD1-8D28-463B-8F39-4E20218747B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCDE3CD1-8D28-463B-8F39-4E20218747B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCDE3CD1-8D28-463B-8F39-4E20218747B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD7F2C0A-665B-41F8-975B-D7E850E96E61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD7F2C0A-665B-41F8-975B-D7E850E96E61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD7F2C0A-665B-41F8-975B-D7E850E96E61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD7F2C0A-665B-41F8-975B-D7E850E96E61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {676920B5-927F-4EC6-82EF-EBF8625898C9}
+	EndGlobalSection
+EndGlobal

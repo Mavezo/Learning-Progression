@@ -1,0 +1,20 @@
+C:\Users\mavez\source\repos\CV (Fluent Builder)\CV (Fluent Builder)\bin\Debug\net6.0-windows\CV (Fluent Builder).exe
+C:\Users\mavez\source\repos\CV (Fluent Builder)\CV (Fluent Builder)\bin\Debug\net6.0-windows\CV (Fluent Builder).deps.json
+C:\Users\mavez\source\repos\CV (Fluent Builder)\CV (Fluent Builder)\bin\Debug\net6.0-windows\CV (Fluent Builder).runtimeconfig.json
+C:\Users\mavez\source\repos\CV (Fluent Builder)\CV (Fluent Builder)\bin\Debug\net6.0-windows\CV (Fluent Builder).dll
+C:\Users\mavez\source\repos\CV (Fluent Builder)\CV (Fluent Builder)\bin\Debug\net6.0-windows\CV (Fluent Builder).pdb
+C:\Users\mavez\source\repos\CV (Fluent Builder)\CV (Fluent Builder)\obj\Debug\net6.0-windows\CV (Fluent Builder).csproj.AssemblyReference.cache
+C:\Users\mavez\source\repos\CV (Fluent Builder)\CV (Fluent Builder)\obj\Debug\net6.0-windows\CV__Fluent_Builder_.Form1.resources
+C:\Users\mavez\source\repos\CV (Fluent Builder)\CV (Fluent Builder)\obj\Debug\net6.0-windows\CV (Fluent Builder).csproj.GenerateResource.cache
+C:\Users\mavez\source\repos\CV (Fluent Builder)\CV (Fluent Builder)\obj\Debug\net6.0-windows\CV (Fluent Builder).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mavez\source\repos\CV (Fluent Builder)\CV (Fluent Builder)\obj\Debug\net6.0-windows\CV (Fluent Builder).AssemblyInfoInputs.cache
+C:\Users\mavez\source\repos\CV (Fluent Builder)\CV (Fluent Builder)\obj\Debug\net6.0-windows\CV (Fluent Builder).AssemblyInfo.cs
+C:\Users\mavez\source\repos\CV (Fluent Builder)\CV (Fluent Builder)\obj\Debug\net6.0-windows\CV (Fluent Builder).csproj.CoreCompileInputs.cache
+C:\Users\mavez\source\repos\CV (Fluent Builder)\CV (Fluent Builder)\obj\Debug\net6.0-windows\CV (Fluent Builder).dll
+C:\Users\mavez\source\repos\CV (Fluent Builder)\CV (Fluent Builder)\obj\Debug\net6.0-windows\refint\CV (Fluent Builder).dll
+C:\Users\mavez\source\repos\CV (Fluent Builder)\CV (Fluent Builder)\obj\Debug\net6.0-windows\CV (Fluent Builder).pdb
+C:\Users\mavez\source\repos\CV (Fluent Builder)\CV (Fluent Builder)\obj\Debug\net6.0-windows\CV (Fluent Builder).genruntimeconfig.cache
+C:\Users\mavez\source\repos\CV (Fluent Builder)\CV (Fluent Builder)\obj\Debug\net6.0-windows\ref\CV (Fluent Builder).dll
+C:\Users\mavez\source\repos\CV (Fluent Builder)\CV (Fluent Builder)\bin\Debug\net6.0-windows\Employee.dll
+C:\Users\mavez\source\repos\CV (Fluent Builder)\CV (Fluent Builder)\bin\Debug\net6.0-windows\Employee.pdb
+C:\Users\mavez\source\repos\CV (Fluent Builder)\CV (Fluent Builder)\obj\Debug\net6.0-windows\CV (Fluent Builder).csproj.CopyComplete

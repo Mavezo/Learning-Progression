@@ -1,0 +1,71 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.wrap{
+    width: 1000px;
+    display: grid;
+    grid-template-columns: [first] 25%  [chat] 50% [second] 25%;
+    grid-template-rows: repeat(6, auto);
+}
+
+p{
+    padding: 20px;    
+    grid-area: chat;
+
+}
+
+.pink{
+    margin-top: auto;
+    background-color: rgb(255, 159, 159);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.blue{
+    margin-top: auto;
+    background-color: lightblue;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+.left-interlocutor{
+    padding-top: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: flex-start;
+    grid-area: first;
+}
+
+.left-interlocutor > .name{
+    font-size: 16px;
+    padding-top: 10px;
+}
+
+.left-interlocutor > .name > .time{
+    font-size: 16px;
+    color: rgb(129, 129, 129);
+}
+
+.right-interlocutor{
+    padding-top: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+    grid-area: second;
+}
+
+.right-interlocutor > .name{
+    font-size: 16px;
+    padding-top: 10px;
+}
+
+.right-interlocutor > .name > .time{
+    font-size: 16px;
+    color: rgb(129, 129, 129);
+}
+

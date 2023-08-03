@@ -1,0 +1,64 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.text {
+    position: static;
+    margin-left: 160px;
+}
+
+.clearfix::before,
+.clearfix::after {
+    content: "";
+    display: table;
+}
+
+.clearfix::after {
+    clear: left;
+}
+
+.menu {
+    height: 100%;
+    position: fixed;
+    float: left;
+    width: 50px;
+    background-color: lightslategray;
+    padding: 40px;
+    margin: 0px;
+    top: 0;
+    left: 0;
+    transition: width 1s ease;
+}
+
+img {
+    float: left;
+}
+
+.image {
+    padding: 20px 0px;
+    display: block;
+    text-align: center;
+}
+
+.menu_expand_text {
+    display: none;
+}
+
+.image:hover {
+    background-color: rgb(73, 84, 95);
+}
+
+.menu:hover {
+    width: 200px;
+}
+
+.menu:hover .menu_expand_text {
+    display: block;
+    text-align: center;
+    font-weight: bold;
+    padding-top: 10px;
+    margin: 0;
+    padding-left: 72px;
+    font-weight: bold;
+
+}

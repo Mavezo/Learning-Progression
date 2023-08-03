@@ -1,0 +1,13 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+table{
+    text-align: center;
+    border-collapse: collapse;
+
+}
+
+thead tr, tbody td:first-child{
+    background-color: rgb(108, 165, 165);
+}

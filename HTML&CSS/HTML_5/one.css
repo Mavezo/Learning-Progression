@@ -1,0 +1,86 @@
+
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+table,
+td,
+tr,
+th {
+    padding: 10px;
+}
+
+thead {
+    background-color: white;
+}
+
+table {
+    border-collapse: collapse;
+    width: 60%;
+}
+
+ td:nth-child(odd){
+    background-color: whitesmoke;
+    filter: brightness(95%);
+}
+
+tr:nth-child(odd) {
+    background-color: white;
+    filter: brightness(90%);
+}
+
+th.first {
+    background-color: rgb(115, 115, 193);
+
+}
+
+th.second {
+    background-color: rgb(63, 63, 151);
+
+}
+
+th.third {
+    background-color: rgb(44, 44, 129);
+}
+
+th.fourth {
+    background-color: rgb(25, 25, 103);
+}
+
+th.fifth {
+    background-color: rgb(12, 12, 70);
+}
+
+div {
+    text-align: center;
+}
+
+p {
+    margin: 0;
+    color: white;
+}
+
+p.price {
+    font-size: 30px;
+}
+
+.btn {
+    padding: 10px 40px;
+}
+
+thead th:first-child{
+    border-top-left-radius: 20px;
+}
+
+thead th:last-child{
+    border-top-right-radius: 20px;
+}
+
+tfoot td:first-child{
+    border-bottom-left-radius: 20px;
+}
+
+tfoot td:last-child{
+    border-bottom-right-radius: 20px;
+}

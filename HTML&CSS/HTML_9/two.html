@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="two.css">
+</head>
+<body>
+    <div class="wrapper clearfix">
+        <div class="wrapper-form   ">
+            <div class="contact-form ">    
+                <h2>Contact Form</h2>
+                <p id="fill-asking">Please fill in your information and we'll be sending your order.</p>
+                <form  action="/action_page.php">
+                    <label for="first-name" class="left" style="grid-row-start: 1; grid-row-end: 2;">Your   name</label>
+
+                    <label for="email" class="left" style="grid-row-start: 2; grid-row-end: 3;">Your email</label>
+
+                    <label for="phone-first" class="left" style="grid-row-start: 3; grid-row-end: 4;">Phone *</label>
+                    
+                    <label for="subject" class="left" style="grid-row-start: 4; grid-row-end: 5;">Message subject *</label>
+
+                    <label for="subject" class="left" style="grid-row-start: 5; grid-row-end: 6;">Message *</label>
+
+                    <div class="inputs">
+                        <input type="text" name="first-name" id="first-name" placeholder="first name">
+                        <input type="text" name="last-name" id="last-name" placeholder="last name">
+                        <input type="email" name="email" id="email" placeholder="your_mail@mail.com">
+                        <input type="text" name="phone-first" id="phone-first" placeholder="000">
+                        <input type="text" name="phone-second" id="phone-second"placeholder="000">
+                        <input type="text" name="phone-third" id="phone-third"placeholder="0000">
+                        
+                        <select name="subjects" id="subjects">
+                            <option value="documents">Documents</option>
+                            <option value="videos">Videos</option>
+                            <option value="positions">Positions</option>
+                            <option value="salaries">Salary</option>
+                        </select>
+                    </div>            
+                    <textarea name="message" id="message" cols="30" rows="10"></textarea>
+                </form>
+                <hr>
+                <button class="sumbit">Sumbit form</button>
+
+            </div>
+
+        </div>
+    </div>
+
+</body>
+</html>

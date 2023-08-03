@@ -1,0 +1,12 @@
+C:\Users\mavez\source\repos\CV (Fluent Builder)\Employee\bin\Debug\net6.0\Employee.deps.json
+C:\Users\mavez\source\repos\CV (Fluent Builder)\Employee\bin\Debug\net6.0\Employee.dll
+C:\Users\mavez\source\repos\CV (Fluent Builder)\Employee\bin\Debug\net6.0\Employee.pdb
+C:\Users\mavez\source\repos\CV (Fluent Builder)\Employee\obj\Debug\net6.0\Employee.csproj.AssemblyReference.cache
+C:\Users\mavez\source\repos\CV (Fluent Builder)\Employee\obj\Debug\net6.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mavez\source\repos\CV (Fluent Builder)\Employee\obj\Debug\net6.0\Employee.AssemblyInfoInputs.cache
+C:\Users\mavez\source\repos\CV (Fluent Builder)\Employee\obj\Debug\net6.0\Employee.AssemblyInfo.cs
+C:\Users\mavez\source\repos\CV (Fluent Builder)\Employee\obj\Debug\net6.0\Employee.csproj.CoreCompileInputs.cache
+C:\Users\mavez\source\repos\CV (Fluent Builder)\Employee\obj\Debug\net6.0\Employee.dll
+C:\Users\mavez\source\repos\CV (Fluent Builder)\Employee\obj\Debug\net6.0\refint\Employee.dll
+C:\Users\mavez\source\repos\CV (Fluent Builder)\Employee\obj\Debug\net6.0\Employee.pdb
+C:\Users\mavez\source\repos\CV (Fluent Builder)\Employee\obj\Debug\net6.0\ref\Employee.dll

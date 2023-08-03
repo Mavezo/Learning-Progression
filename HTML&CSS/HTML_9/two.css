@@ -1,0 +1,146 @@
+*{
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.wrapper{
+    background-image: url(images/silhouette_island_beach_aerial_view_4k.jpg);
+    background-repeat: round;
+    max-width: 100%;
+    height: auto;   
+    padding: 3% 6%;
+    display: block;
+
+}
+
+
+.wrapper-form{
+    box-shadow: 0px 0px 24px 3px rgb(204, 204, 204);
+    border: 2px rgb(204, 204, 204);
+    max-width: 100%;
+    width: 100%;
+    
+}
+
+.contact-form{
+    color: rgb(219, 219, 219);
+    padding: 5%;
+ 
+}
+
+.clearfix::before,
+.clearfix::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+
+.contact-form > h2{
+    color: white;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+#fill-asking{
+    padding: 40px 0px;
+    padding-bottom: 70px;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+form{
+    display: grid;
+    grid-template-columns: [labels] 20% [right] 80%;
+    row-gap: 20px;
+}
+
+form > label{
+    padding: 5px;
+    font-size: 16px;
+    display: block;
+    font-weight: bold;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.left{
+    grid-area: labels;
+}
+
+.right{
+    grid-area: inputs;
+}  
+
+.inputs{
+    grid-area: right;
+    grid-row-start: 1;
+    grid-row-end: 5;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    justify-content: space-between;
+    display: flex;
+    row-gap: 20px;
+    
+}
+
+.inputs > input[type=text], .inputs > input[type=email], .inputs > #subjects{
+    padding: 5px;
+    border: 0px;
+    font-size: 16px;
+}
+
+
+
+.inputs > #first-name{
+    width: 45%;
+}
+
+.inputs > #last-name{
+    width: 45%;
+}
+
+.inputs > #email{
+    width: 100%;
+
+}
+
+.inputs > #phone-first{
+    width: 30%;
+}
+
+.inputs > #phone-second{
+    width: 30%;
+}
+
+.inputs > #phone-third{
+    width: 33.75%;
+}
+
+#subjects{
+    width: 100%;
+    border: 0px;
+    box-shadow: 0px;
+}
+
+#message{
+    height: 200px;
+    border: 0px;
+
+}    
+
+hr{
+    margin: 20px 0px;
+    border: solid;
+    border-width: 1px;
+}
+
+.sumbit{
+    background-color: transparent;
+    border: 1px solid whitesmoke;
+    color: whitesmoke;
+    width: 80%;
+    cursor: pointer;
+    float: right;
+    font-size: 20px;
+    font-weight: bold;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}

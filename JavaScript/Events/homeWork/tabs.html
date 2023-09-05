@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        *{
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        div#wrapper{
+            margin: 40px;
+            border: 4px solid rgb(72, 72, 134);
+            display: grid;
+            grid-template-columns: 10% 90%;
+        }
+
+        div#tabs{
+            padding: 20px 0px;
+            background-color: rgb(72, 72, 134);
+
+        }
+        div#text{
+            text-align: justify;
+            font-size: 20px;
+            margin: 20px;
+        }
+        div.btn{    
+            background-color: rgb(72, 72, 134);
+            text-align: center;
+            border: none;
+            width: 100%;
+            height: 100px;
+        }
+        div.btn > p{
+            margin: 0px;
+            position: relative;
+            color: lightgray;
+            box-sizing: border-box;
+
+            font-size: 30px;
+            top: 30%;
+
+        }
+
+        div.btn:hover{
+            background-color: rgb(46, 46, 104);
+        }
+
+    </style>
+</head>
+<body>
+    <div id="wrapper">
+        <div id="tabs">
+            <div id="html" class="btn"><p>HTML</p></div>
+            <div id="css" class="btn"><p>CSS</p></div>
+            <div id="js" class="btn"><p>JS</p></div>
+        </div>
+        <div id="text">
+            The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. It defines the meaning and structure of web content. It is often assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript.<br><br>
+
+            Web browsers receive HTML documents from a web server or from local storage and render the documents into multimedia web pages. HTML describes the structure of a web page semantically and originally included cues for its appearance.
+        </div>
+
+
+
+    </div>
+
+
+    <script>
+
+        let html = document.getElementById("html");
+        let css = document.getElementById("css");
+        let js = document.getElementById("js");
+
+        html.addEventListener("click", e=>{
+            text.innerText = ` The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. It defines the meaning and structure of web content. It is often assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript.
+
+            Web browsers receive HTML documents from a web server or from local storage and render the documents into multimedia web pages. HTML describes the structure of a web page semantically and originally included cues for its appearance.`
+            css.style.backgroundColor = "rgb(72, 72, 134)";
+            js.style.backgroundColor = "rgb(72, 72, 134)";
+
+            html.style.backgroundColor = "rgb(46, 46, 104)";
+        });
+
+        css.addEventListener("click", e=>{
+            text.innerHTML = `Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML (including XML dialects such as SVG, MathML or XHTML).[1] CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.[2]<br><br>
+            CSS is designed to enable the separation of content and presentation, including layout, colors, and fonts.[3] This separation can improve content accessibility; provide more flexibility and control in the specification of presentation characteristics`;
+            html.style.backgroundColor = "rgb(72, 72, 134)";
+            js.style.backgroundColor = "rgb(72, 72, 134)";
+            
+            css.style.backgroundColor = "rgb(46, 46, 104)";
+        
+        });
+        
+        js.addEventListener("click", e=>{
+            text.innerHTML = `JavaScript (/ˈdʒɑːvəskrɪpt/), often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2023, 98.7% of websites use JavaScript on the client side for webpage behavior,[10] often incorporating third-party libraries. All major web browsers have a dedicated JavaScript engine to execute the code on users' devices.<br><br>
+
+            JavaScript is a high-level, often just-in-time compiled language that conforms to the ECMAScript standard.[11] It has dynamic typing, prototype-based object-orientation, and first-class functions.`;
+            html.style.backgroundColor = "rgb(72, 72, 134)";
+            css.style.backgroundColor = "rgb(72, 72, 134)";
+            
+            js.style.backgroundColor = "rgb(46, 46, 104)";
+        
+        });
+
+
+
+
+    </script>
+
+
+</body>
+</html>

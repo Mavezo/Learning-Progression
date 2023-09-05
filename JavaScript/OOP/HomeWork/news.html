@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+
+        * {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        div#wrapper{
+            display: flex;
+            justify-content: space-around;
+        }
+
+        div#news {
+            /* display: inline-block; */
+            width: 500px;
+            margin: 0px;
+            border: 5px black solid;
+            font-size: 18px;
+            padding: 20px;
+        }
+
+        div.header {
+            font-size: 25px;
+            font-weight: bold;
+        }
+
+        div.text {
+            font-size: 20px;
+            margin-top: 20px;
+            margin-bottom: 10px;
+            margin-right: 40px;
+            text-align: justify;
+        }
+
+        div.tags {
+            word-spacing: 10px;
+            margin-bottom: 20px;
+        }
+
+        div.tags>a {
+            text-decoration: none;
+        }
+
+        div#news_feed{
+            margin-left: 300px;
+            /* display: inline-block; */
+            width: 500px;
+            border: 5px black solid;
+            font-size: 18px;
+            padding: 20px;
+        }
+
+    </style>
+</head>
+
+<body>
+    <script>
+        document.write(`<div id='wrapper'>`);
+
+        document.write(`<div id="news">`);
+        class News {
+            constructor(header, text, tags, date) {
+                this.header = header;
+                this.text = text;
+                this.tags = tags;
+                this.date = date;
+            }
+            print() {
+                document.write(`<div class='header'>${this.header}</div>`);
+                let currentDate = new Date();
+                if (this.date.toDateString() == currentDate.toDateString()) {
+                    document.write(`<div style="font-style: italic;">Today</div>`);
+                }
+                else {
+                    let dayOffset = (24 * 60 * 60 * 1000) * 8;
+                    let dateDiff = Math.abs(this.date - currentDate);
+                    if (dateDiff <= dayOffset) {
+                        let daysAgo = Math.floor(dateDiff / (24 * 60 * 60 * 1000));
+                        document.write(`<div style="font-style: italic;">${daysAgo} days ago</div>`);
+                    }
+                    else {
+                        document.write(`<div style="font-style: italic;">${this.date.toDateString()}</div>`);
+                    }
+                }
+                document.write(`<div class='text'>${this.text}</div>`);
+                document.write(`<div class='tags'>`);
+                this.tags.forEach(element => {
+                    document.writeln(`<a href="${element}">#${element}</a>`);
+                });
+                document.write(`</div>`);
+            }
+        }
+
+        let news1 = new News("What is Lorem Ipsum", "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.", ["lorem", "text", "ipsum"], new Date("2023-08-31"));
+        news1.print();
+
+        let news2 = new News("News2", "Test text. Ignore. <br> Test text. Ignore. Test text. Ignore. Test text. Ignore. <br>Test text. Ignore. Test text. Ignore. Test text. Ignore.", ["test", "text", "ignore"], new Date("2023-08-29"));
+        news2.print();
+
+        let news3 = new News("Changes!", `Our hearts require the changes,<br>
+                                              Our eyes require the changes,<br>
+                                              Into our laugh and our tears,<br>
+                                              And into pulse of veins<br>
+                                              Changes!<br>
+                                              We are waiting for changes.<br>
+                                              `, ["changes", "text", "song"], new Date("2023-08-27"));
+        news3.print();
+
+        let news4 = new News("Кто виноват?!", `Кто виноват, что ты устал,<br>
+                                                   Что не нашел, чего ты ждал.<br>
+                                                   Все потерял, что так искал,<br>
+                                                   Поднялся в небо и упал.<br>
+                                                   Еще не наш, но день за днем<br>
+                                                   Уходит жизнь чужим путем.<br>
+                                                   И одиноким стал твой дом.<br>
+                                                   И пусто за твоим окном.<br>
+                                                   И меркнет свет. И молкнут звуки,<br>
+                                                   И новые муки ищут руки.<br>
+                                                   И если боль твоя стихает,<br>
+                                                   Значит будет новая беда.<br>
+                                                   Кто виноват, скажи-ка, брат,<br>
+                                                   Один - женат, второй - богат.<br>
+                                                   Один смешен, другой - влюблен,<br>
+                                                   Один дурак, другой - твой враг.<br>
+                                              `, ["voskresenie", "text", "song"], new Date("2023-08-27"));
+        news4.print();
+
+        document.write(`</div>`)
+
+        class NewsFeed {
+            constructor() {
+                this.news = [];
+            }
+            /**
+            * Adding news to Array.
+            * @constructor
+            * @param {News} params - Enter comma-separated list of News.
+            */
+            addNews() {
+                for (const iterator of arguments) {
+                    this.news.push(iterator);
+                }
+            }
+            getNewsCount() {
+                return this.news.length
+            }
+            print() {
+                this.news.forEach(element => {
+                    element.print();
+                });
+            }
+        }
+        
+        let newsFeed = new NewsFeed();
+        newsFeed.addNews(news1, news2, news3, news4);
+        document.write(`<div id='news_feed'>`);
+        newsFeed.print();
+        document.write(`</div>`);
+        
+        
+        //wrapper
+        document.write(`</div>`);
+
+
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div style="font-size: 30px; font-family: 'Segoe UI'; color: lightcoral;">Test</div>
+    <script>
+        class PrintMachine{
+            constructor(font_size, font_family, color){
+                this.font_size = font_size;
+                this.font_family = font_family;
+                this.color = color;
+            }
+            print(text){
+                document.write(`<div style="font-size: ${this.font_size}px; font-family: '${this.font_family}'; color: ${this.color};">${text}</div>`);
+            }
+        }
+        let sego = new PrintMachine(30, "Segoe UI", "lightcoral");
+        sego.print("Hello World");        
+        sego = new PrintMachine(30, "Segoe UI", "lightblue");
+        sego.print("World, Hello!");        
+        sego = new PrintMachine(30, "Segoe UI", "blue");
+        sego.print("World's Hello");        
+
+
+    </script>
+
+
+
+</body>
+
+</html>

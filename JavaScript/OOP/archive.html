@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        class Archiver{
+            constructor(){
+                this._archive=[];
+                this._temperature = null;
+            }
+            getArchive(){
+                return this._archive;
+            }
+
+        }
+        Object.defineProperty(Archiver.prototype, "temperature", {
+            get(){
+                console.log("Getter");
+                return this._temperature;
+            },
+            set(newValue){
+                this._temperature = newValue;
+                console.log(`Setter (temperature = ${newValue})`);
+                this._archive.push(newValue);
+            } 
+
+        });
+
+        let myArchive = new Archiver();
+        myArchive.temperature = 24;
+        myArchive.temperature = 28;
+        myArchive.temperature = 30;
+        console.log(myArchive.getArchive());
+
+        class ForeignArchiver{}
+        let anotherArchive = new ForeignArchiver();
+
+        class InheritanceArchiver extends Archiver {}
+        let inheritance = new InheritanceArchiver();
+
+        console.log(anotherArchive instanceof Archiver);
+        console.log(inheritance instanceof Archiver);
+        console.log(inheritance instanceof Function);
+        console.log(function(){} instanceof Function);
+
+    </script>
+</body>
+</html>

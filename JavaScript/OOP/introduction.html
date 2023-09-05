@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        class User{
+            constructor(name){
+                this.name = name;
+            }
+            sayHi(){
+                console.log(this.name);
+            }
+        }
+        let user = new User("Roman");
+        user.sayHi();
+        console.log(typeof user);
+        console.log(typeof User);
+        
+        console.log(User);
+        console.log(Object.getOwnPropertyNames(User.prototype));
+        console.log(User.prototype.sayHi);
+        User.prototype.sayHi = "dasdasdasd";
+        console.log(User.prototype.sayHi);
+        let Admin = class{
+            constructor(name){
+                this.name = name;
+                this.isAdmin = true;
+            }
+            sayHi(){
+                console.log(`My name is ${this.name}, isAdmin = ${this.isAdmin}`);
+            };    
+        }
+        let roman = new Admin("test");
+        roman.sayHi();
+        function makeClass(phrase) {
+            return class{
+                sayPhrase(){
+                    console.log(phrase);
+                }
+            }
+        }
+        let newClass = new makeClass("btw not bad").sayPhrase();
+    </script>
+</body>
+</html>

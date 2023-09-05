@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        function compareTwoStringsLenght(str1, str2) {
+            return str1.length > str2.length ? 1 : (str1.length == str2.length) ? 0 : -1;
+        }
+        function getAbbreviationFromString(str) {
+            let words = str.split(" ");
+            let abbreviation = "";
+            for (const iterator of words) {
+                abbreviation = abbreviation.concat(iterator[0].toUpperCase());
+            }
+            return abbreviation;
+        }
+        function AllParamsToString(){
+            let finalString = "";
+            for (const iterator of arguments) {
+                finalString = finalString.concat(iterator, " ");
+            }
+            return finalString;
+        }
+        
+        
+        let strOne = "Test";
+        let strTwo = "Testing";
+        console.log(compareTwoStringsLenght(strOne, strTwo));
+        console.log(getAbbreviationFromString("object oriented programming"));
+        console.log(AllParamsToString("object", "oriented", "programming"));
+
+    </script>
+</body>
+</html>

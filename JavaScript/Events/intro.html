@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    div {
+        height: 100px;
+        width: 300px;
+        background-color: lightblue;
+        margin: 20px;
+    }
+</style>
+
+<body>
+    <div onclick="alert('Test alert!(onclick)')"></div>
+    <div id="clickableDiv"></div>
+    <div id="nextClickableDiv"></div>
+
+    <script>
+        clickableDiv.onclick = function () {
+            alert('Test alert!(clickableDiv)');
+        }
+
+        let nextClickableDiv = document.getElementById("nextClickableDiv");
+        nextClickableDiv.onclick = function (params) {
+            alert('1: Test alert!(nextClickableDiv)');
+        }
+
+        nextClickableDiv.addEventListener("click", function () {
+            alert('2:  Test alert!(nextClickableDiv)');
+        });
+
+
+
+
+
+    </script>
+</body>
+
+</html>

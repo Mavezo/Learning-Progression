@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            position: relative;
+            margin: 0;
+        }
+
+        #gun,
+        #targ,
+        #bullet {
+            position: absolute;
+        }
+
+        #gun {
+            width: 50px;
+            height: 20px;
+            left: 0;
+            top: 50px;
+            background-color: lightcoral;
+        }
+
+        #bullet {
+            height: 17px;
+            border-radius: 50%;
+            width: 17px;
+            top: 50px;
+            left: 30px;
+            background-color: maroon;
+            z-index: -1;
+        }
+
+        #targ {
+            width: 30px;
+            height: 30px;
+            border-radius: 50%;
+            top: 45px;
+            left: 200px;
+            background-color: dodgerblue;
+        }
+    </style>
+
+</head>
+
+<body onkeypress="keyHandler(event) ">
+    <h1>Press SPACE for fire! </h1>
+    <div id="gun"></div>
+    <div id="bullet"></div>
+    <div id="targ"></div>
+
+    <script>
+        var onFly = false;
+        var bulletX = 30;
+
+        function moveBullet() {
+            if(onFly){
+                bulletX+=5;
+                if(bulletX >= 200){
+                    onFly = false;
+                    bulletX = 30;
+                }
+                else
+                    setTimeout(moveBullet, 50);
+            }
+            bullet.style.left = `${bulletX}px`;
+        }
+
+        function keyHandler(e) {
+            console.log(e);
+            if (e.code == "Space" && !onFly) {
+                onFly = true;
+                moveBullet();
+            }
+        }
+        //2:35:13
+
+    </script>
+
+</body>
+
+</html>

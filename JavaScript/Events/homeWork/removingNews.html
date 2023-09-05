@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: lightgoldenrodyellow;
+            padding: 0px 70px;
+            margin: 0px;
+        }
+
+        div#wrapper {
+            border: 1px solid black;
+            padding: 30px;
+        }
+
+        div.new {}
+
+        h2 {
+            display: inline-block;
+
+        }
+
+        button {
+            position: sticky;
+            left: 100%;
+            width: 200px;
+            height: 30px;
+        }
+
+        p {
+            text-align: justify;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="wrapper">
+        <script>
+            function print(id, title, text) {
+                document.write(`<div id='${id}' class='new'>`);
+                document.write(`<h2 id='${id}H2'>${title}</h2>`);
+                document.write(`<button type="button" id='${id}Button'>X [remove]</button>`);
+                document.write(`<p id='${id}P'>${text}</p>`);
+                document.write(`<hr id='${id}HR'>`);
+                document.write(`</div>`);
+
+                let btn = document.getElementById(`${id}Button`);
+                btn.addEventListener("click", e=>{
+                    // let h = document.getElementById(`${id}H2`);
+                    // let p = document.getElementById(`${id}P`);
+                    // let ha = document.getElementById(`${id}H2`);
+                    let news = document.getElementById(`${id}`);
+                    news.remove();
+                });
+
+            }
+
+            let lorem1 = {
+                title: "What is Lorem Ipsum?",
+                text: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                id: "whatIsLorem",
+            }
+
+            let lorem2 = {
+                title: "Why do we use it?",
+                text: "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+                id: "whyDoWeUseLorem",
+            }
+
+            let lorem3 = {
+                title: "Where does it come from?",
+                text: "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.",
+                id: "loremComeFrom",
+            }
+
+
+
+
+            print(lorem1.id, lorem1.title, lorem1.text);
+            print(lorem2.id, lorem2.title, lorem2.text);
+            print(lorem3.id, lorem3.title, lorem3.text);
+            print(lorem3.id+1, lorem3.title+1, lorem3.text+1);
+            print(lorem3.id+2, lorem3.title+2, lorem3.text+2);
+            print(lorem3.id+3, lorem3.title+3, lorem3.text+3);
+
+
+
+        </script>
+    </div>
+</body>
+
+</html>

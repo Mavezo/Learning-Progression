@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <script>
+        class User {
+            static someMethod() {
+                document.write(`${User === this} <br>`);
+            }
+        }
+        User.someMethod();
+        User.someMethod2 = function () {
+            console.log("Static method example");
+        }
+        User.someMethod2();
+        let user = new User();
+
+        class Article {
+            constructor(title, date) {
+                this.title = title;
+                this.date = date;
+            }
+            print(){
+                document.write(`${this.title} -- ${this.date}`);
+            }
+            static Compare(article1, article2){
+                return article1.date - article2.date;
+            }
+            static createTodayArticle(title){
+                return new this(title, new Date());
+            }
+
+        }
+        let art1 = new Article("art1", new Date("1980-01-01"));
+        let art2 = new Article("art2", new Date("1970-01-01"));
+
+        document.write(`${Math.floor(Article.Compare(art1, art2) / 1000 / 60 / 60 / 24 / 365)} years<br>`);
+
+        document.write(Article.createTodayArticle("Today's article").title + "<br>");
+        document.write(Article.createTodayArticle("Today's article").print());
+
+        //2:16:58
+
+
+    </script>
+</body>
+
+</html>

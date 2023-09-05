@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+         class User{
+            constructor(name){
+                this.name = name;
+            }
+            sayHi(){
+                console.log(this.name);
+            }
+        
+            get name(){
+                return this._name;
+            }
+
+            set name(value){
+                if(value.length < 4){
+                    console.log("This value is too short!");
+                    return;    
+                }
+                this._name = value;
+            }
+        }
+        let user1 = new User("Test");
+        user1.name = "23";
+        console.log(user1._name);
+        Object.defineProperty(User.prototype, "age", {
+            get(){
+                return this._age;
+            },
+            set(value){
+                this._age = value*2;
+            }
+        });
+
+        user1.age = 20;
+        console.log(user1.age);
+        console.log(user1._age);
+
+    </script>
+</body>
+</html>

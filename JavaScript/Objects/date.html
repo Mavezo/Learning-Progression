@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        let date = {
+            hours: 20,
+            minutes: 45,
+            seconds: 40,
+            toString(){
+                let stringHours = this.hours;
+                if(this.hours < 10){
+                    stringHours = `0${this.hours}`;
+                }
+                
+                let stringMinutes = this.minutes;
+                if(this.minutes < 10){
+                    stringMinutes = `0${this.minutes}`;
+                }
+
+                let stringSeconds = this.seconds;
+                if(this.seconds < 10){
+                    stringSeconds = `0${this.seconds}`;
+                }
+                return `${stringHours}:${stringMinutes}:${stringSeconds}`;
+            },
+            addSeconds: function(seconds) {
+                console.log(`+${seconds}s`);
+                this.seconds += seconds;
+                if(this.seconds >= 60){
+                    let min = Math.floor(this.seconds / 60);
+                    this.seconds = this.seconds % 60;
+                    this.minutes += min;
+                    if(this.minutes >= 60){
+                        let hours = Math.floor(this.minutes / 60);
+                        this.minutes = this.minutes % 60;
+                        this.hours += hours;
+                        if(this.hours >= 24){
+                            this.hours %= 24;
+                        }
+                    } 
+                }
+            }
+        }
+        console.log(date.toString());
+        date.addSeconds(454);
+        console.log(date.toString());
+    </script>
+
+
+</body>
+</html>

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        let user = {
+            name: "Roman",
+            age: 17
+        }; 
+        let admin = user;
+        // admin.name = "Yana";
+        // console.log(user.name);
+        admin = Object.assign(admin, user)
+        user.name = "RomanV2";
+        console.log(user.name);
+        console.log(admin.name);
+
+    </script>
+    
+</body>
+</html>

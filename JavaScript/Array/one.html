@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        * {
+            font-size: 40px;
+        }
+    </style>
+</head>
+
+<body>
+    <script>
+        function showArray(arr) {
+            document.writeln(`<div style='font-size: 40px;'>${arr}</div>`);
+        }
+        function sumOfElements(arr) {
+            let sum = 0;
+            for (let item in arr) {
+                sum += +item;
+            }
+            return sum;
+        }
+        function addInIndex(arr, elem, index) {
+            arr.splice(index, 0, elem);
+        }
+        function newArrayWithDisctinctElements(array1, array2) {
+            let resultArray = [];
+            for (let item of array1) {
+                if (!array2.includes(item) && !resultArray.includes(item)) {
+                    resultArray.push(item);
+                }
+            }
+            for (let item of array2) {
+                if (!array1.includes(item) && !resultArray.includes(item)) {
+                    resultArray.push(item);
+                }
+            }
+            return resultArray.sort((a, b)=>{
+                return a - b
+            });
+        }
+
+
+        let arr = [];
+        for (let i = 0; i < 10; i++) {
+            arr.push(Math.floor(Math.random() * 10));
+        }
+        showArray(arr);
+        document.writeln(sumOfElements(arr) + "<br>");
+        addInIndex(arr, 100, 5);
+        showArray(arr);
+        let arr2 = [];
+        for (let i = 0; i < 10; i++) {
+            arr2.push(Math.floor(Math.random() * 10));
+        }
+        showArray(arr2);
+        let distinct = newArrayWithDisctinctElements(arr, arr2);
+        showArray(distinct);
+
+
+
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        * {
+            margin: 0px;
+        }
+
+        div#main {
+            position: fixed;
+            width: 100%;
+            height: 100%;
+            background-color: lightgoldenrodyellow;
+        }
+
+        div#coordinates {
+            margin: 20px;
+            font-size: 25px;
+            font-weight: bold;
+        }
+        div#currentButton{
+            margin: 20px;
+            font-size: 25px;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="main" oncontextmenu="return false">
+        <div id="coordinates">
+
+        </div>
+        <div id="currentButton"></div>
+    </div>
+
+    <script>
+        let mainElem = document.getElementById("main");
+        mainElem.addEventListener("mousemove", (e)=>{
+            coordinates.innerText = `X: ${e.offsetX} | Y: ${e.offsetY}`;
+        });
+        mainElem.addEventListener("mouseup", (e) => {
+            switch (e.button) {
+                case 0:
+                    currentButton.innerText = "Main button pressed, usually the left button or the un-initialized state";
+                    break;
+
+                case 1:
+                    currentButton.innerText = "Auxiliary button pressed, usually the wheel button or the middle button (if present)";
+                    break;
+
+                case 2:
+                    currentButton.innerText = "Secondary button pressed, usually the right button";
+                    break;
+
+                case 3:
+                    currentButton.innerText = "Fourth button, typically the Browser Back button";
+                    break;
+
+                case 4:
+                    currentButton.innerText = "Fifth button, typically the Browser Forward button";
+                    break;
+
+                default:
+                    break;
+            }
+        });
+
+    </script>
+
+</body>
+
+</html>

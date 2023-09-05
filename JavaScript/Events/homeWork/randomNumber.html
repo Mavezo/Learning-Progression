@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body{
+            background-color: lightgoldenrodyellow;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        div#wrapper{
+            height: 200px;
+            width: 300px;
+            border: 1px solid black;
+            text-align: center;
+        }
+        p{
+            font-size: 20px;
+        }
+        div#number{
+            font-size: 45px;
+            font-weight: bold;
+            margin: 20px;
+        }
+        #btn{
+            width: 180px;
+            height: 30px;
+        }
+
+
+
+    </style>
+</head>
+
+<body>
+    <div id="wrapper">
+        <p>Random number:</p>
+        <div id="number">0</div>
+        <button id="btn">Generate random number</button>
+    </div>
+    <script>
+        let button = document.getElementById("btn");
+        button.onclick = e => {
+            number.innerText = Math.floor(Math.random() * 100);
+        }
+            
+        
+    </script>
+
+
+</body>
+
+</html>

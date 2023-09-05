@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        div {
+            height: 100px;
+            width: 300px;
+            background-color: lightblue;
+            margin: 20px;
+        }
+    </style>
+</head>
+
+<!-- <body onclick="out.innerText=`Clicked over ${event.target.nodeName}`"> -->
+
+<!-- <body onclick="clickHandler(event)"> -->
+
+<body id="main">
+
+    <div></div>
+    <p id="out"></p>
+    <script>
+        let main = document.getElementById("main");
+        main.addEventListener("click", function (e) {
+            clickHandler(e);
+        });
+
+
+        function clickHandler(e) {
+            let out = document.getElementById("out");
+            out.innerHTML = e.target.nodeName;
+        }
+
+    </script>
+
+</body>
+
+</html>

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #outer {
+            width: 200px;
+            height: 200px;
+            border: 1px solid navy;
+        }
+
+        #inner {
+            width: 100px;
+            height: 100px;
+            margin: 50px;
+            background-color: navy;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="outer">
+        <div id="inner"></div>
+
+    </div>
+    <p>Mouse enter <span id="s1"></span></p>
+    <p>Mouse over <span id="s2"></span></p>
+    <script>
+        let outer = document.getElementById("outer");
+        let inner = document.getElementById("inner");
+        outer.onmouseenter = e =>{
+             console.log("outer onmouseenter"); 
+             s1.innerText = "outer";
+        }
+        outer.onmouseover = e=>{
+            console.log("outer onmouseover"); 
+            s2.innerText = "outer";
+
+        }
+
+        inner.onmouseenter = e =>{
+             console.log("inner onmouseenter"); 
+             s1.innerText = "inner"; 
+        }
+        inner.onmouseover = e=>{
+            console.log("inner onmouseover"); 
+            s2.innerText = "inner";
+
+        }
+
+
+    </script>
+
+</body>
+
+</html>

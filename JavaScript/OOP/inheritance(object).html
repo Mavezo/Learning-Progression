@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        let a = {
+            sayHi(){
+                document.write("Test A<br>");
+            }
+        };
+        let b = {
+            __proto__: a,
+            sayHi(){
+                document.write("Test B<br>");
+            }
+        }
+        let c = {
+            __proto__: b,
+        }
+        a.sayHi();
+        b.sayHi();
+        c.sayHi();
+
+
+
+
+    </script>
+</body>
+</html>

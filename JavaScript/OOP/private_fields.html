@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <script>
+
+        class Article {
+            #title; 
+            constructor(title) {
+                this.#title = title;
+            }
+
+            get title(){
+                return this.#title;
+            }
+
+            set title(value){
+                this.#title = value;
+            }
+
+
+            print() {
+            }
+        }
+
+        let art = new Article("test");
+
+        document.write(art.title);
+        
+
+
+    </script>
+
+</body>
+
+</html>

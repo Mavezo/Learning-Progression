@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <script>
+        // let user = new Object();
+        // user = {};
+        // user.name = "test";
+        // user.age = 10;
+        // console.log(user.name);
+        // console.log(user.age);
+        let user = {
+            name: "Roman",
+            age: 17
+        }
+        console.log(user.name);
+        console.log(user.age);
+        user.isAdmin = true;
+        console.log(user.isAdmin ? "Admin" : "User");
+        delete user.isAdmin;
+        console.log(user.isAdmin);
+        console.log(user.isAdmin ? "Admin" : "User");
+        console.log(user.isAdmin === undefined);
+        console.log(`Name = ${user["name"]}`);
+        console.log(`Age = ${user["age"]}`);
+        user["like fishing"] = false;
+        console.log(user["like fishing"] ? "Fisher" : "Not a fisher");
+        delete user["like fishing"]; //!!!!!!!
+        console.log(user["like fishing"] ? "Fisher" : "Not a fisher");
+        user["like fishing"] = false;  //!!!!!!!!!!
+        let fruit = prompt("Please enter kind of fruit", "apple");
+        let bag = {
+            [fruit]: 5,
+            ["orange"]: 3
+        }
+        console.log(bag[fruit]);
+        console.log(bag.orange);
+        console.log(bag["kiwi"]);
+        let key = +prompt("Enter number", 5);
+        bag[key] = "Hello JS";
+        console.log(bag[key] + " " + key);
+        console.log(bag.key);
+        console.log("isAdmin" in user);
+        console.log("like fishing" in user);
+        console.log("name" in user);
+        console.log("----------------------------");
+        for(let k in bag){
+            console.log(bag[k]);
+        }
+        
+
+    </script>
+
+
+</body>
+
+</html>

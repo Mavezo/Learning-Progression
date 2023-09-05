@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        let rectangle = {
+            left_top_X: -10,
+            left_top_Y: 5,
+            right_bottom_X: 10,
+            right_bottom_Y: -2,
+            toString(){
+                return `Left-Top: (${this.left_top_X};${this.left_top_Y}) | Right-Bottom: (${this.right_bottom_X};${this.right_bottom_Y}))`;
+            },
+            getHeight: function() {
+                return this.left_top_Y - this.right_bottom_Y;
+            }
+        };
+        function getHeight(rectangle) {
+            return rectangle.left_top_Y - rectangle.right_bottom_Y
+        }
+        console.log(rectangle.toString());
+        console.log(rectangle.getHeight());
+        let rectangle1 = Object.assign({}, rectangle);
+        rectangle1.left_top_Y = 0;
+        rectangle1.right_bottom_Y = -10;
+        console.log(getHeight(rectangle1));
+        function increaseWidth(rectangle, additionalWidth) {
+            rectangle.right_bottom_X += additionalWidth;
+        }
+        increaseWidth(rectangle1, 10);
+        console.log(rectangle1.right_bottom_X);
+        console.log("-------------------------");
+        function isPointInside(rectangle, x, y) {
+            console.log(rectangle.toString());
+            console.log(`X = ${x} | Y = ${y}`);
+            if(rectangle.left_top_X <= x && rectangle.right_bottom_X >= x){
+                if(rectangle.left_top_Y >= y && rectangle.right_bottom_Y <= y){
+                    return true;
+                } 
+                else return false;
+            }
+            else return false;
+        }
+        console.log(isPointInside(rectangle, 7, 0));
+
+    </script>
+</body>
+</html>

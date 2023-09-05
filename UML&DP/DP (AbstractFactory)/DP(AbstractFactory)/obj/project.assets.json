@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mavez\\source\\repos\\DP(AbstractFactory)\\DP(AbstractFactory)\\DP(AbstractFactory).csproj",
+      "projectUniqueName": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\UML&DP\\DP (AbstractFactory)\\DP(AbstractFactory)\\DP(AbstractFactory).csproj",
       "projectName": "DP(AbstractFactory)",
-      "projectPath": "C:\\Users\\mavez\\source\\repos\\DP(AbstractFactory)\\DP(AbstractFactory)\\DP(AbstractFactory).csproj",
+      "projectPath": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\UML&DP\\DP (AbstractFactory)\\DP(AbstractFactory)\\DP(AbstractFactory).csproj",
       "packagesPath": "C:\\Users\\mavez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mavez\\source\\repos\\DP(AbstractFactory)\\DP(AbstractFactory)\\obj\\",
+      "outputPath": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\UML&DP\\DP (AbstractFactory)\\DP(AbstractFactory)\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mavez\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\mavez\\source\\repos\\DP(AbstractFactory)\\Pizza\\ItalianPizza.csproj": {
-              "projectPath": "C:\\Users\\mavez\\source\\repos\\DP(AbstractFactory)\\Pizza\\ItalianPizza.csproj"
+            "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\UML&DP\\DP (AbstractFactory)\\Pizza\\ItalianPizza.csproj": {
+              "projectPath": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\UML&DP\\DP (AbstractFactory)\\Pizza\\ItalianPizza.csproj"
             }
           }
         }

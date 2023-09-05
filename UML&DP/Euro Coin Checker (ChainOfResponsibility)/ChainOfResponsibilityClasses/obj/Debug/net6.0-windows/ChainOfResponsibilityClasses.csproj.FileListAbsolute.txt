@@ -1,0 +1,12 @@
+C:\Users\mavez\source\repos\ChainOfResponsibility\ChainOfResponsibilityClasses\bin\Debug\net6.0-windows\ChainOfResponsibilityClasses.deps.json
+C:\Users\mavez\source\repos\ChainOfResponsibility\ChainOfResponsibilityClasses\bin\Debug\net6.0-windows\ChainOfResponsibilityClasses.dll
+C:\Users\mavez\source\repos\ChainOfResponsibility\ChainOfResponsibilityClasses\bin\Debug\net6.0-windows\ChainOfResponsibilityClasses.pdb
+C:\Users\mavez\source\repos\ChainOfResponsibility\ChainOfResponsibilityClasses\obj\Debug\net6.0-windows\ChainOfResponsibilityClasses.csproj.AssemblyReference.cache
+C:\Users\mavez\source\repos\ChainOfResponsibility\ChainOfResponsibilityClasses\obj\Debug\net6.0-windows\ChainOfResponsibilityClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mavez\source\repos\ChainOfResponsibility\ChainOfResponsibilityClasses\obj\Debug\net6.0-windows\ChainOfResponsibilityClasses.AssemblyInfoInputs.cache
+C:\Users\mavez\source\repos\ChainOfResponsibility\ChainOfResponsibilityClasses\obj\Debug\net6.0-windows\ChainOfResponsibilityClasses.AssemblyInfo.cs
+C:\Users\mavez\source\repos\ChainOfResponsibility\ChainOfResponsibilityClasses\obj\Debug\net6.0-windows\ChainOfResponsibilityClasses.csproj.CoreCompileInputs.cache
+C:\Users\mavez\source\repos\ChainOfResponsibility\ChainOfResponsibilityClasses\obj\Debug\net6.0-windows\ChainOfResponsibilityClasses.dll
+C:\Users\mavez\source\repos\ChainOfResponsibility\ChainOfResponsibilityClasses\obj\Debug\net6.0-windows\refint\ChainOfResponsibilityClasses.dll
+C:\Users\mavez\source\repos\ChainOfResponsibility\ChainOfResponsibilityClasses\obj\Debug\net6.0-windows\ChainOfResponsibilityClasses.pdb
+C:\Users\mavez\source\repos\ChainOfResponsibility\ChainOfResponsibilityClasses\obj\Debug\net6.0-windows\ref\ChainOfResponsibilityClasses.dll

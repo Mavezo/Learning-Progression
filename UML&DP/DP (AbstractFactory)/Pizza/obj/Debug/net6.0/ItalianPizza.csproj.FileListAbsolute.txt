@@ -10,3 +10,15 @@ C:\Users\mavez\source\repos\DP(AbstractFactory)\Pizza\obj\Debug\net6.0\ItalianPi
 C:\Users\mavez\source\repos\DP(AbstractFactory)\Pizza\obj\Debug\net6.0\refint\ItalianPizza.dll
 C:\Users\mavez\source\repos\DP(AbstractFactory)\Pizza\obj\Debug\net6.0\ItalianPizza.pdb
 C:\Users\mavez\source\repos\DP(AbstractFactory)\Pizza\obj\Debug\net6.0\ref\ItalianPizza.dll
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\UML&DP\DP (AbstractFactory)\Pizza\bin\Debug\net6.0\ItalianPizza.deps.json
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\UML&DP\DP (AbstractFactory)\Pizza\bin\Debug\net6.0\ItalianPizza.dll
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\UML&DP\DP (AbstractFactory)\Pizza\bin\Debug\net6.0\ItalianPizza.pdb
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\UML&DP\DP (AbstractFactory)\Pizza\obj\Debug\net6.0\ItalianPizza.csproj.AssemblyReference.cache
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\UML&DP\DP (AbstractFactory)\Pizza\obj\Debug\net6.0\ItalianPizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\UML&DP\DP (AbstractFactory)\Pizza\obj\Debug\net6.0\ItalianPizza.AssemblyInfoInputs.cache
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\UML&DP\DP (AbstractFactory)\Pizza\obj\Debug\net6.0\ItalianPizza.AssemblyInfo.cs
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\UML&DP\DP (AbstractFactory)\Pizza\obj\Debug\net6.0\ItalianPizza.csproj.CoreCompileInputs.cache
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\UML&DP\DP (AbstractFactory)\Pizza\obj\Debug\net6.0\ItalianPizza.dll
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\UML&DP\DP (AbstractFactory)\Pizza\obj\Debug\net6.0\refint\ItalianPizza.dll
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\UML&DP\DP (AbstractFactory)\Pizza\obj\Debug\net6.0\ItalianPizza.pdb
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\UML&DP\DP (AbstractFactory)\Pizza\obj\Debug\net6.0\ref\ItalianPizza.dll

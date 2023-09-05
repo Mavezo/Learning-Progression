@@ -16,3 +16,21 @@ C:\Users\mavez\source\repos\DP(AbstractFactory)\DP(AbstractFactory)\obj\Debug\ne
 C:\Users\mavez\source\repos\DP(AbstractFactory)\DP(AbstractFactory)\obj\Debug\net6.0\DP(AbstractFactory).pdb
 C:\Users\mavez\source\repos\DP(AbstractFactory)\DP(AbstractFactory)\obj\Debug\net6.0\DP(AbstractFactory).genruntimeconfig.cache
 C:\Users\mavez\source\repos\DP(AbstractFactory)\DP(AbstractFactory)\obj\Debug\net6.0\ref\DP(AbstractFactory).dll
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\UML&DP\DP (AbstractFactory)\DP(AbstractFactory)\bin\Debug\net6.0\DP(AbstractFactory).exe
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\UML&DP\DP (AbstractFactory)\DP(AbstractFactory)\bin\Debug\net6.0\DP(AbstractFactory).deps.json
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\UML&DP\DP (AbstractFactory)\DP(AbstractFactory)\bin\Debug\net6.0\DP(AbstractFactory).runtimeconfig.json
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\UML&DP\DP (AbstractFactory)\DP(AbstractFactory)\bin\Debug\net6.0\DP(AbstractFactory).dll
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\UML&DP\DP (AbstractFactory)\DP(AbstractFactory)\bin\Debug\net6.0\DP(AbstractFactory).pdb
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\UML&DP\DP (AbstractFactory)\DP(AbstractFactory)\bin\Debug\net6.0\ItalianPizza.dll
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\UML&DP\DP (AbstractFactory)\DP(AbstractFactory)\bin\Debug\net6.0\ItalianPizza.pdb
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\UML&DP\DP (AbstractFactory)\DP(AbstractFactory)\obj\Debug\net6.0\DP(AbstractFactory).csproj.AssemblyReference.cache
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\UML&DP\DP (AbstractFactory)\DP(AbstractFactory)\obj\Debug\net6.0\DP(AbstractFactory).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\UML&DP\DP (AbstractFactory)\DP(AbstractFactory)\obj\Debug\net6.0\DP(AbstractFactory).AssemblyInfoInputs.cache
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\UML&DP\DP (AbstractFactory)\DP(AbstractFactory)\obj\Debug\net6.0\DP(AbstractFactory).AssemblyInfo.cs
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\UML&DP\DP (AbstractFactory)\DP(AbstractFactory)\obj\Debug\net6.0\DP(AbstractFactory).csproj.CoreCompileInputs.cache
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\UML&DP\DP (AbstractFactory)\DP(AbstractFactory)\obj\Debug\net6.0\DP(AbstractFactory).csproj.CopyComplete
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\UML&DP\DP (AbstractFactory)\DP(AbstractFactory)\obj\Debug\net6.0\DP(AbstractFactory).dll
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\UML&DP\DP (AbstractFactory)\DP(AbstractFactory)\obj\Debug\net6.0\refint\DP(AbstractFactory).dll
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\UML&DP\DP (AbstractFactory)\DP(AbstractFactory)\obj\Debug\net6.0\DP(AbstractFactory).pdb
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\UML&DP\DP (AbstractFactory)\DP(AbstractFactory)\obj\Debug\net6.0\DP(AbstractFactory).genruntimeconfig.cache
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\UML&DP\DP (AbstractFactory)\DP(AbstractFactory)\obj\Debug\net6.0\ref\DP(AbstractFactory).dll

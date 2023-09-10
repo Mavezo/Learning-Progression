@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        * {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-weight: bold;
+        }
+
+        div#wrapper {
+            display: grid;
+            height: 200px;
+            width: 340px;
+            border-radius: 3%;
+            border: 2px silver solid;
+            grid-template-columns: 2fr 1fr;
+            grid-template-rows: 1fr 1fr;
+            grid-template-areas: "text upper"
+                "text down";
+            background-color: lightgoldenrodyellow;
+        }
+
+        button {
+            background-color: lightgoldenrodyellow;
+            border: 0px;
+            border-left: 2px silver solid;
+            font-size: 20px;
+        }
+
+        button:hover{
+            background-color: rgb(219, 219, 183);
+        }
+
+        button#upper {
+            grid-area: upper;
+            border-bottom: 1px silver solid ;
+        }
+
+        button#down {
+            grid-area: down;
+            border-top: 1px silver solid ;
+
+        }
+
+        p#number {
+            text-align: center;
+            margin: 0px;
+            padding: 25%;
+            font-size: 60px;
+            font-weight: bold;
+            grid-area: text;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="wrapper">
+        <p id="number">10</p>
+        <button id="upper">UP</button>
+        <button id="down">DOWN</button>
+    </div> 
+    <script>
+        let upBtn = document.getElementById("upper");
+        let number = document.getElementById("number");
+        let downBtn = document.getElementById("down");
+        upBtn.addEventListener("click", e=>{
+            number.innerText = +number.innerText + 1;
+        });
+
+        downBtn.addEventListener("click", e=>{
+            number.innerText = +number.innerText - 1;
+        });
+
+    </script>
+
+</body>
+
+</html>

@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        *> :not(button#addingComment) {
+            background-color: beige;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        div#main {
+            margin: 20px;
+            width: 1100px;
+            text-align: justify;
+        }
+
+        h3#header {}
+
+        hr {
+            margin: 30px 0px
+        }
+
+
+        div.comment>* {
+            margin: 0px;
+        }
+
+        div.date {
+            margin: 5px 0px;
+            font-size: 14px;
+        }
+
+        form#commentsForm>* {
+            margin: 6px 0px;
+        }
+
+        form#commentsForm>input[type=text] {
+            border: 2px solid rgb(116, 116, 116);
+            background-color: whitesmoke;
+            border-radius: 5px;
+        }
+
+        input#name {
+            width: 350px;
+        }
+
+        textarea#commentText {
+            width: 100%;
+            height: auto;
+            resize: none;
+            background-color: whitesmoke;
+
+        }
+
+        button#addingComment {
+            width: 100%;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="main">
+        <h3 id="header">What is Lorem Ipsum?</h3>
+        <p id="text">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
+            industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and
+            scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into
+            electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of
+            Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like
+            Aldus PageMaker including versions of Lorem Ipsum.</p>
+        <hr>
+        <div id="commentsWrapper">
+
+            <div class="comment">
+                <h4>Antoine</h4>
+                <div class="date">22/03/2018</div>
+                <p class="text">Best comments from Antoine!</p>
+            </div>
+            <hr>
+
+
+        </div>
+        <form onsubmit="return false" id="commentsForm">
+            <h4>Leave your comment<br></h4>
+            <label for="name">Name:</label>
+            <input type="text"  name="name" id="name" placeholder="Enter your name"><br>
+            <label for="commentText">Comment:</label><br>
+            <textarea rows="10" name="commentText" id="commentText" minlength="10" maxlength="15000"> </textarea>
+            <button id="addingComment">Add comment</button>
+        </form>
+
+    </div>
+
+    <script>
+        let addingBtn = document.getElementById("addingComment");
+        addingBtn.addEventListener("click", e => {
+            let nameInput = document.getElementById("name");
+            let textInput = document.getElementById("commentText");
+            if(nameInput.value == "" || textInput.value == ""){
+                return;
+            }
+            
+            let comment = document.createElement("div");
+            comment.className = "comment";
+
+            let name = document.createElement("h4");
+            name.innerText = nameInput.value;
+            comment.appendChild(name);
+            nameInput.value = "";
+
+            let currentDate = new Date();
+            let dateDiv = document.createElement("div");
+            dateDiv.className = "date";
+
+            dateDiv.innerText = currentDate.toLocaleDateString('en-GB');
+            
+            
+            comment.appendChild(dateDiv);
+
+            
+            let text = document.createElement("p");
+            text.innerText = textInput.value;
+            comment.appendChild(text);
+            textInput.value = "";
+
+            
+            let commentsWrapper = document.getElementById("commentsWrapper");
+            commentsWrapper.appendChild(comment);
+            commentsWrapper.appendChild(document.createElement("hr"));
+
+
+
+        });
+
+    </script>
+
+
+</body>
+
+</html>

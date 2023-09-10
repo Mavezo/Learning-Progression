@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        document.write(`<div>${navigator.appCodeName} | ${navigator.appVersion}|  ${navigator.appName} |${navigator.language}</div>`);
+        document.write(`<div>${navigator.onLine}| ${navigator.platform}| ${navigator.appName}| ${navigator.product}</div>`);
+        document.write(`<div>${navigator.getUserMedia()} |${navigator.platform}| ${navigator.appName} |${navigator.product}</div>`);
+        let test = navigator.connection;
+        document.write(test.effectiveType);
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,85 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf
+-8" />
+    <title>Events propagation</title>
+    <style>
+        #div1 {
+            background-color: tomato;
+            border: 1px solid red;
+            height: 100px;
+            width: 100px;
+        }
+
+        #div2 {
+            background-color: lime;
+            height: 60px;
+            width: 60px;
+            margin: 20px;
+        }
+        
+        #wrapper{
+            width: 400px;
+            height: 400px;
+            background-color: lightgray;
+        }
+        #div3{
+            width: 100px;
+            height: 100px;
+            background-color: lightblue;
+        }
+        #div4{
+            width: 50px;
+            height: 50px;
+            background-color: lightcoral;
+        }
+
+    
+    </style>
+</head>
+
+<body>
+    <div id="div1">
+        <div id="div2"></div>
+    </div>
+
+    <div id="wrapper">
+        <div id="div3"></div>
+        <div id="div4"></div>
+    </div>
+        
+    <script>
+        div1.addEventListener("click", function (e) {
+            console.log('Click on div1')
+            e.stopPropagation();
+        })
+        div2.addEventListener("click", function (e) {
+            console.log('Click on div2');
+        })
+        div3.addEventListener("click", function (e) {
+            console.log('Click on div3');
+            e.stopPropagation();
+
+        })
+        div4.addEventListener("click", function (e) {
+            console.log('Click on div4');
+        })
+        wrapper.addEventListener("click", function (e) {
+            console.log('Click on wrapper');
+            e.stopPropagation();
+
+        })
+        document.addEventListener("click", function (e) {
+            console.log('Click on document')
+        })
+
+
+
+
+
+    </script>
+</body>
+
+</html>

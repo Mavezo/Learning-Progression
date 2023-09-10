@@ -1,0 +1,31 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+    <title>Frames object</title>
+    <style>
+        iframe {
+            border: 1px solid navy;
+            height: 900px;
+            margin: 90px;
+            width: 900px;
+        }
+
+        button {
+            display: block;
+            margin-left: 150px;
+        }
+    </style>
+</head>
+
+<body>
+    <iframe src="about:blank" name="frame0"></iframe>
+    <button onclick="window.frames[0].location='https://chronoodyssey.com/#/'">
+       Chrono Odyssey
+    </button>
+    <button onclick="window.frames.frame0.location='https://www.youtube.com/watch?v=MNmLn6a-jqw&list=UULPCd1Cwjp3hK1tTxevgnHD3g&index=2'">
+        YouTube
+    </button>
+</body>
+
+</html>

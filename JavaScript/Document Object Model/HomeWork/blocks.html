@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        div#main {
+            text-align: center;
+
+        }
+
+        div#wrapper {
+            display: flex;
+
+            justify-content: flex-start;
+            flex-wrap: wrap;
+
+        }
+
+        button#addBlock {
+            width: 600px;
+        }
+
+        div.block {
+            width: 120px;
+            height: 60px;
+            background-color: lightcoral;
+            margin: 20px;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="main">
+
+        <button id="addBlock">Add block</button>
+        <div id="wrapper">
+        </div>
+
+        <script>
+            let addBtn = document.getElementById("addBlock");
+            addBtn.addEventListener("click", e => {
+                let wrapper = document.getElementById("wrapper");
+                let newBlock = document.createElement("div");
+                newBlock.style = `background-color: rgb(${Math.random() * 255}, ${Math.random() * 255}, ${Math.random() * 255});`
+                newBlock.className = "block";
+                newBlock.onclick = removeBlock;
+                wrapper.appendChild(newBlock);
+            });
+
+            function removeBlock(e) {
+                wrapper.removeChild(event.target);
+            }
+
+        </script>
+
+</body>
+
+</html>

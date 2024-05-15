@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+
+
+
+        *:not(#signBtn, input){
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: beige;
+            box-sizing: border-box;
+        }
+
+        #wrapper {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            width: 700px;
+            font-size: 20px;
+
+        }
+
+        label{
+            width: 45%;
+            padding-bottom: 10px;
+        }
+    
+        label > input{
+            box-sizing: border-box;
+
+            background-color: white;
+            display: block;
+            width: 100%;
+            font-size: 20px;
+            margin-top: 5px;
+            border: 1px rgb(87, 87, 87) solid;
+            border-radius: 5px;
+        }        
+
+        #signBtn{
+
+            margin: 0px;
+            margin-top: 20px;
+            width: 100%;
+            height: 35px;
+            font-size: 18px;
+        }
+
+    </style>
+</head>
+
+<body>
+    <form action="" method="get">
+        <div id="wrapper">
+
+            <label for="email">Your email:
+                <input type="email" name="email" id="email">
+            </label>
+
+            <label for="login">Your login:
+                <input type="text" name="login" id="login">
+            </label>
+
+            <label for="password">Your password:
+                <input type="password" name="password" id="password">
+            </label>
+
+            <label for="passwordRepeat">Repeat password:
+                <input type="password" name="passwordRepeat" id="passwordRepeat">
+            </label>
+
+            <input type="button" id="signBtn" value="Sign Up">
+
+
+        </div>
+
+
+
+    </form>
+
+    <script>
+        let signBtn = document.getElementById("signBtn");
+        signBtn.addEventListener("click", ()=>{
+            if(password.value == passwordRepeat.value){
+                document.write(`A confirmation message was sent to ${email.value}`);
+            }
+            else{
+                document.write("Passwords not the same!");
+            }
+
+
+        });
+
+    </script>
+
+</body>
+
+</html>

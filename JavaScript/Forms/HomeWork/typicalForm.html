@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+        *,
+        *:before,
+        *:after {
+            box-sizing: border-box;
+        }
+
+        * {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: beige;
+        }
+
+        input {
+            background-color: white;
+
+        }
+
+        #myForm {
+            display: inline-block;
+        }
+       
+
+        .field {
+            margin: 10px 0px;
+        }
+        .field > *{
+            display: block;
+            font-size: 17px; 
+        }
+
+        .textBox{
+            width: 240px;
+            font-size: 18px;
+        }
+
+        #checkboxRemember{ 
+            position:absolute;
+            margin-top: 6px;
+            margin-left: 10px;
+            background-color: lightgray;
+            appearance: none;
+            padding: 6px;
+            border: 2px black solid;
+        }
+
+        #checkboxRemember:hover{
+            background-color: rgb(143, 196, 234);
+        }
+
+        #checkboxRemember:checked{
+            background-color: rgb(43, 220, 75);
+        }
+
+        #submitBtn{
+            margin-top: 20px;
+            display: block;
+            width: 100%;
+            height: 30px;
+            background-color: rgb(229, 228, 228);
+        }
+
+        #submitBtn:hover{
+            background-color: rgb(143, 196, 234);
+        }
+
+
+    </style>
+</head>
+
+<body>
+
+    <form  id="myForm" method="post">
+        <div class="field">
+
+            <label for="login">Your login</label>
+            <input type="text" class="textBox" name="login" id="login">
+        </div>
+        <div class="field">
+            <label for="password">Your password</label>
+            <input type="password" class="textBox" name="password" id="password">
+        </div>
+        
+        <label for="isRemember">
+            Remember me
+            <input type="checkbox" name="isRemember" id="checkboxRemember">
+
+        </label>
+
+        <input type="button" value="Sign In" id="submitBtn">
+
+        <div style="text-align: right; margin-top: 10px;">
+            <a href="http://google.com" rel="noopener noreferrer" >Forgot password?</a>
+        </div>
+
+    </form>
+
+    <script>
+        let submit = document.getElementById("submitBtn");
+        submit.addEventListener("click", ()=>{
+            let name = document.getElementById("login");
+            let rememberCheck = document.getElementById("checkboxRemember");
+            let remember = rememberCheck.checked ? "I remember you" : "I didn't remember you";
+            document.write(`Hello, ${name.value}. ${remember}`);
+        });
+</script>
+
+</body>
+
+</html>

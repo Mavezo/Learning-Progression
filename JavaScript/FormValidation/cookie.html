@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <button onclick="setCookieValues()">Set cookie</button>
+    <button onclick="getCookieValues()">Get cookie</button>
+    <button onclick="deleteCookieValues()">Delete cookie</button>
+    <br>
+    <div id="d1"></div>
+    <script>
+
+        function deleteCookieValues() {
+            setCookie("productID", "12345", -1);
+        }
+
+
+        function getCookieValues() {
+            let cookieObject = {};
+            console.log(document.cookie);
+            let cookieValues = document.cookie.split("; ");
+            console.log(cookieValues);
+            for (let i = 0; i < cookieValues.length; i++) {
+                let parts = cookieValues[i].split("=");
+                cookieObject[`${parts[0]}`] = parts[1];
+            }
+            console.log(cookieObject);
+            let str = "<table><tr><th>Name</th><th>Value</th></tr>";
+            for (let ind in cookieObject) {
+                str += `<tr><td>${ind}</td><td> ${cookieObject[ind]}</td></tr>`;
+            }
+            str+="<table>";
+            let d1 = document.getElementById("d1");
+            d1.innerHTML = str;
+
+        }
+
+
+
+        function setCookie(cname, cvalue, exminuts) {
+            let date = new Date();
+            date.setTime(date.getTime() + 1000 * 60 * exminuts);
+            let expires = `expires=${date.toUTCString()}`;
+            let cookie = `${cname}=${cvalue};${expires};path=\\;`;
+            document.cookie = cookie;
+            console.log(cookie);
+        }
+
+        function setCookieValues() {
+            // if (confirm("Do you agree to accept cookie?"))
+            //     document.cookie = "username=Roman Tselik;path=/"
+            // else
+            //     alert("Cookie not set!");
+
+            setCookie("productID", "12345", 10);
+        }
+
+
+
+    </script>
+
+</body>
+
+</html>

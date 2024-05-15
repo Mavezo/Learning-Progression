@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        *,
+        *::after,
+        *::before{
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        body{
+            display: flex;
+            flex-direction: column;
+            align-content: center;
+            flex-wrap: wrap;
+            text-align: center;
+            background-color: beige;
+            
+        }
+        
+        label, input{
+            width: 100%;
+            font-size: 25px;
+        }
+
+        input{
+            margin-bottom: 8px;
+        }
+
+        input[type=submit]{
+            margin-top: 20px;
+        }
+
+        form{
+            width: 550px;
+            text-align: left;
+        }
+
+    </style>
+
+</head>
+
+<body>
+    <h1>Registration</h1>
+    <form action="" method="get">
+        <label for="email">Email:
+            <input type="email" name="email" id="email">
+        </label>
+        <label for="password">Password:
+            <input type="password" name="password" id="password">
+        </label>
+        <label for="">Repeat password:
+            <input type="password" name="password2" id="password2">
+        </label>
+        <input type="submit" id="submitBtn" value="Sign Up">
+
+        
+    </form>
+    <script>
+
+        let submit = document.getElementById("submitBtn");
+        submit.addEventListener("submit", ()=>{
+                
+
+        });
+
+
+
+    </script>
+
+</body>
+
+</html>

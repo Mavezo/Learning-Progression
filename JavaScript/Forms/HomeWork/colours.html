@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        *,
+        *::after,
+        *::before {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            box-sizing: border-box;
+        }
+
+        body {
+            background-color: beige;
+        }
+
+        input[type=text] {
+            text-align: center;
+            width: 80px;
+            font-size: 25px;
+            border-collapse: collapse;
+            border: 1px solid;
+            border-top: 0px;
+            border-bottom: 0px;
+        }
+
+        body {
+            text-align: center;
+        }
+
+        form {
+            font-size: 25px;
+            display: inline-block;
+            width: auto;
+            text-align: center;
+        }
+
+
+        label {
+            margin: 0px 10px;
+        }
+
+        #colorEnter {
+            border: 1px solid black;
+
+            border-collapse: collapse;
+            display: inline-block;
+
+        }
+
+        #addColorBtn {
+            margin-top: 10px;
+            width: 100%;
+            display: block;
+        }
+
+        #wrapper {
+            margin: 0px 10%;
+            margin-top: 50px;
+            width: 80%;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+        }
+
+
+        .block {
+            display: inline-block;
+            border: 1px solid silver;
+            width: 200px;
+            height: 40px;
+            text-align: left;
+            margin-bottom: 3%;
+
+        }
+
+        .text {
+            display: inline-flex;
+        }
+
+        p {
+            position: relative;
+            top: -13px;
+            display: inline;
+
+        }
+
+        .color {
+            display: inline-block;
+            width: 40px;
+            height: 100%;
+            background-color: lightcoral;
+        }
+    </style>
+</head>
+
+<body>
+
+
+    <form onsubmit="return false">
+        <div id="colorEnter">
+            <label for="r">R</label>
+            <input maxlength="3" type="text" name="r" id="r">
+            <label for="g">G</label>
+            <input maxlength="3" type="text" name="g" id="g">
+            <label for="b">B</label>
+            <input style="border-right: 0px;" maxlength="3" type="text" name="b" id="b">
+        </div>
+        <input id="addColorBtn" type="button" value="Add color">
+    </form>
+
+    <div id="wrapper">
+  
+   
+
+
+
+
+
+    </div>
+
+
+    <script>
+        let btn = document.getElementById("addColorBtn");
+        btn.addEventListener("click", ()=>{
+            let block = document.createElement("div");
+            block.className = "block";
+            let color = document.createElement("div");
+            color.className = "color";
+            color.style.backgroundColor = `rgb(${r.value}, ${g.value}, ${b.value})`
+            block.appendChild(color);
+            let p = document.createElement("p");
+            p.innerText = `RGB(${r.value}, ${g.value}, ${b.value})`
+            block.appendChild(p);
+            let wrapper = document.getElementById("wrapper");
+            wrapper.appendChild(block);
+        });
+    </script>
+</body>
+
+</html>

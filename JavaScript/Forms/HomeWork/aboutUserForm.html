@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        *,
+        *::after,
+        *::before {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            box-sizing: border-box;
+        }
+
+        *:not(input, select, option) {
+            background-color: beige;
+
+        }
+
+        #wrapper {
+            display: flex;
+            justify-content: space-between;
+            flex-wrap: wrap;
+            width: 800px;
+
+        }
+
+        input:not(input[type=radio]),
+        label,
+        select,
+        option {
+            box-sizing: border-box;
+            font-size: 18px;
+        }
+
+        input[type=text],
+        select {
+            border: 2px solid silver;
+            display: block;
+            margin: 0px;
+            padding: 0px;
+            width: 100%;
+            padding: 5px;
+            border-radius: 5px;
+        }
+
+        label {
+            width: 45%;
+            margin-bottom: 20px;
+        }
+
+        #radioGender {
+            padding-top: 20px;
+            font-size: 18px;
+            width: 45%;
+            margin-bottom: 20px;
+        }
+
+        #labelSkills {
+            width: 100%;
+            margin-top: 10px;
+            font-size: 20px;
+        }
+
+        .skills {
+            zoom: 1.5;
+        }
+
+        #saveBtn {
+
+            margin-top: 20px;
+            width: 100%;
+            border-radius: 5px;
+        }
+
+        #saveBtn:hover {
+            background-color: rgb(208, 240, 251);
+        }
+
+        td,
+        tr {
+            border: 1px silver solid;
+        }
+    </style>
+</head>
+
+<body>
+    <form onsubmit="return false" method="get" id="myForm">
+        <div id="wrapper">
+            <label for="firstname">Firstname:
+                <input type="text" name="firstname" id="firstname">
+            </label>
+
+            <label for="lastname">Lastname:
+                <input type="text" name="lastname" id="lastname">
+            </label>
+
+            <label for="birthday">Birthday:
+                <input type="text" placeholder="mm/dd/yyyy" name="birthday" id="birthday">
+            </label>
+
+            <div id="radioGender">Gender:
+                <label>
+                    <input type="radio" name="gender" id="male_gender" value="Male">
+                    Male
+                </label>
+                <label>
+                    <input type="radio" name="gender" id="female_gender" value="Female">Female
+                </label>
+            </div>
+
+            <label for="country">Country:
+                <select name="country" id="country">
+                    <option selected value="-------">-------</option>
+                    <option value="Ukraine">Ukraine</option>
+                    <option value="Poland">Poland</option>
+                </select>
+            </label>
+
+            <label for="city">City:
+                <select name="city" id="city"></select>
+            </label>
+
+            <div id="labelSkills">Skills:
+                <label><input type="checkbox" name="html" class="skills">HTML</label>
+                <label><input type="checkbox" name="css" class="skills">CSS</label>
+                <label><input type="checkbox" name="js" class="skills">JS</label>
+                <label><input type="checkbox" name="php" class="skills">PHP</label>
+                <label><input type="checkbox" name="c++" class="skills">C++</label>
+                <label><input type="checkbox" name="java" class="skills">JAVA</label>
+                <label><input type="checkbox" name="c#" class="skills">C#</label>
+            </div>
+
+            <input id="saveBtn" type="submit" value="Save">
+
+
+
+
+        </div>
+    </form>
+
+
+
+
+    <script>
+        let ukraineCities = ["Kyiv", "Kharkiv", "Odesa", "Dnipro", "Zaporizhzhia"].sort();
+        let polandCities = ["Warsaw", "Krakow", "Wroclaw", "Lodz", "Poznan"].sort();
+        let countries = document.getElementById("country");
+        let cities = document.getElementById("city");
+        let saveBtn = document.getElementById("saveBtn");
+        countries.addEventListener("change", () => {
+            while (cities.firstChild) {
+                cities.removeChild(cities.firstChild);
+            }
+            switch (countries.selectedOptions[0].innerText) {
+                case "Poland":
+                    polandCities.forEach(element => {
+                        let option = document.createElement("option");
+                        option.value = element;
+                        option.innerText = element;
+                        cities.appendChild(option);
+                    });
+                    break;
+                case "Ukraine":
+                    ukraineCities.forEach(element => {
+                        let option = document.createElement("option");
+                        option.value = element;
+                        option.innerText = element;
+                        ukraineCities.forEach(element => {
+                            cities.appendChild(option);
+                        });
+                    });
+
+
+                    break;
+                default:
+                    break;
+            }
+
+
+        });
+        saveBtn.addEventListener("click", () => {
+            //Изменить на НЕ NaN (!isNan)
+            if (!isNaN(Date.parse(birthday.value))) {
+                if (city.selectedOptions.length != 0) {
+                    let _firstname = firstname.value;
+                    let _lastname = lastname.value;
+                    let date = new Date(birthday.value);
+                    let _birthday = date.toLocaleDateString('en-GB');;
+                    let genders = document.querySelectorAll('input[name="gender"]');
+                    let _gender = "Not defined";
+                    genders.forEach(elem => {
+                        if (elem.checked) {
+                            _gender = elem.value;
+                        }
+                    });
+                    let _country = country.selectedOptions[0].value;
+                    let _city = city.selectedOptions[0].value;
+
+                    let skills = document.getElementsByClassName("skills");
+                    let _skills = [];
+                    for (const iterator of skills) {
+                        if (iterator.checked) {
+                            _skills.push(iterator.name);
+                        }
+                    }
+
+
+
+                    document.write("<h3>Result:<h3>");
+
+                    let styleSheet = document.createElement("style");
+                    styleSheet.innerText = `
+                    
+                            *,
+                            *::after,
+                            *::before {
+                                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                                box-sizing: border-box;
+                            }
+
+                            body{
+                                background-color: beige;
+                            }
+    
+                            h3{
+                                display: block;
+                            }
+                            
+                            table{
+                                border-spacing: 0px;
+                                border-collapse: collapse;
+
+                            }
+
+                            tr, td{
+                                padding: 0px 40px;
+                                border: 1px solid silver;
+                                border-collapse: collapse;
+                            }
+                        
+                        `;
+                    document.head.appendChild(styleSheet);
+
+
+
+
+
+
+                    let table = document.createElement("table");
+                    let tBody = document.createElement("tbody");
+
+
+                    let row = document.createElement("tr");
+
+                    let td = document.createElement("td");
+
+                    //Firstname
+                    td.innerText = "Firstname";
+                    row.appendChild(td.cloneNode(true));
+                    td.innerText = _firstname;
+                    row.appendChild(td.cloneNode(true));
+                    tBody.appendChild(row.cloneNode(true));
+                    //Lastname
+                    row = document.createElement("tr");
+                    td.innerText = "Lastname";
+                    row.appendChild(td.cloneNode(true));
+                    td.innerText = _lastname;
+                    row.appendChild(td.cloneNode(true));
+                    tBody.appendChild(row.cloneNode(true));
+                    //Birthday
+                    row = document.createElement("tr");
+                    td.innerText = "Birthday";
+                    row.appendChild(td.cloneNode(true));
+                    td.innerText = _birthday;
+                    row.appendChild(td.cloneNode(true));
+                    tBody.appendChild(row.cloneNode(true));
+                    //Gender
+                    row = document.createElement("tr");
+                    td.innerText = "Gender";
+                    row.appendChild(td.cloneNode(true));
+                    td.innerText = _gender;
+                    row.appendChild(td.cloneNode(true));
+                    tBody.appendChild(row.cloneNode(true));
+                    //Country
+                    row = document.createElement("tr");
+                    td.innerText = "Country";
+                    row.appendChild(td.cloneNode(true));
+                    td.innerText = _country;
+                    row.appendChild(td.cloneNode(true));
+                    tBody.appendChild(row.cloneNode(true));
+                    //City
+                    row = document.createElement("tr");
+                    td.innerText = "City";
+                    row.appendChild(td.cloneNode(true));
+                    td.innerText = _city;
+                    row.appendChild(td.cloneNode(true));
+                    tBody.appendChild(row.cloneNode(true));
+                    //Skills
+                    row = document.createElement("tr");
+                    td.innerText = "Skills";
+                    row.appendChild(td.cloneNode(true));
+                    td.innerText = "";
+                    for (const iterator of _skills) {
+                        td.innerText += `${iterator}, `;
+                    }
+                    td.innerText = td.innerText.substr(0, td.innerText.length-2);
+                    row.appendChild(td.cloneNode(true));
+                    tBody.appendChild(row.cloneNode(true));
+
+
+                    table.appendChild(tBody);
+                    document.body.appendChild(table);
+
+
+
+
+                }
+                else {
+                    document.write("User must select city");
+                }
+            }
+            else {
+                document.write("Wrong date format");
+            }
+        });
+
+    </script>
+
+</body>
+
+</html>

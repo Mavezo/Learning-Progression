@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        *,
+        *::after,
+        *::before {
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        body {
+            background-color: beige;
+            text-align: center;
+        }
+
+        #wrapper {
+            display: inline-block;
+            text-align: center;
+            width: 700px;
+        }
+
+        button {
+            color: white;
+            margin: 20px 10px;
+            width: 100px;
+            height: 30px;
+            font-size: 17px;
+            border: 1px solid rgb(111, 111, 111);
+
+        }
+
+        button:hover {
+            /* filter: grayscale(0.6); */
+            filter: brightness(0.85)
+        }
+
+        h3 {
+            display: inline;
+        }
+
+        .red {
+            background-color: rgb(253, 109, 131);
+        }
+
+        .green {
+            background-color: lightseagreen;
+        }
+
+        .orange {
+            background-color: rgb(255, 128, 77);
+        }
+
+        .yellow {
+            background-color: rgb(223, 200, 1);
+        }
+
+        .fruit {
+            width: 200px;
+            height: 40px;
+        }
+
+        .shadow{
+            box-shadow: 0px 0px 10px 1px rgb(77, 77, 77);
+        }
+
+        #fruitsWrapper {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="wrapper">
+
+
+        <h3>
+            Select color:
+        </h3>
+
+        <button class="red">red</button>
+        <button class="green">green</button>
+        <button class="orange">orange</button>
+        <button class="yellow">yellow</button>
+        <hr>
+        <h3>Fruits:</h3>
+        <div id="fruitsWrapper">
+            <button class="red fruit">apple</button>
+            <button class="green fruit">pear</button>
+            <button class="orange fruit">orange</button>
+            <button class="red fruit">mango</button>
+            <button class="orange fruit">mandarin</button>
+            <button class="yellow fruit">pineapple</button>
+            <button class="green fruit">avocado</button>
+            <button class="red fruit">red pepper</button>
+            <button class="green fruit">green pepper</button>
+
+        </div>
+
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.7.1.js"
+        integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
+
+    <script>
+        $(() => {
+            
+            $("#wrapper > button").click(function(){
+                
+                $('.shadow').removeClass('shadow');
+                $(`.${this.className}`).addClass('shadow');
+            });
+
+
+
+        });
+    </script>
+</body>
+
+</html>

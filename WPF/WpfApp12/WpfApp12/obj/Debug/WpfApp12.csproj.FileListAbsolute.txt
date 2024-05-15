@@ -1,0 +1,16 @@
+C:\Users\mavez\source\repos\WpfApp12\WpfApp12\bin\Debug\WpfApp12.exe.config
+C:\Users\mavez\source\repos\WpfApp12\WpfApp12\bin\Debug\WpfApp12.exe
+C:\Users\mavez\source\repos\WpfApp12\WpfApp12\bin\Debug\WpfApp12.pdb
+C:\Users\mavez\source\repos\WpfApp12\WpfApp12\obj\Debug\WpfApp12.csproj.AssemblyReference.cache
+C:\Users\mavez\source\repos\WpfApp12\WpfApp12\obj\Debug\WpfApp12.csproj.SuggestedBindingRedirects.cache
+C:\Users\mavez\source\repos\WpfApp12\WpfApp12\obj\Debug\MainWindow.g.cs
+C:\Users\mavez\source\repos\WpfApp12\WpfApp12\obj\Debug\App.g.cs
+C:\Users\mavez\source\repos\WpfApp12\WpfApp12\obj\Debug\WpfApp12_MarkupCompile.cache
+C:\Users\mavez\source\repos\WpfApp12\WpfApp12\obj\Debug\WpfApp12_MarkupCompile.lref
+C:\Users\mavez\source\repos\WpfApp12\WpfApp12\obj\Debug\MainWindow.baml
+C:\Users\mavez\source\repos\WpfApp12\WpfApp12\obj\Debug\WpfApp12.g.resources
+C:\Users\mavez\source\repos\WpfApp12\WpfApp12\obj\Debug\WpfApp12.Properties.Resources.resources
+C:\Users\mavez\source\repos\WpfApp12\WpfApp12\obj\Debug\WpfApp12.csproj.GenerateResource.cache
+C:\Users\mavez\source\repos\WpfApp12\WpfApp12\obj\Debug\WpfApp12.csproj.CoreCompileInputs.cache
+C:\Users\mavez\source\repos\WpfApp12\WpfApp12\obj\Debug\WpfApp12.exe
+C:\Users\mavez\source\repos\WpfApp12\WpfApp12\obj\Debug\WpfApp12.pdb

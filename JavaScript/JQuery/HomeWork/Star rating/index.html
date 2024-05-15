@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        *,
+        *::after,
+        *::before {
+            box-sizing: border-box;
+        }
+
+        body {
+            background-color: beige;
+        }
+
+        #stars {
+            display: inline-flex;
+            margin: 0px;
+        }   
+
+        .star {
+            display: inline;
+            margin: 0px 5px;
+        }
+    </style>
+</head>
+
+<body>
+    <h2>Star Rating:
+
+        <div id="stars">
+            <div class="star">★</div>
+            <div class="star">★</div>
+            <div class="star">★</div>
+            <div class="star">★</div>
+            <div class="star">★</div>
+
+        </div>
+
+    </h2>
+
+    <script src="https://code.jquery.com/jquery-3.7.1.js"
+        integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
+
+
+    <script>
+        $(() => {
+            $('.star').click(function(){
+                $(this).css('color', 'orange');
+                $(this).prevAll('.star').css('color', 'orange');
+                $(this).nextAll('.star').css('color', 'black');
+
+            });
+        });
+
+    </script>
+
+</body>
+
+</html>

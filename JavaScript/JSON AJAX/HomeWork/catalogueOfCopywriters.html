@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        *,
+        *::after,
+        *::before {
+            box-sizing: border-box;
+        }
+
+        body {
+            background-color: beige;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+
+        div#usersWrapper {
+            margin: 0px 200px;
+
+            display: flex;
+            flex-wrap: wrap;
+        }
+
+        div#usersWrapper>h4 {
+            text-align: center;
+            width: 100%;
+        }
+
+
+        .user {
+            margin: 0px auto;
+            margin-bottom: 20px;
+            width: 258px;
+            padding: 15px 34px;
+            height: auto;
+            border: 1px solid black;
+            font-size: 16px;
+        }
+
+        .user:hover {
+            font-weight: bold;
+        }
+
+        div#tableWrapper {
+            text-align: center;
+            margin: 0px 200px;
+
+        }
+
+        div#tableWrapper>table {
+
+            border-radius: 5px;
+            width: 100%;
+            text-align: left;
+        }
+
+        table,
+        td {
+            border: 2px solid rgb(101, 101, 101);
+            border-collapse: collapse;
+        }
+
+        td {
+            font-size: 20px;
+            padding: 10px;
+        }
+
+        .th {
+            width: 25%;
+        }
+
+        #showPostBtn {
+            padding: 10px;
+            font-size: 17px;
+
+            width: 100%;
+        }
+
+        #postWrapper {
+            width: 100%;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+        }
+
+        .post {
+            padding: 0px 15px;
+            margin: 10px;
+            border: 2px black solid;
+            border-radius: 3px;
+            text-align: center;
+            width: 45%;
+            height: auto;
+        }
+    </style>
+
+</head>
+
+<body>
+    <div id="usersWrapper">
+        <h4>All users</h4>
+
+    </div>
+    <div id="tableWrapper">
+        <h4>User info</h4>
+        <table>
+            <tbody>
+                <tr>
+                    <td class="th">
+                        Name:
+                    </td>
+                    <td id="tdName">
+                    </td>
+                </tr>
+                <tr>
+                    <td class="th">
+                        Username:
+                    </td>
+                    <td id="tdUsername">
+                    </td>
+                </tr>
+                <tr>
+                    <td class="th">
+                        Address:
+                    </td>
+                    <td id="tdAddress">
+                    </td>
+                </tr>
+                <tr>
+                    <td class="th">
+                        Email:
+                    </td>
+                    <td id="tdEmail">
+                    </td>
+                </tr>
+                <tr>
+                    <td class="th">
+                        Phone:
+                    </td>
+                    <td id="tdPhone">
+                    </td>
+                </tr>
+                <tr>
+                    <td class="th">
+                        Website:
+                    </td>
+                    <td id="tdWebsite">
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <br>
+        <button type="button" id="showPostBtn">Show posts</button>
+        <br><br>
+        <h4>Users post</h4>
+        <div id="postWrapper">
+
+        </div>
+    </div>
+
+
+
+
+
+    <script>
+        let request = new XMLHttpRequest();
+        request.open("get", "https://jsonplaceholder.typicode.com/users");
+        let currentUserId;
+        request.onreadystatechange = () => {
+            if (request.readyState == 4) {
+                if (request.status == 200) {
+                    let users = JSON.parse(request.responseText);
+                    console.log(users);
+                    users.forEach(element => {
+                        let div = document.createElement("div");
+                        div.className = "user";
+                        div.innerText = element.name;
+                        div.onclick = (e) => {
+                            currentUserId = element.id;
+                            tdName.innerText = element.name;
+                            tdUsername.innerText = element.username;
+                            tdAddress.innerText = element.address.city + ", " + element.address.street;
+                            tdEmail.innerText = element.email;
+                            tdPhone.innerText = element.phone
+                            tdWebsite.innerText = element.website;
+                        }
+                        usersWrapper.appendChild(div);
+                    });
+                }
+                else {
+                    alert(`Error: ${request.status}`);
+                }
+            }
+        }
+
+        request.send();
+
+        showPostBtn.onclick = () => {
+            let _postWrapper = document.getElementById("postWrapper");
+
+            while(_postWrapper.firstChild){
+                _postWrapper.removeChild(_postWrapper.firstChild);
+            }
+
+            let requestPost = new XMLHttpRequest();
+            request.open("get", `https://jsonplaceholder.typicode.com/posts?userId=${currentUserId}`);
+            
+            request.onreadystatechange = ()=>{
+                if(request.readyState == 4){
+                    if(request.status == 200){
+                        let posts = JSON.parse(request.responseText);
+                        posts.forEach(element => {
+                            
+                            
+                            let div = document.createElement("div");
+                            div.className = "post";
+                            let title = document.createElement("h5");
+                            title.innerText = element.title;
+                            let text = document.createElement("p");
+                            text.innerText = element.body;
+                            div.appendChild(title);
+                            div.appendChild(text);
+                            _postWrapper.appendChild(div);
+
+                        });
+
+
+                    }
+                    else{
+                        alert(`Error: ${request.status}`)
+                    }
+
+
+
+                }
+
+
+            }
+
+            request.send();
+        };
+
+
+    </script>
+
+</body>
+
+</html>

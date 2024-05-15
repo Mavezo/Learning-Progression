@@ -1,0 +1,55 @@
+﻿<Window x:Class="WpfApp5.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp5"
+        mc:Ignorable="d"
+        
+        Title="Калькулятор" Height="400" Width="250">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.8*"></RowDefinition>
+            <RowDefinition Height="1*"></RowDefinition>
+            <RowDefinition Height="5*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <TextBlock Grid.Row="0" HorizontalAlignment="Right" Padding="4, 4, 4, 0" FontSize="23" Foreground="Gray" IsEnabled="false"  x:Name="textbox1"></TextBlock>
+        <TextBlock Grid.Row="1" HorizontalAlignment="Right" Padding="4, 4, 4, 0" FontSize="37" Foreground="Black" IsEnabled="false" FontWeight="Bold" x:Name="textbox2">0</TextBlock>
+        <Grid Grid.Row="2" >
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+            <Button Grid.Row="0" Grid.Column="0" Margin="3" FontWeight="Light" FontSize="30" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Click="Clear_All">CE</Button>
+            <Button Grid.Row="0" Grid.Column="1" Margin="3"  FontWeight="Light" FontSize="30" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Click="Clear_Line">C</Button>
+            <Button Grid.Row="0" Grid.Column="2" Margin="3" FontWeight="Light"   FontSize="30" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Click="Clear_Last">&lt;</Button>
+            <Button Grid.Row="0" Grid.Column="3" Margin="3" FontWeight="Light"   FontSize="30" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Click="Divide">/</Button>
+            <Button Grid.Row="1" Grid.Column="0" Margin="3"  FontWeight="Light" FontSize="30" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Click="Seven">7</Button>
+            <Button Grid.Row="1" Grid.Column="1" Margin="3"   FontWeight="Light" FontSize="30" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Click="Eight">8</Button>
+            <Button Grid.Row="1" Grid.Column="2" Margin="3"  FontWeight="Light" FontSize="30" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Click="Nine">9</Button>
+            <Button Grid.Row="1" Grid.Column="3" Margin="3"  FontWeight="Light" FontSize="30" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Click="Multiply">*</Button>
+            <Button Grid.Row="2" Grid.Column="0" Margin="3" FontWeight="Light" FontSize="30" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Click="Four">4</Button>
+            <Button Grid.Row="2" Grid.Column="1" Margin="3"  FontWeight="Light" FontSize="30" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Click="Five">5</Button>
+            <Button Grid.Row="2" Grid.Column="2" Margin="3" FontWeight="Light" FontSize="30" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Click="Six">6</Button>
+            <Button Grid.Row="2" Grid.Column="3" Margin="3" FontWeight="Light"   FontSize="30" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Click="Minus">-</Button>
+            <Button Grid.Row="3" Grid.Column="0" Margin="3" FontWeight="Light"   FontSize="30" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Click="One">1</Button>
+            <Button Grid.Row="3" Grid.Column="1" Margin="3"  FontWeight="Light"  FontSize="30" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Click="Two">2</Button>
+            <Button Grid.Row="3" Grid.Column="2" Margin="3" FontWeight="Light"    FontSize="30" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Click="Three">3</Button>
+            <Button Grid.Row="3" Grid.Column="3" Margin="3" FontWeight="Light"    FontSize="30" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Click="Plus">+</Button>
+            <Button Grid.Row="4" Grid.Column="0" Margin="3" FontWeight="Light"   FontSize="30" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Click="Dot">.</Button>
+            <Button Grid.Row="4" Grid.Column="1" Margin="3"  FontWeight="Light" FontSize="30" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Click="Zero">0</Button>
+            <Button Grid.Row="4" Grid.Column="2" Grid.ColumnSpan="2"  Margin="3" FontSize="30" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Click="Equals">=</Button>
+        
+
+        </Grid>
+    </Grid>
+</Window>

@@ -1,0 +1,10 @@
+{
+  "student": {
+    "name": "Roman",
+    "surname": "Tselik",
+    "age": 17,
+    "skills": [
+      "SQL", "C#", "C++", "JS", "HTML", "CSS"
+    ]
+  }
+}

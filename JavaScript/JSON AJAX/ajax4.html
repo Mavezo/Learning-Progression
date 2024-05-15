@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <button onclick="createPost()">Get data</button>
+    <div id="main"></div>
+    <script>
+
+        function createPost() {
+            let request = new XMLHttpRequest();
+            request.open("post", "https://jsonplaceholder.typicode.com/posts");
+            request.onreadystatechange = () => {
+                if (request.readyState == 4) {
+                    console.log(`Response status: ${request.status}`);
+                    console.log(`Response phrase: ${request.statusText}`);
+                    let main = document.getElementById("main");
+                    if (request.status == 201) {
+                        let post = JSON.parse(request.responseText);
+                        console.log(post);
+                        main.innerText = post
+
+                    }
+                    else {
+                        main.innerText += `Error: ${request.statusText}\r`;
+                    }
+                }
+
+            }
+            let newPost = {
+                title: "Ajax use in JavaScript",
+                body: "Maybe the coolest and more usefull part of JS!",
+                userId: 1,
+            }
+
+            let body = JSON.stringify(newPost);
+            request.setRequestHeader("Content-Type", "application/json;charset=utf-8");
+            request.send(body);
+        }
+
+    </script>
+</body>
+
+</html>

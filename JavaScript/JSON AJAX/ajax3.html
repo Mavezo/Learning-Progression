@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <button onclick="getDataFromServer()">Get data</button>
+    <div id="main"></div>
+    <script>
+        function getDataFromServer() {
+            let request = new XMLHttpRequest();
+            request.open("get", "https://jsonplaceholder.typicode.com/users");
+            request.onreadystatechange = () => {
+                if (request.readyState == 4) {
+                    let main = document.getElementById("main");
+                    if (request.status == 200) {
+                        let users = JSON.parse(request.responseText);
+                        users.forEach(element => {
+
+                            let h2 = document.createElement("h2");
+                            h2.innerText = element.name;
+                            main.appendChild(h2);
+                            let address = document.createElement("div");
+                            address.innerText = `${element.address.street} | ${element.address.suite} | ${element.address.city}`;
+                            main.appendChild(address);
+
+                        });
+                    }
+                    else {
+                        main.innerText += `Error: ${request.statusText}\r`;
+                    }
+                }
+            }
+            request.send();
+        }
+    </script>
+</body>
+
+</html>

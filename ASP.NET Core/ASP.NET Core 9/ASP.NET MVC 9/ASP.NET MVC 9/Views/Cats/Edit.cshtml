@@ -1,0 +1,65 @@
+﻿@using ASP.NET_MVC_9.Models.DTO;
+@model ASP.NET_MVC_9.Models.CatViewModels.EditCatViewModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Cat</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Cat.Id" />
+            <input type="hidden" asp-for="Cat.Image" />
+            <div class="form-group">
+                <label asp-for="Cat.CatName" class="control-label"></label>
+                <input asp-for="Cat.CatName" class="form-control" />
+                <span asp-validation-for="Cat.CatName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Cat.Description" class="control-label"></label>
+                <input asp-for="Cat.Description" class="form-control" />
+                <span asp-validation-for="Cat.Description" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Cat.CatGender" class="control-label"></label>
+                <select asp-for="Cat.CatGender" class="form-control" asp-items="@new SelectList(Enum.GetNames<CatGender>())"></select>
+                <span asp-validation-for="Cat.CatGender" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="Cat.IsVacinated" /> @Html.DisplayNameFor(model => model.Cat.IsVacinated)
+                </label>
+            </div>
+            <div class="form-group">
+                <div class="mb-3">Current image:<br />
+                    <img src="data:image/*;base64,@(Convert.ToBase64String(Model.Cat.Image))" class="card-img-bottom" alt="@Model.Cat.CatName">
+                </div>
+                <label asp-for="Image" class="control-label"></label>
+                <input asp-for="Image" class="form-control" type="file" accept="image/*"/>
+                <span asp-validation-for="Image" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Cat.BreedId" class="control-label"></label>
+                <select asp-for="Cat.BreedId" class="form-control" asp-items="Model.BreedSL"></select>
+                <span asp-validation-for="Cat.BreedId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

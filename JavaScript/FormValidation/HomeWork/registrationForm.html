@@ -8,66 +8,121 @@
     <style>
         *,
         *::after,
-        *::before{
+        *::before {
             box-sizing: border-box;
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         }
 
-        body{
+        body {
             display: flex;
             flex-direction: column;
             align-content: center;
             flex-wrap: wrap;
             text-align: center;
             background-color: beige;
-            
+
         }
-        
-        label, input{
+
+        label,
+        input {
             width: 100%;
             font-size: 25px;
         }
 
-        input{
+        input {
+            border-radius: 5px;
             margin-bottom: 8px;
+            width: 100%;
         }
 
-        input[type=submit]{
+        input[type=submit] {
             margin-top: 20px;
         }
 
-        form{
+        label {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+        }
+
+        form {
             width: 550px;
             text-align: left;
         }
 
+        div.warning {
+            margin-top: 20px;
+            font-size: 15px;
+            display: inline-block;
+            color: rgb(157, 0, 0);
+            font-weight: bold;
+            visibility: hidden;
+        }
     </style>
 
 </head>
 
 <body>
     <h1>Registration</h1>
-    <form action="" method="get">
-        <label for="email">Email:
-            <input type="email" name="email" id="email">
+    <form onsubmit="return false" id="regForm" action="" method="get">
+        <label for="email">Email: <div id="emailWarn" class="warning">Wrong email address!</div>
+            <input required type="email" name="email" id="email">
         </label>
-        <label for="password">Password:
-            <input type="password" name="password" id="password">
+        <label for="password">Password: <div id="passwordWarn" class="warning">1 lowercase letter, 1 uppercase letter and 1 digit.</div>
+            <input required type="password" name="password" id="password">
         </label>
-        <label for="">Repeat password:
-            <input type="password" name="password2" id="password2">
+        <label for="">Repeat password: <div id="passwordRepeatWarn" class="warning">Password must match</div>
+            <input required type="password" name="password2" id="password2">
         </label>
         <input type="submit" id="submitBtn" value="Sign Up">
 
-        
+
     </form>
     <script>
-
-        let submit = document.getElementById("submitBtn");
-        submit.addEventListener("submit", ()=>{
-                
-
+        window.addEventListener("load", ()=>{
+            if(document.cookie.includes("email") && document.cookie.includes("password")){
+                //change location
+            }
         });
+
+
+        let submitButton = document.getElementById("submitBtn");
+        submitButton.onclick = (e) => {
+
+            let warns = document.getElementsByClassName("warning");
+            for (const iterator of warns) {
+                iterator.style.visibility = "hidden";
+            }
+
+            let emailReg = new RegExp("^[A-Za-z.1-9-_]+[@][a-z]{3,}[.][a-z]+");
+            let email = document.getElementById("email").value;
+            if (emailReg.test(email)) {
+                let passwordReg = new RegExp("^(?=.*?[A-Z])(?=.*?[a-z])(?=.*?[0-9]).{6,}$");
+                let password = document.getElementById("password").value;
+                if(passwordReg.test(password)){
+                    let passwordRepeat = document.getElementById("password2").value;
+                    if(passwordRepeat == password){
+                        let date = new Date(); 
+                        date.setTime(date.getTime() + 1000 * 60 * 60);
+                        document.cookie = `email=${email};expires=${date.toUTCString()};path=\\;`;
+                        document.cookie = `password=${password};expires=${date.toUTCString()};path=\\;`;
+                    }
+                    else{
+                        let passwordRetryWarning = document.getElementById("passwordRepeatWarn");
+                        passwordRetryWarning.style.visibility = "visible";
+                    }
+                }
+                else{
+                    let passwordWarning = document.getElementById("passwordWarn");                    
+                    passwordWarning.style.visibility = "visible";
+                }
+
+            }
+            else{
+                let emailWarning = document.getElementById("emailWarn");
+                emailWarning.style.visibility = "visible";
+            }   
+        };
 
 
 

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+    <script>
+        let user1 = {
+            name: "Roman",
+            age: 17,
+            isAdmin: true,
+        }
+        let user2 = {
+            name: "Alice",
+            age: 18,
+            isAdmin: false,
+       }
+       let users = [user1, user2];
+       let serializedUsers = JSON.stringify(users);
+       console.log(serializedUsers);
+       document.write(serializedUsers + "<br>");
+       let deserializedUsers = JSON.parse(serializedUsers);
+       console.log(deserializedUsers[1].name);
+       let alice = deserializedUsers[1];
+       document.write(`Name: ${alice.name}, ${alice.age} years old <br>`);
+
+
+    </script>
+
+
+</body>
+
+</html>

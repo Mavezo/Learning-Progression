@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        *,
+        *::after,
+        *::before {
+            box-sizing: border-box;
+            margin: 0px;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            display: flex;
+            background-color: beige;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+
+        #mainWrapper {
+            text-align: center;
+            width: 700px;
+        }
+
+        #helloWrapper {
+            width: 100%;
+            text-align: right;
+            margin: 15px 0;
+        }
+
+        label {
+            font-weight: bold;
+            width: 48%;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+        }
+
+        label>input {
+            border-style: solid;
+            width: 100%;
+            border-radius: 5px;
+            font-size: 20px;
+        }
+
+        span {
+            margin-right: 35px;
+        }
+
+        select {
+            width: 100%;
+            border-radius: 5px;
+            border-width: 2px;
+            padding: 1px 1px;
+            font-size: 20px;
+        }
+
+        #userInfoForm {
+            margin-top: 30px;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+        }
+
+        #submitButton {
+            margin-top: 20px;
+            display: block;
+            width: 100%;
+            font-size: 20px;
+        }
+
+        div.warning {
+            font-size: 15px;
+            display: inline-block;
+            color: rgb(157, 0, 0);
+            font-weight: bold;
+            visibility: hidden;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="mainWrapper">
+
+        <div id="helloWrapper"> <span id="helloSpan">Hello, john.smith@gmail.com!</span><a
+                href="registrationForm.html">exit</a></div>
+        <hr><br>
+        <h2>User info</h2>
+        <form onsubmit="return false" id="userInfoForm" action="">
+            <label for="firstname">First Name: <div id="firstNameWarn" class="warning">Only letters allowed</div>
+                <input required type="text" name="firstname" id="firstname">
+            </label>
+
+            <label for="lastname">Last Name: <div id="lastNameWarn" class="warning">Only letters allowed</div>
+                <input required type="text" name="lastname" id="lastname">
+            </label>
+
+            <label for="year">Year of birth: <div id="yearWarn" class="warning">1900 - current year</div>
+                <input required type="text" name="year" id="year">
+            </label>
+
+            <label for="sex">Sex:
+                <select required name="sex" id="sex">
+                    <option value="male">Male</option>
+                    <option value="female">Female</option>
+                </select>
+            </label>
+
+            <label for="phone">Phone number(not required): <div id="phoneWarn" class="warning">Wrong number</div>
+                <input type="text" name="phone" id="phone">
+            </label>
+
+            <label for="skype">Skype (not required): <div id="skypeWarn" class="warning">Not allowed symbol</div>
+                <input type="text" name="skype" id="skype">
+            </label>
+
+            <input type="submit" id="submitButton" value="Save">
+
+        </form>
+    </div>
+    <script>
+        submitButton.addEventListener("click", () => {
+
+            let warns = document.getElementsByClassName("warning");
+            for (const iterator of warns) {
+                iterator.style.visibility = "hidden";
+            }
+
+            let firstName = document.getElementById("firstname").value;
+            let letterRegExp = new RegExp("^[A-ZА-Яa-zа-я -]+$");
+            if (letterRegExp.test(firstName) && firstName.length <= 20) {
+                let lastname = document.getElementById("lastname").value;
+                if (letterRegExp.test(lastname) && lastname.length <= 20) {
+                    let yearOfBirth = document.getElementById("year").value;
+
+                    if (yearOfBirth >= 1900 && yearOfBirth <= new Date().getUTCFullYear()) {
+
+                        let phone = document.getElementById("phone").value;
+                        let phoneNum = "";
+                        if (phone != "") {
+                            let phoneRegExp = new RegExp("^[+-]?[0-9]{10,12}$");
+                            if (phoneRegExp.test(phone)) {
+                                phoneNum = phone;
+                            }
+                            else {
+                                phoneWarn.style.visibility = "visible";
+                                return;
+                            }
+                        }
+                        let skype = document.getElementById("skype").value;
+                        let skypeName = "";
+                        if (skype != "") {
+                            let skypeRegExp = new RegExp("[0-9a-zA-Z.-]");
+                            if (skypeRegExp.test(skype)) {
+                                skypeName = skype;
+                            }
+                            else {
+                                skypeWarn.skype.visibility = "visible";
+                                return;
+                            }
+                        }
+
+
+
+
+
+
+
+                    }
+                    else {
+                        yearWarn.style.visibility = "visible";
+                    }
+                }
+                else {
+                    lastNameWarn.style.visibility = "visible";
+                }
+            }
+            else {
+                firstNameWarn.style.visibility = "visible";
+            }
+        });
+
+    </script>
+
+
+</body>
+
+</html>

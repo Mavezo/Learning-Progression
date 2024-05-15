@@ -16,3 +16,20 @@ C:\Users\mavez\source\repos\NP 6 (Multicast)\NP 6 (lab)\obj\Debug\net6.0-windows
 C:\Users\mavez\source\repos\NP 6 (Multicast)\NP 6 (lab)\obj\Debug\net6.0-windows\NP 6 (lab).pdb
 C:\Users\mavez\source\repos\NP 6 (Multicast)\NP 6 (lab)\obj\Debug\net6.0-windows\NP 6 (lab).genruntimeconfig.cache
 C:\Users\mavez\source\repos\NP 6 (Multicast)\NP 6 (lab)\obj\Debug\net6.0-windows\ref\NP 6 (lab).dll
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Network\NP 6 (Multicast)\NP 6 (lab)\bin\Debug\net6.0-windows\NP 6 (lab).exe
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Network\NP 6 (Multicast)\NP 6 (lab)\bin\Debug\net6.0-windows\NP 6 (lab).deps.json
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Network\NP 6 (Multicast)\NP 6 (lab)\bin\Debug\net6.0-windows\NP 6 (lab).runtimeconfig.json
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Network\NP 6 (Multicast)\NP 6 (lab)\bin\Debug\net6.0-windows\NP 6 (lab).dll
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Network\NP 6 (Multicast)\NP 6 (lab)\bin\Debug\net6.0-windows\NP 6 (lab).pdb
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Network\NP 6 (Multicast)\NP 6 (lab)\obj\Debug\net6.0-windows\NP_6__lab_.Client.resources
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Network\NP 6 (Multicast)\NP 6 (lab)\obj\Debug\net6.0-windows\NP_6__lab_.Form1.resources
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Network\NP 6 (Multicast)\NP 6 (lab)\obj\Debug\net6.0-windows\NP 6 (lab).csproj.GenerateResource.cache
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Network\NP 6 (Multicast)\NP 6 (lab)\obj\Debug\net6.0-windows\NP 6 (lab).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Network\NP 6 (Multicast)\NP 6 (lab)\obj\Debug\net6.0-windows\NP 6 (lab).AssemblyInfoInputs.cache
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Network\NP 6 (Multicast)\NP 6 (lab)\obj\Debug\net6.0-windows\NP 6 (lab).AssemblyInfo.cs
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Network\NP 6 (Multicast)\NP 6 (lab)\obj\Debug\net6.0-windows\NP 6 (lab).csproj.CoreCompileInputs.cache
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Network\NP 6 (Multicast)\NP 6 (lab)\obj\Debug\net6.0-windows\NP 6 (lab).dll
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Network\NP 6 (Multicast)\NP 6 (lab)\obj\Debug\net6.0-windows\refint\NP 6 (lab).dll
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Network\NP 6 (Multicast)\NP 6 (lab)\obj\Debug\net6.0-windows\NP 6 (lab).pdb
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Network\NP 6 (Multicast)\NP 6 (lab)\obj\Debug\net6.0-windows\NP 6 (lab).genruntimeconfig.cache
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Network\NP 6 (Multicast)\NP 6 (lab)\obj\Debug\net6.0-windows\ref\NP 6 (lab).dll

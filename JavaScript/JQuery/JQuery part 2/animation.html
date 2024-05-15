@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        ul{
+            background-color: lightcoral;
+        }
+
+        #lang>li {
+            width: 100px;
+        }
+    </style>
+</head>
+
+<body>
+    <script src="https://code.jquery.com/jquery-3.7.1.js"
+        integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
+
+    <ul id="lang">Language
+        <li>C#</li>
+        <li>C/C++</li>
+        <li>Java+</li>
+    </ul>
+
+    <button id="hideBtn">Hide</button>
+    <button id="showBtn">Show</button>
+    <button id="fadeInBtn">Fade in</button>
+    <button id="fadeOutBtn">Fade out</button>
+    <button id="fadeTo">Fade to</button>
+
+    <script>
+        $(() => {
+
+            $("#hideBtn").click(() => {
+                $("#lang > li").slideUp("fast");
+            });
+
+            $("#showBtn").click(() => {
+                $("#lang > li").slideDown("fast");
+            });
+          
+            $("#fadeInBtn").click(() => {
+                $("#lang > li").fadeIn(500);
+            });
+
+            $("#fadeOutBtn").click(() => {
+                $("#lang > li").fadeOut(500);
+            });
+            
+            $("#fadeTo").click(() => {
+                $("#lang > li").fadeTo(500, 0.6);
+            });
+
+            // $("button").click(()=>{
+            //     $("#lang").toggle(200);
+            // });
+
+
+        });
+    </script>
+
+</body>
+
+</html>

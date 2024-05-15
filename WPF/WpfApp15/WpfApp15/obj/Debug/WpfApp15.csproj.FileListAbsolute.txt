@@ -1,0 +1,16 @@
+C:\Users\mavez\source\repos\WpfApp15\WpfApp15\bin\Debug\WpfApp15.exe.config
+C:\Users\mavez\source\repos\WpfApp15\WpfApp15\bin\Debug\WpfApp15.exe
+C:\Users\mavez\source\repos\WpfApp15\WpfApp15\bin\Debug\WpfApp15.pdb
+C:\Users\mavez\source\repos\WpfApp15\WpfApp15\obj\Debug\WpfApp15.csproj.AssemblyReference.cache
+C:\Users\mavez\source\repos\WpfApp15\WpfApp15\obj\Debug\WpfApp15.csproj.SuggestedBindingRedirects.cache
+C:\Users\mavez\source\repos\WpfApp15\WpfApp15\obj\Debug\MainWindow.g.cs
+C:\Users\mavez\source\repos\WpfApp15\WpfApp15\obj\Debug\App.g.cs
+C:\Users\mavez\source\repos\WpfApp15\WpfApp15\obj\Debug\WpfApp15_MarkupCompile.cache
+C:\Users\mavez\source\repos\WpfApp15\WpfApp15\obj\Debug\WpfApp15_MarkupCompile.lref
+C:\Users\mavez\source\repos\WpfApp15\WpfApp15\obj\Debug\MainWindow.baml
+C:\Users\mavez\source\repos\WpfApp15\WpfApp15\obj\Debug\WpfApp15.g.resources
+C:\Users\mavez\source\repos\WpfApp15\WpfApp15\obj\Debug\WpfApp15.Properties.Resources.resources
+C:\Users\mavez\source\repos\WpfApp15\WpfApp15\obj\Debug\WpfApp15.csproj.GenerateResource.cache
+C:\Users\mavez\source\repos\WpfApp15\WpfApp15\obj\Debug\WpfApp15.csproj.CoreCompileInputs.cache
+C:\Users\mavez\source\repos\WpfApp15\WpfApp15\obj\Debug\WpfApp15.exe
+C:\Users\mavez\source\repos\WpfApp15\WpfApp15\obj\Debug\WpfApp15.pdb

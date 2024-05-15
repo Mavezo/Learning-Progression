@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        div{
+            background-color: cadetblue;
+            display: inline-block;
+            width: 100px;
+        }
+    </style>
+</head>
+
+<body>
+    <script src="https://code.jquery.com/jquery-3.7.1.js"
+        integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
+
+    <a href="animation.html">Example 2</a>
+    <button id="changeColor">Change color</button>
+
+    <br>
+    <div>
+        qwe
+    </div>
+
+    <script>
+        $(() => {
+            console.log($("body").css("font-size"));
+
+            $("#changeColor").click(() => {
+                // $("a").css("color", (ind, oldValue) => {
+                //     if (oldValue == "rgb(0, 0, 255)")
+                //         return "red";
+                //     else
+                //         return "blue";
+                // });
+                
+                // $("a").css({ "margin-left": "+=5", "height": "+=2" })
+
+                
+                let height = $("div").height();
+                let width = $("div").width();
+
+                $("div").height(height+50);
+                $("div").width(width+50);
+
+            });
+
+        });
+
+
+
+
+    </script>
+</body>
+
+</html>

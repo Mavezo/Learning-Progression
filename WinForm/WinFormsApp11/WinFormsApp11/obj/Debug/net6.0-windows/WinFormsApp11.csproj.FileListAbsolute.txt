@@ -1,0 +1,17 @@
+C:\Users\mavez\source\repos\WinFormsApp11\WinFormsApp11\bin\Debug\net6.0-windows\WinFormsApp11.exe
+C:\Users\mavez\source\repos\WinFormsApp11\WinFormsApp11\bin\Debug\net6.0-windows\WinFormsApp11.deps.json
+C:\Users\mavez\source\repos\WinFormsApp11\WinFormsApp11\bin\Debug\net6.0-windows\WinFormsApp11.runtimeconfig.json
+C:\Users\mavez\source\repos\WinFormsApp11\WinFormsApp11\bin\Debug\net6.0-windows\WinFormsApp11.dll
+C:\Users\mavez\source\repos\WinFormsApp11\WinFormsApp11\bin\Debug\net6.0-windows\WinFormsApp11.pdb
+C:\Users\mavez\source\repos\WinFormsApp11\WinFormsApp11\obj\Debug\net6.0-windows\WinFormsApp11.csproj.AssemblyReference.cache
+C:\Users\mavez\source\repos\WinFormsApp11\WinFormsApp11\obj\Debug\net6.0-windows\WinFormsApp11.Form1.resources
+C:\Users\mavez\source\repos\WinFormsApp11\WinFormsApp11\obj\Debug\net6.0-windows\WinFormsApp11.csproj.GenerateResource.cache
+C:\Users\mavez\source\repos\WinFormsApp11\WinFormsApp11\obj\Debug\net6.0-windows\WinFormsApp11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mavez\source\repos\WinFormsApp11\WinFormsApp11\obj\Debug\net6.0-windows\WinFormsApp11.AssemblyInfoInputs.cache
+C:\Users\mavez\source\repos\WinFormsApp11\WinFormsApp11\obj\Debug\net6.0-windows\WinFormsApp11.AssemblyInfo.cs
+C:\Users\mavez\source\repos\WinFormsApp11\WinFormsApp11\obj\Debug\net6.0-windows\WinFormsApp11.csproj.CoreCompileInputs.cache
+C:\Users\mavez\source\repos\WinFormsApp11\WinFormsApp11\obj\Debug\net6.0-windows\WinFormsApp11.dll
+C:\Users\mavez\source\repos\WinFormsApp11\WinFormsApp11\obj\Debug\net6.0-windows\refint\WinFormsApp11.dll
+C:\Users\mavez\source\repos\WinFormsApp11\WinFormsApp11\obj\Debug\net6.0-windows\WinFormsApp11.pdb
+C:\Users\mavez\source\repos\WinFormsApp11\WinFormsApp11\obj\Debug\net6.0-windows\WinFormsApp11.genruntimeconfig.cache
+C:\Users\mavez\source\repos\WinFormsApp11\WinFormsApp11\obj\Debug\net6.0-windows\ref\WinFormsApp11.dll

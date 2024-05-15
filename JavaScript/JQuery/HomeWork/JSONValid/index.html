@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        *,
+        *::after,
+        *::before {
+            box-sizing: border-box;
+
+        }
+
+        body {
+            background-color: beige;
+        }
+
+        div#wrapper {
+            width: 100%;
+            display: flex;
+            flex-wrap: wrap;
+            flex-direction: row;
+            justify-content: flex-start;
+        }
+
+        div#wrapper>* {
+            margin: 0px;
+            margin-bottom: 20px;
+        }
+
+        h2 {
+            width: 49%;
+            display: inline-block;
+        }
+
+        div#areaWrapper {
+            display: flex;
+            width: 100%;
+        }
+
+        textarea {
+            border-radius: 5px;
+            font-size: 17px;
+            width: 40%;
+        }
+
+        button {
+            font-weight: bold;
+            font-size: 50px;
+            padding: 0px;
+            border-width: 1px;
+            border-radius: 5px;
+            width: 5%;
+            height: 100%;
+            margin: 0 1%;
+        }
+
+        button:hover {
+            background-color: rgba(176, 176, 176, 0.544);
+        }
+    </style>
+
+</head>
+
+<body>
+    <div id="wrapper">
+
+        <h2>Enter JSON data</h2>
+        <h2>Formatted JSON data</h2>
+
+        <div id="areaWrapper">
+            <textarea name="before" id="inputJSON" cols="30" rows="30"></textarea>
+            <button type="button" id="validate">→</button>
+            <textarea name="before" id="afterValidation" cols="30" rows="30"></textarea>
+        </div>
+
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.7.1.js"
+        integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
+
+    <script>
+        $(() => {
+
+            let test = {
+                name: "Roman",
+                age: 17,
+                isAdmin: true
+            }
+            $("#inputJSON").text(JSON.stringify(test));
+
+            $("#validate").click(()=>{
+                    try {
+                        let object = $.parseJSON($("#inputJSON").text());
+                        console.log(object);
+                        afterValidation.value = JSON.stringify(object, null, 4);
+                }
+                catch (error) {
+                    alert("[format error]");
+                    return;
+                }
+            });
+            
+        });
+
+        </script>
+
+        
+        </body>
+        
+        </html>

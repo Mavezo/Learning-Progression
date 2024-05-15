@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            margin: 0px;
+            height: 100vh;
+            max-width: 100%;
+            background-image: url("128245.jpg");
+            background-size: cover;
+            background-repeat: no-repeat;
+        }
+
+        img#cat {
+            position: absolute;
+            width: 150px;
+            height: 150px;
+        }
+    </style>
+</head>
+
+<body>
+    <script src="https://code.jquery.com/jquery-3.7.1.js"
+        integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
+
+    <img id="cat" src="png.monster-353.png" alt="cat.png">
+    <script>
+        $(() => {
+            $("body").on("mousemove", function (e) {
+
+                setTimeout(()=>{
+
+                    var offsetX = e.pageX - $(this).offset().left;
+                    var offsetY = e.pageY - $(this).offset().top;
+
+                    let halfOfImgWidth = parseInt($("img#cat").css("width"), 10) / 2;
+                    let halfOfImgHeight = parseInt($("img#cat").css("height"), 10) / 2;
+                    
+
+                    let left = offsetX - halfOfImgWidth;
+                    let top = offsetY - halfOfImgHeight;
+
+
+                    if(offsetX + halfOfImgWidth > parseInt($(this).css("width"), 10)){
+                        left = parseInt($(this).css("width"), 10) - halfOfImgWidth * 2;
+                    }
+
+                    if(offsetX - halfOfImgWidth < 0){
+                        left = 0;
+                    }
+
+                    if(offsetY + halfOfImgHeight > parseInt($(this).css("height"), 10)){
+                        top = parseInt($(this).css("height"), 10) - halfOfImgHeight * 2;
+                    }
+
+                    if(offsetY - halfOfImgHeight < 0){
+                        top = 0;
+                    }
+
+                    
+                    $("img#cat").css("left", `${left}px`);
+                    $("img#cat").css("top", `${top}px`);
+                    
+
+
+                }, 250);
+
+            })
+
+
+        });
+
+    </script>
+</body>
+
+</html>

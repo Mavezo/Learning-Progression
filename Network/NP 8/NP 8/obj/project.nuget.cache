@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ucZU/iJJb0cb2N25KOuQUG9f7ukMKDc/fG6siGdvn2y8jMIsEIX5TkOv+Z2WWGmC+8tWK4Fa68O1FcGe3Tzrkw==",
+  "dgSpecHash": "3hohXhUSa1yrgNe+FAszACP9KVmKADxxRBhVqJ+IQr7X7IsNUl8fXgsc3g26zsk4C/hWTi1291q8bewZwFk3/A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mavez\\source\\repos\\NP 8\\NP 8\\NP 8.csproj",
+  "projectFilePath": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\Network\\NP 8\\NP 8\\NP 8.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mavez\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "C:\\Users\\mavez\\.nuget\\packages\\mailkit\\4.1.0\\mailkit.4.1.0.nupkg.sha512",

@@ -89,7 +89,7 @@ namespace NP_8_lab
                     using (var client = new MailKit.Net.Smtp.SmtpClient())
                     {
                         await client.ConnectAsync("smtp.gmail.com", 465, true);
-                        await client.AuthenticateAsync("mavezom@gmail.com", "ycgjstudikbffvbh");
+                        await client.AuthenticateAsync("mavezom@gmail.com", "nicetry");
                         await client.SendAsync(message);
                         await client.DisconnectAsync(true);
 

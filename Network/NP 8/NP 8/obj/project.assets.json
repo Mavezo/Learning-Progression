@@ -361,11 +361,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mavez\\source\\repos\\NP 8\\NP 8\\NP 8.csproj",
+      "projectUniqueName": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\Network\\NP 8\\NP 8\\NP 8.csproj",
       "projectName": "NP 8",
-      "projectPath": "C:\\Users\\mavez\\source\\repos\\NP 8\\NP 8\\NP 8.csproj",
+      "projectPath": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\Network\\NP 8\\NP 8\\NP 8.csproj",
       "packagesPath": "C:\\Users\\mavez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mavez\\source\\repos\\NP 8\\NP 8\\obj\\",
+      "outputPath": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\Network\\NP 8\\NP 8\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mavez\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -418,7 +418,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

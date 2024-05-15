@@ -1,0 +1,90 @@
+﻿@model ASP.NET_MVC_QuestRoom.Models.QuestIndexViewModel
+@{
+	ViewData["Title"] = "Quests";
+}
+
+<link rel="stylesheet" asp-append-version="true" href="~/css/questsIndex.css" />
+
+<div class="search-block text-end">
+
+	<div class="container">
+		<form asp-action="Index" method="get" class="mx-5" data-bs-theme="dark">
+			<p class="text-light pe-4"> Find Your Quest</p>
+			<input type="text" name="search" class="form-text text-dark" placeholder='Kid, Horror, Detective etc.' />
+			<input type="submit" class="btn btn-outline-success" value="Search" />
+		</form>
+	</div>
+</div>
+
+<div class="container">
+	<div class="text-left pt-3" id="popular">Popular Quests:</div>
+
+
+	@* <ul class="list-unstyled d-flex justify-content-center flex-wrap align-content-between"> *@
+	<ul class="list-unstyled  quest-container row row-cols-xxl-4 row-cols-md-3 row-cols-xl-4 row-cols-sm-2 row-cols-xs-1 row-cols-1 w-100">
+		@foreach (var item in Model.Rooms)
+		{
+			<li style="" class="mb-5 li-quest col">
+				<div class="card border-0">
+
+					<div class="image-container position-relative">
+
+						<a asp-action="Details" asp-route-id="@item.Id" class="overlay position-absolute text-white">
+							<span class="justify-content-between position-absolute">
+								@item.Description
+							</span>
+						</a>
+						<img src="~/images/@item.ImageName" asp-append-version="true" class="card-img-top card-image" alt="test">
+						<div class="position-absolute top-panel end-0 top-0">
+							<div class="participal justify-content-end d-flex	align-items-stretch">
+								<i class="bi bi-people"></i>@item.MinOfPlayer-@item.MaxOfPlayer
+							</div>
+							<div class="fear d-flex justify-content-end">
+								@for (int i = 0; i < item.FearLevel; i++)
+								{
+									<div class="skull">&#x1F480;</div>
+								}
+							</div>
+							<div class="difficult d-flex justify-content-end">
+								@for (int i = 0; i < item.Difficulty; i++)
+								{
+									<i class="bi bi-key"></i>
+								}
+							</div>
+						</div>
+						<div class="rating position-absolute end-0 bottom-0 ">
+							@for (int i = 1; i < 6; i++)
+							{
+								if ((int)item.Rating >= i)
+								{
+									<i class="bi bi-star-fill"></i>
+								}
+								else
+								{
+									<i class="bi bi-star"></i>
+								}
+							}
+						</div>
+
+					</div>
+
+					<div class="card-body">
+						<p class="name-holder">@item.QuestName</p>
+						<p class="tag">&#x1F480;Quest</p>
+						<p class="address">@item.Address</p>
+						<a asp-action="Details" class="btn btn-outline-danger" asp-route-id="@item.Id">Details</a>
+					</div>
+				</div>
+
+			</li>
+		}
+	</ul>
+</div>
+
+<script>
+
+
+
+</script>
+
+

@@ -1,0 +1,12 @@
+C:\Users\mavez\source\repos\Сar Rental Database\CarRentalClasses\bin\Debug\net6.0\CarRentalClasses.deps.json
+C:\Users\mavez\source\repos\Сar Rental Database\CarRentalClasses\bin\Debug\net6.0\CarRentalClasses.dll
+C:\Users\mavez\source\repos\Сar Rental Database\CarRentalClasses\bin\Debug\net6.0\CarRentalClasses.pdb
+C:\Users\mavez\source\repos\Сar Rental Database\CarRentalClasses\obj\Debug\net6.0\CarRentalClasses.csproj.AssemblyReference.cache
+C:\Users\mavez\source\repos\Сar Rental Database\CarRentalClasses\obj\Debug\net6.0\CarRentalClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mavez\source\repos\Сar Rental Database\CarRentalClasses\obj\Debug\net6.0\CarRentalClasses.AssemblyInfoInputs.cache
+C:\Users\mavez\source\repos\Сar Rental Database\CarRentalClasses\obj\Debug\net6.0\CarRentalClasses.AssemblyInfo.cs
+C:\Users\mavez\source\repos\Сar Rental Database\CarRentalClasses\obj\Debug\net6.0\CarRentalClasses.csproj.CoreCompileInputs.cache
+C:\Users\mavez\source\repos\Сar Rental Database\CarRentalClasses\obj\Debug\net6.0\CarRentalClasses.dll
+C:\Users\mavez\source\repos\Сar Rental Database\CarRentalClasses\obj\Debug\net6.0\refint\CarRentalClasses.dll
+C:\Users\mavez\source\repos\Сar Rental Database\CarRentalClasses\obj\Debug\net6.0\CarRentalClasses.pdb
+C:\Users\mavez\source\repos\Сar Rental Database\CarRentalClasses\obj\Debug\net6.0\ref\CarRentalClasses.dll

@@ -1,0 +1,131 @@
+﻿@using static ASP.NET_MVC_QuestRoom.Data.Entity.QuestRoom;
+@model ASP.NET_MVC_QuestRoom.Models.AdminViewModels.EditViewModel
+
+<link rel="stylesheet" asp-append-version="true" href="~/css/questEdit.css" />
+
+@{
+	ViewData["Title"] = "Edit";
+}
+
+<div class="container">
+
+	<h1 class="mt-3">Edit</h1>
+
+	<h4>QuestRoom</h4>
+	<hr />
+	<div class="row">
+		<div class="col-md-4">
+			<form asp-action="Edit" enctype="multipart/form-data">
+				<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+				<input type="hidden" asp-for="QuestRoom.Id" />
+				<input type="hidden" asp-for="QuestRoom.ImageName" />
+				<div class="form-group">
+					<label asp-for="QuestRoom.QuestName" class="control-label"></label>
+					<input asp-for="QuestRoom.QuestName" class="form-control" />
+					<span asp-validation-for="QuestRoom.QuestName" class="text-danger"></span>
+				</div>
+				<div class="form-group">
+					<label asp-for="QuestRoom.Description" class="control-label"></label>
+					<textarea rows="3" asp-for="QuestRoom.Description" class="form-control"></textarea>
+					<span asp-validation-for="QuestRoom.Description" class="text-danger"></span>
+				</div>
+				<div class="form-group">
+					<label asp-for="QuestRoom.DurationInMinutes" class="control-label"></label>
+					<input asp-for="QuestRoom.DurationInMinutes" class="form-control" />
+					<span asp-validation-for="QuestRoom.DurationInMinutes" class="text-danger"></span>
+				</div>
+				<div class="form-group">
+					<label asp-for="QuestRoom.MinOfPlayer" class="control-label"></label>
+					<input asp-for="QuestRoom.MinOfPlayer" id="minPlayer" min="1" class="form-control" />
+					<span asp-validation-for="QuestRoom.MinOfPlayer" class="text-danger"></span>
+					<button type="button" class="btn btn-info py-1 m-2 ms-0" onclick="changeValue(event, 'minPlayer')">1</button>
+					<button type="button" class="btn btn-info py-1 m-2 ms-0" onclick="changeValue(event, 'minPlayer')">2</button>
+					<button type="button" class="btn btn-info py-1 m-2 ms-0" onclick="changeValue(event, 'minPlayer')">4</button>
+
+				</div>
+				<div class="form-group">
+					<label asp-for="QuestRoom.MaxOfPlayer" class="control-label"></label>
+					<input asp-for="QuestRoom.MaxOfPlayer" id="maxPlayer" min="1" class="form-control" />
+					<span asp-validation-for="QuestRoom.MaxOfPlayer" class="text-danger"></span>
+					<button type="button" class="btn btn-info py-1 m-2 ms-0" onclick="changeValue(event, 'maxPlayer')">4</button>
+					<button type="button" class="btn btn-info py-1 m-2 ms-0" onclick="changeValue(event, 'maxPlayer')">6</button>
+					<button type="button" class="btn btn-info py-1 m-2 ms-0" onclick="changeValue(event, 'maxPlayer')">8</button>
+
+				</div>
+				<div class="form-group">
+					<label asp-for="QuestRoom.Address" class="control-label"></label>
+					<input asp-for="QuestRoom.Address" class="form-control" />
+					<span asp-validation-for="QuestRoom.Address" class="text-danger"></span>
+				</div>
+				<div class="form-group">
+					<label asp-for="QuestRoom.TelephoneNumber" class="control-label"></label>
+					<input asp-for="QuestRoom.TelephoneNumber" class="form-control" />
+					<span asp-validation-for="QuestRoom.TelephoneNumber" class="text-danger"></span>
+				</div>
+				<div class="form-group">
+					<label asp-for="QuestRoom.Company" class="control-label"></label>
+					<input asp-for="QuestRoom.Company" class="form-control" />
+					<span asp-validation-for="QuestRoom.Company" class="text-danger"></span>
+				</div>
+				<div class="form-group">
+					<label asp-for="QuestRoom.Rating" class="control-label"></label>
+					<select asp-for="QuestRoom.Rating" asp-items="@new SelectList(Enum.GetNames<Rate>())" class="form-control"></select>
+					<span asp-validation-for="QuestRoom.Rating" class="text-danger"></span>
+				</div>
+				<div class="form-group">
+					<label asp-for="QuestRoom.FearLevel" class="control-label"></label>
+					<input asp-for="QuestRoom.FearLevel" id="fearInput" max="7" min="0" class="form-control" />
+					<span asp-validation-for="QuestRoom.FearLevel" class="text-danger"></span>
+					<div class="btn-group">
+						<button type="button" class="btn btn-info py-1 m-2 ms-0" onclick="changeValue(event, 'fearInput')">1</button>
+						<button type="button" class="btn btn-info py-1 m-2 ms-0" onclick="changeValue(event, 'fearInput')">2</button>
+						<button type="button" class="btn btn-info py-1 m-2 ms-0" onclick="changeValue(event, 'fearInput')">3</button>
+						<button type="button" class="btn btn-info py-1 m-2 ms-0" onclick="changeValue(event, 'fearInput')">4</button>
+						<button type="button" class="btn btn-info py-1 m-2 ms-0" onclick="changeValue(event, 'fearInput')">5</button>
+					</div>
+				</div>
+				<div class="form-group">
+					<label asp-for="QuestRoom.Difficulty" class="control-label"></label>
+					<input asp-for="QuestRoom.Difficulty" id="difficultyInput" min="0" max="10" class="form-control" />
+					<span asp-validation-for="QuestRoom.Difficulty" class="text-danger"></span>
+					<div class="btn-group">
+						<button type="button" class="btn btn-info py-1 m-2 ms-0" onclick="changeValue(event, 'difficultyInput')">1</button>
+						<button type="button" class="btn btn-info py-1 m-2 ms-0" onclick="changeValue(event, 'difficultyInput')">2</button>
+						<button type="button" class="btn btn-info py-1 m-2 ms-0" onclick="changeValue(event, 'difficultyInput')">3</button>
+						<button type="button" class="btn btn-info py-1 m-2 ms-0" onclick="changeValue(event, 'difficultyInput')">4</button>
+						<button type="button" class="btn btn-info py-1 m-2 ms-0" onclick="changeValue(event, 'difficultyInput')">5</button>
+					</div>
+				</div>
+				<div class="form-group">
+					<h5>Current Image:</h5>
+					<img asp-append-version="true" style="width: 500px; height: auto;" src="~/images/@Model.QuestRoom.ImageName" class="card-img-top card-image my-1" alt="test">
+
+					<label asp-for="Image" class="control-label">New Image</label>
+					<input asp-for="Image" type="file" accept="image/*" class="form-control" />
+				</div>
+
+				<div class="form-group mt-3">
+					<input type="submit" value="Save" class="btn btn-primary" />
+				</div>
+			</form>
+		</div>
+	</div>
+
+	<div>
+		<a asp-action="Index">Back to List</a>
+	</div>
+</div>
+
+<script>
+	function changeValue(e, element) {
+		var elem = document.getElementById(`${element}`);
+		elem.value = e.target.innerText;
+	}
+
+</script>
+
+@section Scripts {
+	@{
+		await Html.RenderPartialAsync("_ValidationScriptsPartial");
+	}
+}

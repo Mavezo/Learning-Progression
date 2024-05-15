@@ -1,0 +1,39 @@
+﻿<Window x:Class="WpfApp15.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp15"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="300"
+         x:Name="window">
+    <Grid>
+        <GroupBox>
+            <GroupBox.Header>
+                <TextBlock Text="Внешний GroupBox" FontSize="15"></TextBlock>
+            </GroupBox.Header>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                </Grid.RowDefinitions>
+                <GroupBox Grid.Row="0">
+                    <GroupBox.Header>
+                        <TextBlock Text="Внутренний GroupBox1" FontSize="13"></TextBlock>
+                    </GroupBox.Header>
+                    <StackPanel Orientation="Vertical">
+                        <TextBlock x:Name="text" Text="Ширина текста:"></TextBlock>
+                        <TextBox Background="Yellow" Text="{Binding RelativeSource={RelativeSource Mode=Self}, Path=ActualWidth, Mode=OneWay}"></TextBox>
+                        <TextBlock Text="Ширина окна:"></TextBlock>
+                        <TextBox x:Name="okno" Background="Yellow" Text="{Binding RelativeSource={RelativeSource Mode=FindAncestor, AncestorType={x:Type Window}}, Path=Width}" ></TextBox>
+                        
+
+                    </StackPanel>
+                </GroupBox>
+            </Grid>
+            
+            
+            
+        </GroupBox>
+    </Grid>
+</Window>

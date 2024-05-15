@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+    <button>Load</button>
+    <div id="news">
+        <h3>No news</h3>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.7.1.js"
+        integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
+
+    <script>
+        $(() => {
+            let newPost = {
+                title: 'foo',
+                body: 'bar',
+                userId: 1
+            }
+
+            $('button').click(() => {
+                $('#news').load('https://jsonplaceholder.typicode.com/posts', newPost,
+                    (resp, status, request) => {
+                        console.log(`Response: ${resp}`);
+                        console.log(`Status: ${status}`);
+                        console.log(`${request.responseText}`);
+                        let data = JSON.parse(resp);
+                        console.log(`Title: ${data.title}`);
+                        $('#news').parent().append(`<h3>Title: ${data.title}</h3>`);
+
+                    });
+
+
+
+            });
+        });
+    </script>
+
+</body>
+
+</html>

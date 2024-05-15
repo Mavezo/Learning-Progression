@@ -1,0 +1,27 @@
+C:\Users\mavez\source\repos\ASP.NET Core 2\ASP.NET Core 2\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mavez\source\repos\ASP.NET Core 2\ASP.NET Core 2\bin\Debug\net6.0\appsettings.json
+C:\Users\mavez\source\repos\ASP.NET Core 2\ASP.NET Core 2\bin\Debug\net6.0\ASP.NET Core 2.exe
+C:\Users\mavez\source\repos\ASP.NET Core 2\ASP.NET Core 2\bin\Debug\net6.0\ASP.NET Core 2.deps.json
+C:\Users\mavez\source\repos\ASP.NET Core 2\ASP.NET Core 2\bin\Debug\net6.0\ASP.NET Core 2.runtimeconfig.json
+C:\Users\mavez\source\repos\ASP.NET Core 2\ASP.NET Core 2\bin\Debug\net6.0\ASP.NET Core 2.dll
+C:\Users\mavez\source\repos\ASP.NET Core 2\ASP.NET Core 2\bin\Debug\net6.0\ASP.NET Core 2.pdb
+C:\Users\mavez\source\repos\ASP.NET Core 2\ASP.NET Core 2\obj\Debug\net6.0\ASP.NET Core 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mavez\source\repos\ASP.NET Core 2\ASP.NET Core 2\obj\Debug\net6.0\ASP.NET Core 2.AssemblyInfoInputs.cache
+C:\Users\mavez\source\repos\ASP.NET Core 2\ASP.NET Core 2\obj\Debug\net6.0\ASP.NET Core 2.AssemblyInfo.cs
+C:\Users\mavez\source\repos\ASP.NET Core 2\ASP.NET Core 2\obj\Debug\net6.0\ASP.NET Core 2.csproj.CoreCompileInputs.cache
+C:\Users\mavez\source\repos\ASP.NET Core 2\ASP.NET Core 2\obj\Debug\net6.0\ASP.NET Core 2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mavez\source\repos\ASP.NET Core 2\ASP.NET Core 2\obj\Debug\net6.0\staticwebassets\msbuild.ASP.NET Core 2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mavez\source\repos\ASP.NET Core 2\ASP.NET Core 2\obj\Debug\net6.0\staticwebassets\msbuild.build.ASP.NET Core 2.props
+C:\Users\mavez\source\repos\ASP.NET Core 2\ASP.NET Core 2\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ASP.NET Core 2.props
+C:\Users\mavez\source\repos\ASP.NET Core 2\ASP.NET Core 2\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ASP.NET Core 2.props
+C:\Users\mavez\source\repos\ASP.NET Core 2\ASP.NET Core 2\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\mavez\source\repos\ASP.NET Core 2\ASP.NET Core 2\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mavez\source\repos\ASP.NET Core 2\ASP.NET Core 2\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mavez\source\repos\ASP.NET Core 2\ASP.NET Core 2\obj\Debug\net6.0\scopedcss\bundle\ASP.NET Core 2.styles.css
+C:\Users\mavez\source\repos\ASP.NET Core 2\ASP.NET Core 2\obj\Debug\net6.0\ASP.NET Core 2.dll
+C:\Users\mavez\source\repos\ASP.NET Core 2\ASP.NET Core 2\obj\Debug\net6.0\refint\ASP.NET Core 2.dll
+C:\Users\mavez\source\repos\ASP.NET Core 2\ASP.NET Core 2\obj\Debug\net6.0\ASP.NET Core 2.pdb
+C:\Users\mavez\source\repos\ASP.NET Core 2\ASP.NET Core 2\obj\Debug\net6.0\ASP.NET Core 2.genruntimeconfig.cache
+C:\Users\mavez\source\repos\ASP.NET Core 2\ASP.NET Core 2\obj\Debug\net6.0\ref\ASP.NET Core 2.dll
+C:\Users\mavez\source\repos\ASP.NET Core 2\ASP.NET Core 2\bin\Debug\net6.0\html\about.html
+C:\Users\mavez\source\repos\ASP.NET Core 2\ASP.NET Core 2\bin\Debug\net6.0\html\index.html

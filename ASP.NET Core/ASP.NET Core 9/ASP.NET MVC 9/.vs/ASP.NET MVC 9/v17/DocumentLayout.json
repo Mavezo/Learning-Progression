@@ -1,0 +1,353 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mavez\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0428\u0430\u0433 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u041E\u0431\u044A\u0435\u043C\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC 9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25C8DEAA-D619-43C0-8797-6B1FCEB47BBB}|ASP.NET MVC 9\\ASP.NET MVC 9.csproj|c:\\users\\mavez\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0448\u0430\u0433 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u043E\u0431\u044A\u0435\u043C\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\asp.net core\\asp.net core 9\\asp.net mvc 9\\asp.net mvc 9\\models\\dto\\breeddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C8DEAA-D619-43C0-8797-6B1FCEB47BBB}|ASP.NET MVC 9\\ASP.NET MVC 9.csproj|solutionrelative:asp.net mvc 9\\models\\dto\\breeddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C8DEAA-D619-43C0-8797-6B1FCEB47BBB}|ASP.NET MVC 9\\ASP.NET MVC 9.csproj|c:\\users\\mavez\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0448\u0430\u0433 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u043E\u0431\u044A\u0435\u043C\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\asp.net core\\asp.net core 9\\asp.net mvc 9\\asp.net mvc 9\\views\\cats\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25C8DEAA-D619-43C0-8797-6B1FCEB47BBB}|ASP.NET MVC 9\\ASP.NET MVC 9.csproj|solutionrelative:asp.net mvc 9\\views\\cats\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C8DEAA-D619-43C0-8797-6B1FCEB47BBB}|ASP.NET MVC 9\\ASP.NET MVC 9.csproj|c:\\users\\mavez\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0448\u0430\u0433 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u043E\u0431\u044A\u0435\u043C\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\asp.net core\\asp.net core 9\\asp.net mvc 9\\asp.net mvc 9\\controllers\\catscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C8DEAA-D619-43C0-8797-6B1FCEB47BBB}|ASP.NET MVC 9\\ASP.NET MVC 9.csproj|solutionrelative:asp.net mvc 9\\controllers\\catscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C8DEAA-D619-43C0-8797-6B1FCEB47BBB}|ASP.NET MVC 9\\ASP.NET MVC 9.csproj|c:\\users\\mavez\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0448\u0430\u0433 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u043E\u0431\u044A\u0435\u043C\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\asp.net core\\asp.net core 9\\asp.net mvc 9\\asp.net mvc 9\\views\\cats\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25C8DEAA-D619-43C0-8797-6B1FCEB47BBB}|ASP.NET MVC 9\\ASP.NET MVC 9.csproj|solutionrelative:asp.net mvc 9\\views\\cats\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C8DEAA-D619-43C0-8797-6B1FCEB47BBB}|ASP.NET MVC 9\\ASP.NET MVC 9.csproj|c:\\users\\mavez\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0448\u0430\u0433 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u043E\u0431\u044A\u0435\u043C\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\asp.net core\\asp.net core 9\\asp.net mvc 9\\asp.net mvc 9\\views\\cats\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25C8DEAA-D619-43C0-8797-6B1FCEB47BBB}|ASP.NET MVC 9\\ASP.NET MVC 9.csproj|solutionrelative:asp.net mvc 9\\views\\cats\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C8DEAA-D619-43C0-8797-6B1FCEB47BBB}|ASP.NET MVC 9\\ASP.NET MVC 9.csproj|c:\\users\\mavez\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0448\u0430\u0433 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u043E\u0431\u044A\u0435\u043C\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\asp.net core\\asp.net core 9\\asp.net mvc 9\\asp.net mvc 9\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{25C8DEAA-D619-43C0-8797-6B1FCEB47BBB}|ASP.NET MVC 9\\ASP.NET MVC 9.csproj|solutionrelative:asp.net mvc 9\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C8DEAA-D619-43C0-8797-6B1FCEB47BBB}|ASP.NET MVC 9\\ASP.NET MVC 9.csproj|c:\\users\\mavez\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0448\u0430\u0433 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u043E\u0431\u044A\u0435\u043C\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\asp.net core\\asp.net core 9\\asp.net mvc 9\\asp.net mvc 9\\data\\entity\\catcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C8DEAA-D619-43C0-8797-6B1FCEB47BBB}|ASP.NET MVC 9\\ASP.NET MVC 9.csproj|solutionrelative:asp.net mvc 9\\data\\entity\\catcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C8DEAA-D619-43C0-8797-6B1FCEB47BBB}|ASP.NET MVC 9\\ASP.NET MVC 9.csproj|c:\\users\\mavez\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0448\u0430\u0433 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u043E\u0431\u044A\u0435\u043C\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\asp.net core\\asp.net core 9\\asp.net mvc 9\\asp.net mvc 9\\taghelpers\\customfiltertaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C8DEAA-D619-43C0-8797-6B1FCEB47BBB}|ASP.NET MVC 9\\ASP.NET MVC 9.csproj|solutionrelative:asp.net mvc 9\\taghelpers\\customfiltertaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C8DEAA-D619-43C0-8797-6B1FCEB47BBB}|ASP.NET MVC 9\\ASP.NET MVC 9.csproj|c:\\users\\mavez\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0448\u0430\u0433 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u043E\u0431\u044A\u0435\u043C\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\asp.net core\\asp.net core 9\\asp.net mvc 9\\asp.net mvc 9\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25C8DEAA-D619-43C0-8797-6B1FCEB47BBB}|ASP.NET MVC 9\\ASP.NET MVC 9.csproj|solutionrelative:asp.net mvc 9\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C8DEAA-D619-43C0-8797-6B1FCEB47BBB}|ASP.NET MVC 9\\ASP.NET MVC 9.csproj|c:\\users\\mavez\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0448\u0430\u0433 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u043E\u0431\u044A\u0435\u043C\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\asp.net core\\asp.net core 9\\asp.net mvc 9\\asp.net mvc 9\\models\\catviewmodels\\indexcatviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C8DEAA-D619-43C0-8797-6B1FCEB47BBB}|ASP.NET MVC 9\\ASP.NET MVC 9.csproj|solutionrelative:asp.net mvc 9\\models\\catviewmodels\\indexcatviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C8DEAA-D619-43C0-8797-6B1FCEB47BBB}|ASP.NET MVC 9\\ASP.NET MVC 9.csproj|c:\\users\\mavez\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0448\u0430\u0433 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u043E\u0431\u044A\u0435\u043C\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\asp.net core\\asp.net core 9\\asp.net mvc 9\\asp.net mvc 9\\views\\cats\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25C8DEAA-D619-43C0-8797-6B1FCEB47BBB}|ASP.NET MVC 9\\ASP.NET MVC 9.csproj|solutionrelative:asp.net mvc 9\\views\\cats\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C8DEAA-D619-43C0-8797-6B1FCEB47BBB}|ASP.NET MVC 9\\ASP.NET MVC 9.csproj|c:\\users\\mavez\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0448\u0430\u0433 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u043E\u0431\u044A\u0435\u043C\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\asp.net core\\asp.net core 9\\asp.net mvc 9\\asp.net mvc 9\\data\\entity\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C8DEAA-D619-43C0-8797-6B1FCEB47BBB}|ASP.NET MVC 9\\ASP.NET MVC 9.csproj|solutionrelative:asp.net mvc 9\\data\\entity\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C8DEAA-D619-43C0-8797-6B1FCEB47BBB}|ASP.NET MVC 9\\ASP.NET MVC 9.csproj|c:\\users\\mavez\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0448\u0430\u0433 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u043E\u0431\u044A\u0435\u043C\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\asp.net core\\asp.net core 9\\asp.net mvc 9\\asp.net mvc 9\\data\\entity\\breed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C8DEAA-D619-43C0-8797-6B1FCEB47BBB}|ASP.NET MVC 9\\ASP.NET MVC 9.csproj|solutionrelative:asp.net mvc 9\\data\\entity\\breed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C8DEAA-D619-43C0-8797-6B1FCEB47BBB}|ASP.NET MVC 9\\ASP.NET MVC 9.csproj|c:\\users\\mavez\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0448\u0430\u0433 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u043E\u0431\u044A\u0435\u043C\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\asp.net core\\asp.net core 9\\asp.net mvc 9\\asp.net mvc 9\\data\\entity\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C8DEAA-D619-43C0-8797-6B1FCEB47BBB}|ASP.NET MVC 9\\ASP.NET MVC 9.csproj|solutionrelative:asp.net mvc 9\\data\\entity\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C8DEAA-D619-43C0-8797-6B1FCEB47BBB}|ASP.NET MVC 9\\ASP.NET MVC 9.csproj|c:\\users\\mavez\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0448\u0430\u0433 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u043E\u0431\u044A\u0435\u043C\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\asp.net core\\asp.net core 9\\asp.net mvc 9\\asp.net mvc 9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C8DEAA-D619-43C0-8797-6B1FCEB47BBB}|ASP.NET MVC 9\\ASP.NET MVC 9.csproj|solutionrelative:asp.net mvc 9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C8DEAA-D619-43C0-8797-6B1FCEB47BBB}|ASP.NET MVC 9\\ASP.NET MVC 9.csproj|c:\\users\\mavez\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0448\u0430\u0433 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u043E\u0431\u044A\u0435\u043C\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\asp.net core\\asp.net core 9\\asp.net mvc 9\\asp.net mvc 9\\models\\catviewmodels\\editcatviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C8DEAA-D619-43C0-8797-6B1FCEB47BBB}|ASP.NET MVC 9\\ASP.NET MVC 9.csproj|solutionrelative:asp.net mvc 9\\models\\catviewmodels\\editcatviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C8DEAA-D619-43C0-8797-6B1FCEB47BBB}|ASP.NET MVC 9\\ASP.NET MVC 9.csproj|c:\\users\\mavez\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0448\u0430\u0433 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u043E\u0431\u044A\u0435\u043C\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\asp.net core\\asp.net core 9\\asp.net mvc 9\\asp.net mvc 9\\views\\cats\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25C8DEAA-D619-43C0-8797-6B1FCEB47BBB}|ASP.NET MVC 9\\ASP.NET MVC 9.csproj|solutionrelative:asp.net mvc 9\\views\\cats\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C8DEAA-D619-43C0-8797-6B1FCEB47BBB}|ASP.NET MVC 9\\ASP.NET MVC 9.csproj|c:\\users\\mavez\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0448\u0430\u0433 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u043E\u0431\u044A\u0435\u043C\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\asp.net core\\asp.net core 9\\asp.net mvc 9\\asp.net mvc 9\\models\\catviewmodels\\createcatviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C8DEAA-D619-43C0-8797-6B1FCEB47BBB}|ASP.NET MVC 9\\ASP.NET MVC 9.csproj|solutionrelative:asp.net mvc 9\\models\\catviewmodels\\createcatviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C8DEAA-D619-43C0-8797-6B1FCEB47BBB}|ASP.NET MVC 9\\ASP.NET MVC 9.csproj|c:\\users\\mavez\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0448\u0430\u0433 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u043E\u0431\u044A\u0435\u043C\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\asp.net core\\asp.net core 9\\asp.net mvc 9\\asp.net mvc 9\\models\\catviewmodels\\detailscatviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C8DEAA-D619-43C0-8797-6B1FCEB47BBB}|ASP.NET MVC 9\\ASP.NET MVC 9.csproj|solutionrelative:asp.net mvc 9\\models\\catviewmodels\\detailscatviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C8DEAA-D619-43C0-8797-6B1FCEB47BBB}|ASP.NET MVC 9\\ASP.NET MVC 9.csproj|c:\\users\\mavez\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0448\u0430\u0433 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u043E\u0431\u044A\u0435\u043C\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\asp.net core\\asp.net core 9\\asp.net mvc 9\\asp.net mvc 9\\models\\dto\\catdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C8DEAA-D619-43C0-8797-6B1FCEB47BBB}|ASP.NET MVC 9\\ASP.NET MVC 9.csproj|solutionrelative:asp.net mvc 9\\models\\dto\\catdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BreedDTO.cs",
+              "DocumentMoniker": "C:\\Users\\mavez\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0428\u0430\u0433 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u041E\u0431\u044A\u0435\u043C\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC 9\\ASP.NET MVC 9\\Models\\DTO\\BreedDTO.cs",
+              "RelativeDocumentMoniker": "ASP.NET MVC 9\\Models\\DTO\\BreedDTO.cs",
+              "ToolTip": "C:\\Users\\mavez\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0428\u0430\u0433 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u041E\u0431\u044A\u0435\u043C\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC 9\\ASP.NET MVC 9\\Models\\DTO\\BreedDTO.cs",
+              "RelativeToolTip": "ASP.NET MVC 9\\Models\\DTO\\BreedDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-04T21:08:51.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\mavez\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0428\u0430\u0433 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u041E\u0431\u044A\u0435\u043C\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC 9\\ASP.NET MVC 9\\Views\\Cats\\Create.cshtml",
+              "RelativeDocumentMoniker": "ASP.NET MVC 9\\Views\\Cats\\Create.cshtml",
+              "ToolTip": "C:\\Users\\mavez\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0428\u0430\u0433 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u041E\u0431\u044A\u0435\u043C\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC 9\\ASP.NET MVC 9\\Views\\Cats\\Create.cshtml",
+              "RelativeToolTip": "ASP.NET MVC 9\\Views\\Cats\\Create.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACIAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-05T23:31:40.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\mavez\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0428\u0430\u0433 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u041E\u0431\u044A\u0435\u043C\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC 9\\ASP.NET MVC 9\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ASP.NET MVC 9\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\mavez\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0428\u0430\u0433 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u041E\u0431\u044A\u0435\u043C\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC 9\\ASP.NET MVC 9\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ASP.NET MVC 9\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-29T01:28:00.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mavez\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0428\u0430\u0433 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u041E\u0431\u044A\u0435\u043C\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC 9\\ASP.NET MVC 9\\appsettings.json",
+              "RelativeDocumentMoniker": "ASP.NET MVC 9\\appsettings.json",
+              "ToolTip": "C:\\Users\\mavez\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0428\u0430\u0433 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u041E\u0431\u044A\u0435\u043C\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC 9\\ASP.NET MVC 9\\appsettings.json",
+              "RelativeToolTip": "ASP.NET MVC 9\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2023-12-21T23:59:02.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mavez\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0428\u0430\u0433 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u041E\u0431\u044A\u0435\u043C\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC 9\\ASP.NET MVC 9\\Views\\Cats\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASP.NET MVC 9\\Views\\Cats\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mavez\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0428\u0430\u0433 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u041E\u0431\u044A\u0435\u043C\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC 9\\ASP.NET MVC 9\\Views\\Cats\\Index.cshtml",
+              "RelativeToolTip": "ASP.NET MVC 9\\Views\\Cats\\Index.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAABOwDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-04T21:38:56.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CatsController.cs",
+              "DocumentMoniker": "C:\\Users\\mavez\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0428\u0430\u0433 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u041E\u0431\u044A\u0435\u043C\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC 9\\ASP.NET MVC 9\\Controllers\\CatsController.cs",
+              "RelativeDocumentMoniker": "ASP.NET MVC 9\\Controllers\\CatsController.cs",
+              "ToolTip": "C:\\Users\\mavez\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0428\u0430\u0433 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u041E\u0431\u044A\u0435\u043C\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC 9\\ASP.NET MVC 9\\Controllers\\CatsController.cs",
+              "RelativeToolTip": "ASP.NET MVC 9\\Controllers\\CatsController.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAAAHoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-04T21:39:37.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\mavez\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0428\u0430\u0433 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u041E\u0431\u044A\u0435\u043C\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC 9\\ASP.NET MVC 9\\Views\\Cats\\Details.cshtml",
+              "RelativeDocumentMoniker": "ASP.NET MVC 9\\Views\\Cats\\Details.cshtml",
+              "ToolTip": "C:\\Users\\mavez\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0428\u0430\u0433 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u041E\u0431\u044A\u0435\u043C\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC 9\\ASP.NET MVC 9\\Views\\Cats\\Details.cshtml",
+              "RelativeToolTip": "ASP.NET MVC 9\\Views\\Cats\\Details.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAABOwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-26T22:17:47.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Breed.cs",
+              "DocumentMoniker": "C:\\Users\\mavez\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0428\u0430\u0433 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u041E\u0431\u044A\u0435\u043C\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC 9\\ASP.NET MVC 9\\Data\\Entity\\Breed.cs",
+              "RelativeDocumentMoniker": "ASP.NET MVC 9\\Data\\Entity\\Breed.cs",
+              "ToolTip": "C:\\Users\\mavez\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0428\u0430\u0433 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u041E\u0431\u044A\u0435\u043C\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC 9\\ASP.NET MVC 9\\Data\\Entity\\Breed.cs",
+              "RelativeToolTip": "ASP.NET MVC 9\\Data\\Entity\\Breed.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-26T21:58:19.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\mavez\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0428\u0430\u0433 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u041E\u0431\u044A\u0435\u043C\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC 9\\ASP.NET MVC 9\\Data\\Entity\\Cat.cs",
+              "RelativeDocumentMoniker": "ASP.NET MVC 9\\Data\\Entity\\Cat.cs",
+              "ToolTip": "C:\\Users\\mavez\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0428\u0430\u0433 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u041E\u0431\u044A\u0435\u043C\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC 9\\ASP.NET MVC 9\\Data\\Entity\\Cat.cs",
+              "RelativeToolTip": "ASP.NET MVC 9\\Data\\Entity\\Cat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-26T21:58:18.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CatContext.cs",
+              "DocumentMoniker": "C:\\Users\\mavez\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0428\u0430\u0433 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u041E\u0431\u044A\u0435\u043C\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC 9\\ASP.NET MVC 9\\Data\\Entity\\CatContext.cs",
+              "RelativeDocumentMoniker": "ASP.NET MVC 9\\Data\\Entity\\CatContext.cs",
+              "ToolTip": "C:\\Users\\mavez\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0428\u0430\u0433 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u041E\u0431\u044A\u0435\u043C\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC 9\\ASP.NET MVC 9\\Data\\Entity\\CatContext.cs",
+              "RelativeToolTip": "ASP.NET MVC 9\\Data\\Entity\\CatContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-26T21:58:17.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IndexCatViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mavez\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0428\u0430\u0433 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u041E\u0431\u044A\u0435\u043C\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC 9\\ASP.NET MVC 9\\Models\\CatViewModels\\IndexCatViewModel.cs",
+              "RelativeDocumentMoniker": "ASP.NET MVC 9\\Models\\CatViewModels\\IndexCatViewModel.cs",
+              "ToolTip": "C:\\Users\\mavez\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0428\u0430\u0433 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u041E\u0431\u044A\u0435\u043C\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC 9\\ASP.NET MVC 9\\Models\\CatViewModels\\IndexCatViewModel.cs",
+              "RelativeToolTip": "ASP.NET MVC 9\\Models\\CatViewModels\\IndexCatViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-04T21:39:13.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomFilterTagHelper.cs",
+              "DocumentMoniker": "C:\\Users\\mavez\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0428\u0430\u0433 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u041E\u0431\u044A\u0435\u043C\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC 9\\ASP.NET MVC 9\\TagHelpers\\CustomFilterTagHelper.cs",
+              "RelativeDocumentMoniker": "ASP.NET MVC 9\\TagHelpers\\CustomFilterTagHelper.cs",
+              "ToolTip": "C:\\Users\\mavez\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0428\u0430\u0433 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u041E\u0431\u044A\u0435\u043C\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC 9\\ASP.NET MVC 9\\TagHelpers\\CustomFilterTagHelper.cs",
+              "RelativeToolTip": "ASP.NET MVC 9\\TagHelpers\\CustomFilterTagHelper.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAkwB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-29T00:45:04.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\mavez\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0428\u0430\u0433 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u041E\u0431\u044A\u0435\u043C\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC 9\\ASP.NET MVC 9\\Views\\Cats\\List.cshtml",
+              "RelativeDocumentMoniker": "ASP.NET MVC 9\\Views\\Cats\\List.cshtml",
+              "ToolTip": "C:\\Users\\mavez\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0428\u0430\u0433 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u041E\u0431\u044A\u0435\u043C\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC 9\\ASP.NET MVC 9\\Views\\Cats\\List.cshtml",
+              "RelativeToolTip": "ASP.NET MVC 9\\Views\\Cats\\List.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-29T00:41:55.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\mavez\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0428\u0430\u0433 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u041E\u0431\u044A\u0435\u043C\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC 9\\ASP.NET MVC 9\\Data\\Entity\\SeedData.cs",
+              "RelativeDocumentMoniker": "ASP.NET MVC 9\\Data\\Entity\\SeedData.cs",
+              "ToolTip": "C:\\Users\\mavez\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0428\u0430\u0433 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u041E\u0431\u044A\u0435\u043C\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC 9\\ASP.NET MVC 9\\Data\\Entity\\SeedData.cs",
+              "RelativeToolTip": "ASP.NET MVC 9\\Data\\Entity\\SeedData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-11T22:14:31.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mavez\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0428\u0430\u0433 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u041E\u0431\u044A\u0435\u043C\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC 9\\ASP.NET MVC 9\\Program.cs",
+              "RelativeDocumentMoniker": "ASP.NET MVC 9\\Program.cs",
+              "ToolTip": "C:\\Users\\mavez\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0428\u0430\u0433 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u041E\u0431\u044A\u0435\u043C\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC 9\\ASP.NET MVC 9\\Program.cs",
+              "RelativeToolTip": "ASP.NET MVC 9\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-29T21:45:05.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EditCatViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mavez\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0428\u0430\u0433 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u041E\u0431\u044A\u0435\u043C\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC 9\\ASP.NET MVC 9\\Models\\CatViewModels\\EditCatViewModel.cs",
+              "RelativeDocumentMoniker": "ASP.NET MVC 9\\Models\\CatViewModels\\EditCatViewModel.cs",
+              "ToolTip": "C:\\Users\\mavez\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0428\u0430\u0433 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u041E\u0431\u044A\u0435\u043C\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC 9\\ASP.NET MVC 9\\Models\\CatViewModels\\EditCatViewModel.cs",
+              "RelativeToolTip": "ASP.NET MVC 9\\Models\\CatViewModels\\EditCatViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-12T19:06:54.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\mavez\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0428\u0430\u0433 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u041E\u0431\u044A\u0435\u043C\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC 9\\ASP.NET MVC 9\\Views\\Cats\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ASP.NET MVC 9\\Views\\Cats\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\mavez\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0428\u0430\u0433 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u041E\u0431\u044A\u0435\u043C\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC 9\\ASP.NET MVC 9\\Views\\Cats\\Edit.cshtml",
+              "RelativeToolTip": "ASP.NET MVC 9\\Views\\Cats\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-13T13:50:58.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DetailsCatVIewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mavez\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0428\u0430\u0433 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u041E\u0431\u044A\u0435\u043C\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC 9\\ASP.NET MVC 9\\Models\\CatViewModels\\DetailsCatVIewModel.cs",
+              "RelativeDocumentMoniker": "ASP.NET MVC 9\\Models\\CatViewModels\\DetailsCatVIewModel.cs",
+              "ToolTip": "C:\\Users\\mavez\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0428\u0430\u0433 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u041E\u0431\u044A\u0435\u043C\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC 9\\ASP.NET MVC 9\\Models\\CatViewModels\\DetailsCatVIewModel.cs",
+              "RelativeToolTip": "ASP.NET MVC 9\\Models\\CatViewModels\\DetailsCatVIewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-14T22:53:21.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreateCatViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mavez\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0428\u0430\u0433 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u041E\u0431\u044A\u0435\u043C\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC 9\\ASP.NET MVC 9\\Models\\CatViewModels\\CreateCatViewModel.cs",
+              "RelativeDocumentMoniker": "ASP.NET MVC 9\\Models\\CatViewModels\\CreateCatViewModel.cs",
+              "ToolTip": "C:\\Users\\mavez\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0428\u0430\u0433 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u041E\u0431\u044A\u0435\u043C\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC 9\\ASP.NET MVC 9\\Models\\CatViewModels\\CreateCatViewModel.cs",
+              "RelativeToolTip": "ASP.NET MVC 9\\Models\\CatViewModels\\CreateCatViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-14T22:53:28.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CatDTO.cs",
+              "DocumentMoniker": "C:\\Users\\mavez\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0428\u0430\u0433 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u041E\u0431\u044A\u0435\u043C\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC 9\\ASP.NET MVC 9\\Models\\DTO\\CatDTO.cs",
+              "RelativeDocumentMoniker": "ASP.NET MVC 9\\Models\\DTO\\CatDTO.cs",
+              "ToolTip": "C:\\Users\\mavez\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u0428\u0430\u0433 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u041E\u0431\u044A\u0435\u043C\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC 9\\ASP.NET MVC 9\\Models\\DTO\\CatDTO.cs",
+              "RelativeToolTip": "ASP.NET MVC 9\\Models\\DTO\\CatDTO.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAIBWwBQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-04T21:08:19.973Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

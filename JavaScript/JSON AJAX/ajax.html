@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <button onclick="getDataFromServer()">Get data</button>
+    <div id="main"></div>
+    <script>
+        function getDataFromServer() {
+
+
+            
+            let request = new XMLHttpRequest();
+            request.open("get", "test.txt", false);
+            request.onreadystatechange = () => {
+                if (request.readyState == 4) {
+                    let main = document.getElementById("main");
+                    if (request.status == 200) {
+                        
+                        main.innerText += `Response from server: ${request.responseText}\r`;
+                    }
+                    else {
+                        main.innerText += `Error: ${request.statusText}\r`;
+                    }
+                }
+            }
+            request.send();
+            
+        }
+
+    </script>
+
+</body>
+
+</html>

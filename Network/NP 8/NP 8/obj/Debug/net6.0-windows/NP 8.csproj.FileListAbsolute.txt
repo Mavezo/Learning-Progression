@@ -24,3 +24,29 @@ C:\Users\mavez\source\repos\NP 8\NP 8\obj\Debug\net6.0-windows\refint\NP 8.dll
 C:\Users\mavez\source\repos\NP 8\NP 8\obj\Debug\net6.0-windows\NP 8.pdb
 C:\Users\mavez\source\repos\NP 8\NP 8\obj\Debug\net6.0-windows\NP 8.genruntimeconfig.cache
 C:\Users\mavez\source\repos\NP 8\NP 8\obj\Debug\net6.0-windows\ref\NP 8.dll
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Network\NP 8\NP 8\bin\Debug\net6.0-windows\NP 8.exe
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Network\NP 8\NP 8\bin\Debug\net6.0-windows\NP 8.deps.json
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Network\NP 8\NP 8\bin\Debug\net6.0-windows\NP 8.runtimeconfig.json
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Network\NP 8\NP 8\bin\Debug\net6.0-windows\NP 8.dll
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Network\NP 8\NP 8\bin\Debug\net6.0-windows\NP 8.pdb
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Network\NP 8\NP 8\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Network\NP 8\NP 8\bin\Debug\net6.0-windows\MailKit.dll
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Network\NP 8\NP 8\bin\Debug\net6.0-windows\MimeKit.dll
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Network\NP 8\NP 8\bin\Debug\net6.0-windows\System.Formats.Asn1.dll
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Network\NP 8\NP 8\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Network\NP 8\NP 8\bin\Debug\net6.0-windows\System.Text.Encoding.CodePages.dll
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Network\NP 8\NP 8\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Network\NP 8\NP 8\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Network\NP 8\NP 8\obj\Debug\net6.0-windows\NP 8.csproj.AssemblyReference.cache
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Network\NP 8\NP 8\obj\Debug\net6.0-windows\NP_8.Form1.resources
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Network\NP 8\NP 8\obj\Debug\net6.0-windows\NP 8.csproj.GenerateResource.cache
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Network\NP 8\NP 8\obj\Debug\net6.0-windows\NP 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Network\NP 8\NP 8\obj\Debug\net6.0-windows\NP 8.AssemblyInfoInputs.cache
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Network\NP 8\NP 8\obj\Debug\net6.0-windows\NP 8.AssemblyInfo.cs
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Network\NP 8\NP 8\obj\Debug\net6.0-windows\NP 8.csproj.CoreCompileInputs.cache
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Network\NP 8\NP 8\obj\Debug\net6.0-windows\NP 8.csproj.CopyComplete
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Network\NP 8\NP 8\obj\Debug\net6.0-windows\NP 8.dll
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Network\NP 8\NP 8\obj\Debug\net6.0-windows\refint\NP 8.dll
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Network\NP 8\NP 8\obj\Debug\net6.0-windows\NP 8.pdb
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Network\NP 8\NP 8\obj\Debug\net6.0-windows\NP 8.genruntimeconfig.cache
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\Network\NP 8\NP 8\obj\Debug\net6.0-windows\ref\NP 8.dll

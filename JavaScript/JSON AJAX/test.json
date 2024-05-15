@@ -1,0 +1,6 @@
+{
+    "name": "Roman",
+    "age": 17,
+    "isAdmin": true,
+    "languages": ["C#", "C++"]
+}

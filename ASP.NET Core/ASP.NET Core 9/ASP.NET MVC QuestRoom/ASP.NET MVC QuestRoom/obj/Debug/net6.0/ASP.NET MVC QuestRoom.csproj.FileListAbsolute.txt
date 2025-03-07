@@ -570,7 +570,6 @@ C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объем
 C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\ASP.NET Core\ASP.NET Core 9\ASP.NET MVC QuestRoom\ASP.NET MVC QuestRoom\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\ASP.NET Core\ASP.NET Core 9\ASP.NET MVC QuestRoom\ASP.NET MVC QuestRoom\obj\Debug\net6.0\scopedcss\bundle\ASP.NET MVC QuestRoom.styles.css
 C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\ASP.NET Core\ASP.NET Core 9\ASP.NET MVC QuestRoom\ASP.NET MVC QuestRoom\obj\Debug\net6.0\scopedcss\projectbundle\ASP.NET MVC QuestRoom.bundle.scp.css
-C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\ASP.NET Core\ASP.NET Core 9\ASP.NET MVC QuestRoom\ASP.NET MVC QuestRoom\obj\Debug\net6.0\ASP.NET MVC QuestRoom.csproj.CopyComplete
 C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\ASP.NET Core\ASP.NET Core 9\ASP.NET MVC QuestRoom\ASP.NET MVC QuestRoom\obj\Debug\net6.0\ASP.NET MVC QuestRoom.dll
 C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\ASP.NET Core\ASP.NET Core 9\ASP.NET MVC QuestRoom\ASP.NET MVC QuestRoom\obj\Debug\net6.0\refint\ASP.NET MVC QuestRoom.dll
 C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\ASP.NET Core\ASP.NET Core 9\ASP.NET MVC QuestRoom\ASP.NET MVC QuestRoom\obj\Debug\net6.0\ASP.NET MVC QuestRoom.pdb
@@ -581,3 +580,5 @@ C:\Users\uczen\source\repos\ASP.NET MVC QuestRoom\ASP.NET MVC QuestRoom\bin\Debu
 C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\ASP.NET Core\ASP.NET Core 9\ASP.NET MVC QuestRoom\ASP.NET MVC QuestRoom\bin\Debug\net6.0\wwwroot\css\questCreate.css
 C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\ASP.NET Core\ASP.NET Core 9\ASP.NET MVC QuestRoom\ASP.NET MVC QuestRoom\bin\Debug\net6.0\wwwroot\css\questsIndex.css
 C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\ASP.NET Core\ASP.NET Core 9\ASP.NET MVC QuestRoom\ASP.NET MVC QuestRoom\bin\Debug\net6.0\Models\AdminViewModels\IndexViewModel.cs
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\ASP.NET Core\ASP.NET Core 9\ASP.NET MVC QuestRoom\ASP.NET MVC QuestRoom\obj\Debug\net6.0\ASP.NET MVC QuestRoom.sourcelink.json
+C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\ASP.NET Core\ASP.NET Core 9\ASP.NET MVC QuestRoom\ASP.NET MVC QuestRoom\obj\Debug\net6.0\ASP.NET .89B97B25.Up2Date

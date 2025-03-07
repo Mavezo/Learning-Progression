@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ASP.NET MVC QuestRoom")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+117ce80c0a1b4f2654f293cca5b6f8c033659fbf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85d425d85f55dc0bcca6be48a0081776d14b4f1a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ASP.NET MVC QuestRoom")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ASP.NET MVC QuestRoom")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

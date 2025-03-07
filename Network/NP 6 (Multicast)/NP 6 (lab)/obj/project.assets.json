@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\Network\\NP 6 (Multicast)\\NP 6 (lab)\\NP 6 (lab).csproj",
+      "projectUniqueName": "D:\\Шаг задания\\Объемные работы\\Network\\NP 6 (Multicast)\\NP 6 (lab)\\NP 6 (lab).csproj",
       "projectName": "NP 6 (lab)",
-      "projectPath": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\Network\\NP 6 (Multicast)\\NP 6 (lab)\\NP 6 (lab).csproj",
+      "projectPath": "D:\\Шаг задания\\Объемные работы\\Network\\NP 6 (Multicast)\\NP 6 (lab)\\NP 6 (lab).csproj",
       "packagesPath": "C:\\Users\\mavez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\Network\\NP 6 (Multicast)\\NP 6 (lab)\\obj\\",
+      "outputPath": "D:\\Шаг задания\\Объемные работы\\Network\\NP 6 (Multicast)\\NP 6 (lab)\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mavez\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -64,7 +69,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

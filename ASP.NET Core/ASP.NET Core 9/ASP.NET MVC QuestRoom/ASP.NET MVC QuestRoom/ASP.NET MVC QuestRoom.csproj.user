@@ -11,5 +11,6 @@
     <WebStackScaffolding_DbContextTypeFullName>ASP.NET_MVC_QuestRoom.Data.Entity.QuestRoomContext</WebStackScaffolding_DbContextTypeFullName>
     <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
     <WebStackScaffolding_IsViewGenerationSelected>True</WebStackScaffolding_IsViewGenerationSelected>
+    <NameOfLastUsedPublishProfile>C:\Users\mavez\OneDrive\Робочий стіл\Шаг задания\Объемные работы\ASP.NET Core\ASP.NET Core 9\ASP.NET MVC QuestRoom\ASP.NET MVC QuestRoom\Properties\PublishProfiles\site4852-WebDeploy.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>

@@ -1,0 +1,377 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\ASP.NET MVC QuestRoom.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ASP.NET MVC QuestRoom.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\css\\questCreate.css",
+      "PackagePath": "staticwebassets\\css\\questCreate.css"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\css\\questEdit.css",
+      "PackagePath": "staticwebassets\\css\\questEdit.css"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\css\\questsIndex.css",
+      "PackagePath": "staticwebassets\\css\\questsIndex.css"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\horrorRoom.png",
+      "PackagePath": "staticwebassets\\horrorRoom.png"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\images\\adventureRoom.png",
+      "PackagePath": "staticwebassets\\images\\adventureRoom.png"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\images\\artGalleryRoom.png",
+      "PackagePath": "staticwebassets\\images\\artGalleryRoom.png"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\images\\aviationRoom.png",
+      "PackagePath": "staticwebassets\\images\\aviationRoom.png"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\images\\culinaryRoom.png",
+      "PackagePath": "staticwebassets\\images\\culinaryRoom.png"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\images\\detectiveRoom.png",
+      "PackagePath": "staticwebassets\\images\\detectiveRoom.png"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\images\\fantasyRoom.png",
+      "PackagePath": "staticwebassets\\images\\fantasyRoom.png"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\images\\historicalRoom.png",
+      "PackagePath": "staticwebassets\\images\\historicalRoom.png"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\images\\horrorRoom.png",
+      "PackagePath": "staticwebassets\\images\\horrorRoom.png"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\images\\kidsRoom.png",
+      "PackagePath": "staticwebassets\\images\\kidsRoom.png"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\images\\musicRoom.png",
+      "PackagePath": "staticwebassets\\images\\musicRoom.png"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\images\\mysticRoom.png",
+      "PackagePath": "staticwebassets\\images\\mysticRoom.png"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\images\\pirateRoom.png",
+      "PackagePath": "staticwebassets\\images\\pirateRoom.png"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\images\\sciFiRoom.png",
+      "PackagePath": "staticwebassets\\images\\sciFiRoom.png"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\images\\site\\logo.png",
+      "PackagePath": "staticwebassets\\images\\site\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\images\\site\\shadow.png",
+      "PackagePath": "staticwebassets\\images\\site\\shadow.png"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\images\\spaceRoom.png",
+      "PackagePath": "staticwebassets\\images\\spaceRoom.png"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\images\\sportsRoom.png",
+      "PackagePath": "staticwebassets\\images\\sportsRoom.png"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\images\\spyRoom.png",
+      "PackagePath": "staticwebassets\\images\\spyRoom.png"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\images\\superheroRoom.png",
+      "PackagePath": "staticwebassets\\images\\superheroRoom.png"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\images\\teamBuildingRoom.png",
+      "PackagePath": "staticwebassets\\images\\teamBuildingRoom.png"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\images\\technologyRoom.png",
+      "PackagePath": "staticwebassets\\images\\technologyRoom.png"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\images\\underwaterRoom.png",
+      "PackagePath": "staticwebassets\\images\\underwaterRoom.png"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\images\\wildWestRoom.png",
+      "PackagePath": "staticwebassets\\images\\wildWestRoom.png"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\js\\createQuest.js",
+      "PackagePath": "staticwebassets\\js\\createQuest.js"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\ASP.NET Core\\ASP.NET Core 9\\ASP.NET MVC QuestRoom\\ASP.NET MVC QuestRoom\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.ASP.NET MVC QuestRoom.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.build.ASP.NET MVC QuestRoom.props",
+      "PackagePath": "build\\ASP.NET MVC QuestRoom.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ASP.NET MVC QuestRoom.props",
+      "PackagePath": "buildMultiTargeting\\ASP.NET MVC QuestRoom.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildTransitive.ASP.NET MVC QuestRoom.props",
+      "PackagePath": "buildTransitive\\ASP.NET MVC QuestRoom.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

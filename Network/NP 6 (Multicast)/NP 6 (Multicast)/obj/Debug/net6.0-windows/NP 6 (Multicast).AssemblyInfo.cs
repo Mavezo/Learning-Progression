@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NP 6 (Multicast)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85d425d85f55dc0bcca6be48a0081776d14b4f1a")]
 [assembly: System.Reflection.AssemblyProductAttribute("NP 6 (Multicast)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NP 6 (Multicast)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,11 @@
+#timelineHeader {
+    color: cadetblue;
+    font-size: 24px;
+}
+
+#timelineMessages {
+    list-style-type: none;
+}
+li::marker{
+    content: "\2605";
+}

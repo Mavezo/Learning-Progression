@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NP 3 + ADO.NET (dz) value work")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75662bc64987a09a1a7527f869d5ce03f652a75a")]
 [assembly: System.Reflection.AssemblyProductAttribute("NP 3 + ADO.NET (dz) value work")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NP 3 + ADO.NET (dz) value work")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

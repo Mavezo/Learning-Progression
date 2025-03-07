@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\Network\\NP 3 + ADO.NET (dz) (value work)\\NP 3 + ADO.NET (dz) value work\\NP 3 + ADO.NET (dz) value work.csproj": {}
+    "D:\\Шаг задания\\Объемные работы\\Network\\NP 3 + ADO.NET (dz) (value work)\\NP 3 + ADO.NET (dz) value work\\NP 3 + ADO.NET (dz) value work.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\Network\\NP 3 + ADO.NET (dz) (value work)\\NP 3 + ADO.NET (dz) value work\\NP 3 + ADO.NET (dz) value work.csproj": {
+    "D:\\Шаг задания\\Объемные работы\\Network\\NP 3 + ADO.NET (dz) (value work)\\NP 3 + ADO.NET (dz) value work\\NP 3 + ADO.NET (dz) value work.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\Network\\NP 3 + ADO.NET (dz) (value work)\\NP 3 + ADO.NET (dz) value work\\NP 3 + ADO.NET (dz) value work.csproj",
+        "projectUniqueName": "D:\\Шаг задания\\Объемные работы\\Network\\NP 3 + ADO.NET (dz) (value work)\\NP 3 + ADO.NET (dz) value work\\NP 3 + ADO.NET (dz) value work.csproj",
         "projectName": "NP 3 + ADO.NET (dz) value work",
-        "projectPath": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\Network\\NP 3 + ADO.NET (dz) (value work)\\NP 3 + ADO.NET (dz) value work\\NP 3 + ADO.NET (dz) value work.csproj",
+        "projectPath": "D:\\Шаг задания\\Объемные работы\\Network\\NP 3 + ADO.NET (dz) (value work)\\NP 3 + ADO.NET (dz) value work\\NP 3 + ADO.NET (dz) value work.csproj",
         "packagesPath": "C:\\Users\\mavez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mavez\\OneDrive\\Робочий стіл\\Шаг задания\\Объемные работы\\Network\\NP 3 + ADO.NET (dz) (value work)\\NP 3 + ADO.NET (dz) value work\\obj\\",
+        "outputPath": "D:\\Шаг задания\\Объемные работы\\Network\\NP 3 + ADO.NET (dz) (value work)\\NP 3 + ADO.NET (dz) value work\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mavez\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -34,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -84,7 +89,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

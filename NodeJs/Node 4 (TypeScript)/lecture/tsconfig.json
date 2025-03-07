@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "target": "ES5",
+        "outFile": "js/main.js",
+        "removeComments": true,
+        "sourceMap": true,
+        // "rootDir": "source"
+    },
+    "files": [
+        "source/myuser.ts",
+        "source/app.ts",
+        "source/main.ts"
+    ]
+
+}
